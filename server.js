@@ -5,15 +5,15 @@ const routerCity = require('./routerCity')
 
 
 const server = http.createServer((req, res) => {
-    const requestUrl = url.parse(req.url, true)
+    const requestURL = new URL(req.url, 'https://adalia.pp.ua')
+    console.log(requestURL)
 
-
-    if (requestUrl.pathname.split('/')[1] == 'city') {
-        routerCity(requestUrl, res)
+    if (requestURL.pathname == '/cities') {
+        routerCity(requestURL, res)
     }
 
     else {
-        routerApi(requestUrl, res)
+        routerApi(requestURL, res)
     }
 })
 
