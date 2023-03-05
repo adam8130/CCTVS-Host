@@ -20,6 +20,7 @@ const getTaichung = (targetURL, res) => {
         response.on('end', () => {
             const src = srcReg.exec(data)[1]
             res.end(src.replace('amp;', ''))
+            
         })
     })
     request.on('err', (err) => {

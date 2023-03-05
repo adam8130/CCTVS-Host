@@ -40,11 +40,9 @@ const proxyRequest = (requestURL, cityName, targetURL, res) => {
         console.log(response.headers['content-type'])
         res.writeHead(200, {
             'access-control-allow-origin': '*',
-            'content-type': response.headers['content-type']
+            'content-type': response.headers['content-type'],
         })
-        response.on('data', (chunk) => {
-            res.write(chunk)
-        })
+        response.pipe(res)
         response.on('error', (err) => {
             console.log(err)
         })
