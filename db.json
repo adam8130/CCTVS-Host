@@ -3,6 +3,7 @@
        {
           "title":"頭城交流道",
           "CCTVID":1140804414,
+          "did": 1140804405,
           "SurveillanceDescription":"頭城鎮二城交流道(6)-往礁溪方向全景",
           "PositionLat":"24.838202",
           "PositionLon":"121.790426",
@@ -11,6 +12,7 @@
        {
           "title":"宜蘭交流道",
           "CCTVID":1117956612,
+          "did": 1117956604,
           "SurveillanceDescription":"壯圍鄉192線與國道5側車道-2(3)-全景(北上)",
           "PositionLat":"24.773474",
           "PositionLon":"121.779672",
@@ -19,6 +21,7 @@
        {
           "title":"羅東交流道",
           "CCTVID":1144320309,
+          "did": 1144320301,
           "SurveillanceDescription":"五結鄉中興路1段、北宜高速公路(6)-北上路口全景",
           "PositionLat":"24.671834",
           "PositionLon":"121.796140",
@@ -27,6 +30,7 @@
        {
           "title":"蘇澳交流道",
           "CCTVID":1142252211,
+          "did": 1142252202,
           "SurveillanceDescription":"蘇澳鎮馬賽路、新城北路口-1(4)-CAM2",
           "PositionLat":"24.616199",
           "PositionLon":"121.826208",
@@ -35,6 +39,7 @@
        {
           "title":"礁溪路7段與白雲3路",
           "CCTVID":1141447206,
+          "did": 1141447205,
           "SurveillanceDescription":"礁溪鄉礁溪路7段與白雲3路、6路路口(6)-CAM5",
           "PositionLat":"24.836652",
           "PositionLon":"121.785825",
@@ -43,6 +48,7 @@
        {
           "title":"二城派出所往交流道",
           "CCTVID":1142491208,
+          "did": 1142491201,
           "SurveillanceDescription":"頭城鎮青雲路、二城路口（二城派出所前）(5)-往南下全景",
           "PositionLat":"24.838597",
           "PositionLon":"121.793483",
@@ -51,6 +57,7 @@
        {
           "title":"192線",
           "CCTVID":1117956605,
+          "did": 1117956604,
           "SurveillanceDescription":"壯圍鄉192線、國道5側車道-2(4)-北上全景",
           "PositionLat":"24.773624",
           "PositionLon":"121.779140",
@@ -59,6 +66,7 @@
        {
           "title":"縣民大道",
           "CCTVID":1117957104,
+          "did": 1117957101,
           "SurveillanceDescription":"壯圍鄉國道5道(191甲線)與縣民大道路口-4(4)-全景(北上)",
           "PositionLat":"24.738443",
           "PositionLon":"121.781352",
@@ -67,6 +75,7 @@
        {
           "title":"五結中路",
           "CCTVID":1141153711,
+          "did": 1141153703,
           "SurveillanceDescription":"五結鄉五結中路二段、191甲線路口-1(4)-北上(全景)",
           "PositionLat":"24.685012",
           "PositionLon":"121.797879",
@@ -75,6 +84,7 @@
        {
           "title":"傳藝大道",
           "CCTVID":1141634311,
+          "did": 1141634303,
           "SurveillanceDescription":"五結鄉側車道、傳藝路口-1(3)-往羅東(全景)",
           "PositionLat":"24.683228",
           "PositionLon":"121.826212",
@@ -83,6 +93,7 @@
        {
           "title":"隘丁橋",
           "CCTVID":1141154207,
+          "did": 1141154203,
           "SurveillanceDescription":"蘇澳鎮隘丁橋、海山西路口-1(4)-CAM3",
           "PositionLat":"24.611766",
           "PositionLon":"121.837695",
@@ -91,6 +102,7 @@
        {
           "title":"大溪漁港",
           "CCTVID":1141509905,
+          "did": 1141509904,
           "SurveillanceDescription":"頭城鎮台2線、大溪漁港交岔路口(4)-路口全景",
           "PositionLat":"24.941833",
           "PositionLon":"121.898358",
@@ -99,6 +111,7 @@
        {
           "title":"梗枋漁港",
           "CCTVID":1143867512,
+          "did": 1143867504,
           "SurveillanceDescription":"頭城鎮梗枋漁港(4)-路口全景",
           "PositionLat":"24.904904",
           "PositionLon":"121.869411",
@@ -107,6 +120,7 @@
        {
           "title":"烏石港(蘭陽博物館)",
           "CCTVID":1141509809,
+          "did": 1141509805,
           "SurveillanceDescription":"頭城鎮烏石港入口處(6)-濱海路北往南方向全景",
           "PositionLat":"24.870905",
           "PositionLon":"121.834472",
@@ -115,6 +129,7 @@
        {
           "title":"頭城大橋北端",
           "CCTVID":1140804305,
+          "did": 1140804301,
           "SurveillanceDescription":"頭城鎮青雲路、開蘭東路口(6)-cam1",
           "PositionLat":"24.854308",
           "PositionLon":"121.822550",
@@ -123,6 +138,7 @@
        {
           "title":"大福派出所",
           "CCTVID":1142253506,
+          "did": 1142253502,
           "SurveillanceDescription":"壯圍鄉台2線、192線路口(大福派出所前)(5)-往南全景",
           "PositionLat":"24.800473",
           "PositionLon":"121.816740",
@@ -131,6 +147,7 @@
        {
           "title":"利澤工業區",
           "CCTVID":1141554214,
+          "did": 1141554206,
           "SurveillanceDescription":"五結鄉利澤工業區、利興三路口(6)-五結鄉利澤工業區、利興三路口(全景)往北",
           "PositionLat":"24.662513",
           "PositionLon":"121.828861",
@@ -139,6 +156,7 @@
        {
           "title":"龍德工業區",
           "CCTVID":1103094609,
+          "did": 1103094603,
           "SurveillanceDescription":"蘇澳鎮蘇濱路、自強路口(4)",
           "PositionLat":"24.633926",
           "PositionLon":"121.831741",
@@ -147,6 +165,7 @@
        {
           "title":"馬賽路口",
           "CCTVID":1144206007,
+          "did": 1144206001,
           "SurveillanceDescription":"蘇澳鎮馬賽路、蘇濱路口(6)-CAM1",
           "PositionLat":"24.616822",
           "PositionLon":"121.826734",
@@ -155,6 +174,7 @@
        {
           "title":"蘇澳港",
           "CCTVID":1141554806,
+          "did": 1141554804,
           "SurveillanceDescription":"蘇澳鎮移山路、蘇東中路口-1(4)-全景",
           "PositionLat":"24.596261",
           "PositionLon":"121.856428",
@@ -163,6 +183,7 @@
        {
           "title":"明池",
           "CCTVID":1142102504,
+          "did": 1142102502,
           "SurveillanceDescription":"大同鄉明池派出所前(4)-全景(往明池山莊方向)",
           "PositionLat":"24.650494",
           "PositionLon":"121.473377",
@@ -171,6 +192,7 @@
        {
           "title":"英士",
           "CCTVID":1142490104,
+          "did": 1142490101,
           "SurveillanceDescription":"大同鄉英士橋東端(5)-全景(往宜蘭方向)",
           "PositionLat":"24.611141",
           "PositionLon":"121.527161",
@@ -179,6 +201,7 @@
        {
           "title":"新牛鬥橋",
           "CCTVID":1143999304,
+          "did": 1143999302,
           "SurveillanceDescription":"大同鄉台七線與新牛鬥橋頭(5)-往英士方向全景",
           "PositionLat":"24.644054",
           "PositionLon":"121.564446",
@@ -187,6 +210,7 @@
        {
           "title":"松羅",
           "CCTVID":1144061511,
+          "did": 1144061502,
           "SurveillanceDescription":"大同鄉台7線96.5K、松羅中巷(6)-CAM2",
           "PositionLat":"24.655622",
           "PositionLon":"121.580689",
@@ -195,6 +219,7 @@
        {
           "title":"泰雅橋",
           "CCTVID":1144061106,
+          "did": 1144061101,
           "SurveillanceDescription":"大同鄉泰雅橋北端(往崙埤)(4)-CAM1",
           "PositionLat":"24.671302",
           "PositionLon":"121.606303",
@@ -203,6 +228,7 @@
        {
           "title":"大同鄉公所",
           "CCTVID":1141154406,
+          "did": 1141154404,
           "SurveillanceDescription":"大同鄉台7線102.1k、朝陽巷(大同鄉公所)(4)-全景",
           "PositionLat":"24.676029",
           "PositionLon":"121.609803",
@@ -211,6 +237,7 @@
        {
           "title":"粗坑",
           "CCTVID":1144271901,
+          "did": 1144271901,
           "SurveillanceDescription":"員山鄉員山路3段與粗坑路口(4)-路口全景",
           "PositionLat":"24.706885",
           "PositionLon":"121.647554",
@@ -219,6 +246,7 @@
        {
           "title":"員山公園",
           "CCTVID":1103583208,
+          "did": 1103583203,
           "SurveillanceDescription":"員山鄉員山路1段、復興路口-1(3)-全景(往宜蘭市方向)",
           "PositionLat":"24.744000",
           "PositionLon":"121.724578",
@@ -227,6 +255,7 @@
        {
           "title":"員山米粉",
           "CCTVID":1104481702,
+          "did": 1104481701,
           "SurveillanceDescription":"員山鄉金山西路、金山東路口-1(4)-全景(往宜蘭市)",
           "PositionLat":"24.746547",
           "PositionLon":"121.728739",
@@ -235,6 +264,7 @@
        {
           "title":"金六結",
           "CCTVID":1119682810,
+          "did": 1119682801,
           "SurveillanceDescription":"宜蘭市復興路、泰山路口-1(4)-全景（往宜蘭市）",
           "PositionLat":"24.751695",
           "PositionLon":"121.738476",
@@ -243,6 +273,7 @@
        {
           "title":"臺銀",
           "CCTVID":1140803409,
+          "did": 1140803402,
           "SurveillanceDescription":"宜蘭市中山路台銀前-2(5)-全景(往神農路)114",
           "PositionLat":"",
           "PositionLon":"",
@@ -251,6 +282,7 @@
        {
           "title":"東港夜市",
           "CCTVID":1142756208,
+          "did": 1142756201,
           "SurveillanceDescription":"宜蘭市舊城東路與東港橋口-1(4)-全景(往東港橋方向)",
           "PositionLat":"",
           "PositionLon":"",
@@ -259,6 +291,7 @@
        {
           "title":"果菜市場(新夜市)",
           "CCTVID":1142756404,
+          "did": 1142756402,
           "SurveillanceDescription":"(109_HD)宜蘭市校舍路與東港路口(6)-全景(往宜蘭市方向)",
           "PositionLat":"",
           "PositionLon":"",
@@ -267,6 +300,7 @@
        {
           "title":"縣民大道",
           "CCTVID":1105226906,
+          "did": 1105226904,
           "SurveillanceDescription":"(97)壯圍鄉台7線、縣民大道路口-2(4)-全景(南下往壯圍大橋)",
           "PositionLat":"",
           "PositionLon":"",
@@ -275,6 +309,7 @@
        {
           "title":"南山",
           "CCTVID":1144061008,
+          "did": 1144061001,
           "SurveillanceDescription":"(110_HD)大同鄉南山加油站前(4)-CAM1",
           "PositionLat":"",
           "PositionLon":"",
@@ -283,6 +318,7 @@
        {
           "title":"牛鬥",
           "CCTVID":1122815304,
+          "did": 1122815303,
           "SurveillanceDescription":"(99)大同鄉泰雅一路(牛鬥巷口)(4)-全景",
           "PositionLat":"",
           "PositionLon":"",
@@ -291,6 +327,7 @@
        {
           "title":"福山(卜肉)",
           "CCTVID":1103095808,
+          "did": 1103095801,
           "SurveillanceDescription":"(94)三星鄉福山派出所前(4)-1-全景(雜貨店旁)",
           "PositionLat":"",
           "PositionLon":"",
@@ -299,6 +336,7 @@
        {
           "title":"三星市場口",
           "CCTVID":1118897508,
+          "did": 1118897501,
           "SurveillanceDescription":"95(100V-S)三星鄉三星路與中山路口-2(4)-全景(往三星路方向)",
           "PositionLat":"",
           "PositionLon":"",
@@ -307,6 +345,7 @@
        {
           "title":"聖母護專前",
           "CCTVID":1121509005,
+          "did": 1121509003,
           "SurveillanceDescription":"(101V-S)三星鄉三星路二段265巷263號前-1(4)-全景(往三星)",
           "PositionLat":"",
           "PositionLon":"",
@@ -315,6 +354,7 @@
        {
           "title":"廣興派出所",
           "CCTVID":1143999904,
+          "did": 1143999903,
           "SurveillanceDescription":"(110_HD)冬山鄉廣興路、永興路口(4)-往羅東方向",
           "PositionLat":"",
           "PositionLon":"",
@@ -323,6 +363,7 @@
        {
           "title":"羅東市區",
           "CCTVID":1141264811,
+          "did": 1141264802,
           "SurveillanceDescription":"(108_HD)羅東鎮純精路、中山路口(5)-往純精路、中山路口(全景)",
           "PositionLat":"",
           "PositionLon":"",
@@ -331,6 +372,7 @@
        {
           "title":"礁溪路6段",
           "CCTVID":1141447409,
+          "did": 1141447406,
           "SurveillanceDescription":"(108_HD)礁溪鄉礁溪路、白雲二路口(6)-CAM6",
           "PositionLat":"",
           "PositionLon":"",
@@ -339,6 +381,7 @@
        {
           "title":"礁溪市區北端",
           "CCTVID":1104187802,
+          "did": 1104187801,
           "SurveillanceDescription":"(95-2)礁溪鄉中山路2段、公園路口-1(4)-全景(南下)",
           "PositionLat":"",
           "PositionLon":"",
@@ -347,6 +390,7 @@
        {
           "title":"礁溪市區",
           "CCTVID":1142490807,
+          "did": 1142490801,
           "SurveillanceDescription":"(109_HD)礁溪鄉礁溪路5段、德陽路口(6)-全景(往東)",
           "PositionLat":"",
           "PositionLon":"",
@@ -355,6 +399,7 @@
        {
           "title":"礁溪市區南端",
           "CCTVID":1142253708,
+          "did": 1142253702,
           "SurveillanceDescription":"(109_HD)礁溪鄉礁溪路4段、中山路口南端(6)-中山路全景(往南)",
           "PositionLat":"",
           "PositionLon":"",
@@ -363,6 +408,7 @@
        {
           "title":"四城",
           "CCTVID":1141013504,
+          "did": 1141013501,
           "SurveillanceDescription":"(108-HD)礁溪鄉礁溪路、育英路口-1(4)-CAM1",
           "PositionLat":"",
           "PositionLon":"",
@@ -371,6 +417,7 @@
        {
           "title":"環市東路北端",
           "CCTVID":1143926009,
+          "did": 1143926002,
           "SurveillanceDescription":"(110_HD)宜蘭市中山路5段與環市東路口-1(4)-全景(往礁溪)",
           "PositionLat":"",
           "PositionLon":"",
@@ -379,6 +426,7 @@
        {
           "title":"黎霧橋",
           "CCTVID":1141012811,
+          "did": 1141012806,
           "SurveillanceDescription":"(108-HD)宜蘭市黎霧橋北端(一)(6)-往宜市七張路方向全景",
           "PositionLat":"",
           "PositionLon":"",
@@ -387,6 +435,7 @@
        {
           "title":"東港路口",
           "CCTVID":1142755709,
+          "did": 1142755701,
           "SurveillanceDescription":"(109_HD)宜蘭市延平路與環市東路口-2(4)-全景(往七張橋方向)",
           "PositionLat":"",
           "PositionLon":"",
@@ -395,6 +444,7 @@
        {
           "title":"縣民大道路口",
           "CCTVID":1105371909,
+          "did": 1105371904,
           "SurveillanceDescription":"(97-2)宜蘭市縣民大道與環市道路口-1(4)-View",
           "PositionLat":"",
           "PositionLon":"",
@@ -403,6 +453,7 @@
        {
           "title":"蘭陽大橋北端",
           "CCTVID":1103094909,
+          "did": 1103094901,
           "SurveillanceDescription":"94(100V-S)宜蘭市中山路一段蘭陽大橋北端路口-1(3)全景",
           "PositionLat":"",
           "PositionLon":"",
@@ -411,6 +462,7 @@
        {
           "title":"監理站路口",
           "CCTVID":1143238702,
+          "did": 1143238701,
           "SurveillanceDescription":"(109_HD)五結鄉中正路2段、中興路3段口-監理站旁(4)-北上全景",
           "PositionLat":"",
           "PositionLon":"",
@@ -419,6 +471,7 @@
        {
           "title":"羅東環鎮道路北端",
           "CCTVID":1143999503,
+          "did": 1143999502,
           "SurveillanceDescription":"(110_HD)羅東鎮純精路三段、中正北路口-1(4)-全景(往陸橋方向)",
           "PositionLat":"",
           "PositionLon":"",
@@ -427,6 +480,7 @@
        {
           "title":"公正路口",
           "CCTVID":1104483006,
+          "did": 1104483001,
           "SurveillanceDescription":"(96)羅東鎮純精路2段、公正路口-3(4)-全景(往冬山)",
           "PositionLat":"",
           "PositionLon":"",
@@ -435,6 +489,7 @@
        {
           "title":"羅東環鎮道路南端",
           "CCTVID":1143238303,
+          "did": 1143238301,
           "SurveillanceDescription":"(109_HD)冬山鄉冬山路3段、冬山路5段口(6)-CAM1",
           "PositionLat":"",
           "PositionLon":"",
@@ -443,6 +498,7 @@
        {
           "title":"冬山市區北端",
           "CCTVID":1141554708,
+          "did": 1141554706,
           "SurveillanceDescription":"(108_HD)冬山鄉冬山路2段、冬山路口(6)-往羅東方向(全景)",
           "PositionLat":"",
           "PositionLon":"",
@@ -451,6 +507,7 @@
        {
           "title":"冬山國中",
           "CCTVID":1144318504,
+          "did": 1144318501,
           "SurveillanceDescription":"(110_HD)冬山鄉冬山路1段與照安路口(6)-全景(南下)",
           "PositionLat":"",
           "PositionLon":"",
@@ -459,6 +516,7 @@
        {
           "title":"武荖坑入口",
           "CCTVID":1143998809,
+          "did": 1143998805,
           "SurveillanceDescription":"(110_HD)武荖坑入口處(6)-全景",
           "PositionLat":"",
           "PositionLon":"",
@@ -467,6 +525,7 @@
        {
           "title":"蘇澳新站",
           "CCTVID":1142252410,
+          "did": 1142252404,
           "SurveillanceDescription":"(109_HD)蘇澳鎮蘇澳火車站新站前入口(4)-路口全景",
           "PositionLat":"",
           "PositionLon":"",
@@ -475,6 +534,7 @@
        {
           "title":"蘇澳國中",
           "CCTVID":1104188602,
+          "did": 1104188601,
           "SurveillanceDescription":"95-2(100V-S)蘇澳國中前-1(3)-全景(往冬山方向)",
           "PositionLat":"",
           "PositionLon":"",
@@ -483,6 +543,7 @@
        {
           "title":"白米橋",
           "CCTVID":1142761809,
+          "did": 1142761802,
           "SurveillanceDescription":"(109_HD)蘇澳鎮蘇濱路5段101號旁(蘇花公路入口)(5)-往蘇澳市區方向(全景)",
           "PositionLat":"",
           "PositionLon":"",
@@ -491,6 +552,7 @@
        {
           "title":"蘇花改蘇澳端",
           "CCTVID":1140885006,
+          "did": 1140885001,
           "SurveillanceDescription":"(108_HD)蘇澳鎮台9線、蘇港路口(4)-往蘇港路北上全景",
           "PositionLat":"",
           "PositionLon":"",
@@ -499,6 +561,7 @@
        {
           "title":"蘇花改東澳端",
           "CCTVID":1138381109,
+          "did": 1138381101,
           "SurveillanceDescription":"(107)南澳鄉蘇花改東澳端路口-1(3)-往南澳方向全景",
           "PositionLat":"",
           "PositionLon":"",
@@ -507,6 +570,7 @@
        {
           "title":"蘇澳端入口",
           "CCTVID":1142761805,
+          "did": 1142761801,
           "SurveillanceDescription":"(109_HD)蘇澳鎮蘇濱路5段101號旁(蘇花公路入口)(5)-往南方澳方向(全景)",
           "PositionLat":"",
           "PositionLon":"",
@@ -515,6 +579,7 @@
        {
           "title":"南澳",
           "CCTVID":1142762005,
+          "did": 1142762002,
           "SurveillanceDescription":"(109_HD)南澳鄉中正路與蘇花路2段251號路口(6)-全景(南下)",
           "PositionLat":"",
           "PositionLon":"",
@@ -523,6 +588,7 @@
        {
           "title":"漢本",
           "CCTVID":1142761601,
+          "did": 1142761601,
           "SurveillanceDescription":"(109_HD)南澳鄉台9線153K(漢本火車站前)(4)-全景(往宜蘭方向)",
           "PositionLat":"",
           "PositionLon":"",
@@ -531,6 +597,7 @@
        {
           "title":"澳花",
           "CCTVID":1142762304,
+          "did": 1142762301,
           "SurveillanceDescription":"(109_HD)南澳鄉澳花村出入口(漢本隧道口)(4)-全景(往花蓮方向)",
           "PositionLat":"",
           "PositionLon":"",
@@ -539,6 +606,7 @@
        {
           "title":"頂埔",
           "CCTVID":1141447309,
+          "did": 1141447302,
           "SurveillanceDescription":"(108_HD)頭城鎮青雲路2段、三和路口(6)-CAM2",
           "PositionLat":"",
           "PositionLon":"",
@@ -547,6 +615,7 @@
        {
           "title":"中崙橋",
           "CCTVID":1119685403,
+          "did": 1119685401,
           "SurveillanceDescription":"(104維)頭城鎮中崙橋北端(4)-中崙橋全景(橋頭南側)",
           "PositionLat":"",
           "PositionLon":"",
@@ -555,6 +624,7 @@
        {
           "title":"踏踏路(宜6線)",
           "CCTVID":1141154113,
+          "did": 1141154105,
           "SurveillanceDescription":"(108_HD)台191線、宜6線路口(玉田弄獅)(6)-CAM5",
           "PositionLat":"",
           "PositionLon":"",
@@ -563,6 +633,7 @@
        {
           "title":"七張橋南端",
           "CCTVID":1129678008,
+          "did": 1129678002,
           "SurveillanceDescription":"(104)宜蘭市七張路、河濱路口(七張橋南端)(4)七張橋南端往北端方向(全景)",
           "PositionLat":"",
           "PositionLon":"",
@@ -571,6 +642,7 @@
        {
           "title":"黎霧橋南端",
           "CCTVID":1142755707,
+          "did": 1142755701,
           "SurveillanceDescription":"(109_HD)宜蘭市延平路與環市東路口-2(4)-全景(往七張橋方向)",
           "PositionLat":"",
           "PositionLon":"",
@@ -579,6 +651,7 @@
        {
           "title":"大福派出所",
           "CCTVID":1142253503,
+          "did": 1142253502,
           "SurveillanceDescription":"(109_HD)壯圍鄉台2線、192線路口(大福派出所前)(5)-往南全景",
           "PositionLat":"",
           "PositionLon":"",
@@ -587,6 +660,7 @@
        {
           "title":"永美路口",
           "CCTVID":1144352902,
+          "did": 1144352901,
           "SurveillanceDescription":"(110_HD)壯圍鄉大福路3段與永美路口(5)-CAM1",
           "PositionLat":"",
           "PositionLon":"",
@@ -595,6 +669,7 @@
        {
           "title":"國5側車道",
           "CCTVID":1117956604,
+          "did": 1117956604,
           "SurveillanceDescription":"(99)壯圍鄉192線與國道5側車道-2(3)-全景(北上)",
           "PositionLat":"",
           "PositionLon":"",
@@ -603,6 +678,7 @@
        {
           "title":"環市東路口",
           "CCTVID":1143925310,
+          "did": 1143925304,
           "SurveillanceDescription":"(110_HD)宜蘭市環市東路與大福路口-1(4)-全景(往國道礁溪)",
           "PositionLat":"",
           "PositionLon":"",
@@ -611,6 +687,7 @@
        {
           "title":"七張路口",
           "CCTVID":1142757011,
+          "did": 1142757002,
           "SurveillanceDescription":"(109_HD)宜蘭市大福路1段與七張路口(6)-全景(往七張路方向)",
           "PositionLat":"",
           "PositionLon":"",
@@ -619,6 +696,7 @@
        {
           "title":"中山路5段路口",
           "CCTVID":1142756702,
+          "did": 1142756701,
           "SurveillanceDescription":"(109_HD)宜蘭市中山路5段與大福路1段路口(5)-全景(往宜蘭橋方向)",
           "PositionLat":"",
           "PositionLon":"",
@@ -627,6 +705,7 @@
        {
           "title":"育龍路口",
           "CCTVID":1143062606,
+          "did": 1143062601,
           "SurveillanceDescription":"(109_HD)礁溪鄉大坡路、育龍路口(4)-全景",
           "PositionLat":"",
           "PositionLon":"",
@@ -635,6 +714,7 @@
        {
           "title":"梅洲一路口",
           "CCTVID":1105225008,
+          "did": 1105225001,
           "SurveillanceDescription":"(97)宜蘭市梅洲一路、大坡路口(4)-全景",
           "PositionLat":"",
           "PositionLon":"",
@@ -643,6 +723,7 @@
        {
           "title":"孝威派出所",
           "CCTVID":1104483306,
+          "did": 1104483302,
           "SurveillanceDescription":"(96)五結鄉五結路2段、孝威路口-1(4)-往五結全景",
           "PositionLat":"",
           "PositionLon":"",
@@ -651,6 +732,7 @@
        {
           "title":"五結中路",
           "CCTVID":1143237703,
+          "did": 1143237701,
           "SurveillanceDescription":"(109_HD)五結鄉五結中路、五結路2段路口(6)-CAM1",
           "PositionLat":"",
           "PositionLon":"",
@@ -659,6 +741,7 @@
        {
           "title":"歪仔歪橋東端",
           "CCTVID":1141153906,
+          "did": 1141153902,
           "SurveillanceDescription":"(108_HD)羅東河濱路、復興路(歪仔歪橋)-1(3)-往三星方向全景",
           "PositionLat":"",
           "PositionLon":"",
@@ -667,6 +750,7 @@
        {
           "title":"大洲",
           "CCTVID":1141013804,
+          "did": 1141013801,
           "SurveillanceDescription":"(108-HD)三星鄉大洲橋北端、五分路2段口(6)-全景",
           "PositionLat":"",
           "PositionLon":"",
@@ -675,6 +759,7 @@
        {
           "title":"大義",
           "CCTVID":1142737102,
+          "did": 1142737101,
           "SurveillanceDescription":"(109_HD)三星鄉台7丙線、宜49線口(6)-全景(往三星)",
           "PositionLat":"",
           "PositionLon":"",
@@ -683,6 +768,7 @@
        {
           "title":"三星國中",
           "CCTVID":1103584902,
+          "did": 1103584901,
           "SurveillanceDescription":"(95)三星鄉三星路、中山路口-1(4)-全景(往市場、柑仔坑方向)",
           "PositionLat":"",
           "PositionLon":"",
@@ -691,6 +777,7 @@
        {
           "title":"大溪漁港",
           "CCTVID":1141509907,
+          "did": 1141509904,
           "SurveillanceDescription":"(108_HD)頭城鎮台2線、大溪漁港交岔路口(4)-路口全景",
           "PositionLat":"",
           "PositionLon":"",
@@ -699,6 +786,7 @@
        {
           "title":"梗枋漁港",
           "CCTVID":1143867509,
+          "did": 1143867504,
           "SurveillanceDescription":"(110_HD)頭城鎮梗枋漁港(4)-路口全景",
           "PositionLat":"",
           "PositionLon":"",
@@ -707,6 +795,7 @@
        {
           "title":"烏石港(蘭陽博物館)",
           "CCTVID":1141509811,
+          "did": 1141509806,
           "SurveillanceDescription":"(108_HD)頭城鎮烏石港入口處(6)-烏石港路往濱海路全景",
           "PositionLat":"",
           "PositionLon":"",
@@ -715,6 +804,7 @@
        {
           "title":"龍潭湖風景區",
           "CCTVID":1121714504,
+          "did": 1121714504,
           "SurveillanceDescription":"(101)礁溪鄉漳福路口(龍潭湖出入口)(4)-全景",
           "PositionLat":"",
           "PositionLon":"",
@@ -723,6 +813,7 @@
        {
           "title":"中興文創園區",
           "CCTVID":1144319601,
+          "did": 1144319601,
           "SurveillanceDescription":"(110_HD)五結鄉中興文創路口(6)-CAM1",
           "PositionLat":"",
           "PositionLon":"",
@@ -731,6 +822,7 @@
        {
           "title":"宜蘭運動公園",
           "CCTVID":1142214409,
+          "did": 1142214402,
           "SurveillanceDescription":"(109_HD)宜蘭市嵐峰路、健康路1段口-2(5)-全景(往擺厘路方向)",
           "PositionLat":"",
           "PositionLon":"",
@@ -739,6 +831,7 @@
        {
           "title":"羅東運動公園",
           "CCTVID":1144207005,
+          "did": 1144207001,
           "SurveillanceDescription":"(110_HD)羅東鎮北成路、公正路口(觀天下)(6)-CAM1",
           "PositionLat":"",
           "PositionLon":"",
@@ -747,6 +840,7 @@
        {
           "title":"武荖坑風景區",
           "CCTVID":1143998806,
+          "did": 1143998805,
           "SurveillanceDescription":"(110_HD)武荖坑入口處(6)-全景",
           "PositionLat":"",
           "PositionLon":"",
@@ -755,6 +849,7 @@
        {
           "title":"南方澳漁港",
           "CCTVID":1144206602,
+          "did": 1144206602,
           "SurveillanceDescription":"(110_HD)蘇澳鎮江夏路、跨港路口(6)-CAM2",
           "PositionLat":"",
           "PositionLon":"",
@@ -763,6 +858,7 @@
        {
           "title":"礁溪溫泉公園",
           "CCTVID":1104187803,
+          "did": 1104187801,
           "SurveillanceDescription":"(95-2)礁溪鄉中山路2段、公園路口-1(4)-全景(南下)",
           "PositionLat":"",
           "PositionLon":"",
@@ -771,6 +867,7 @@
        {
           "title":"湯圍溝公園",
           "CCTVID":1142490810,
+          "did": 1142490801,
           "SurveillanceDescription":"(109_HD)礁溪鄉礁溪路5段、德陽路口(6)-全景(往東)",
           "PositionLat":"",
           "PositionLon":"",
@@ -779,6 +876,7 @@
        {
           "title":"湯圍溝公園",
           "CCTVID":1142491303,
+          "did": 1142491301,
           "SurveillanceDescription":"(109_HD)礁溪鄉德陽路、仁愛路口(6)-全景(往北)",
           "PositionLat":"",
           "PositionLon":"",
@@ -787,6 +885,7 @@
        {
           "title":"湯圍溝公園",
           "CCTVID":1142491302,
+          "did": 1142491302,
           "SurveillanceDescription":"(109_HD)礁溪鄉德陽路、仁愛路口(6)-全景(往南)",
           "PositionLat":"",
           "PositionLon":"",
@@ -795,6 +894,7 @@
        {
           "title":"宜蘭火車站",
           "CCTVID":1141657508,
+          "did": 1141657501,
           "SurveillanceDescription":"(108_HD)宜蘭市宜興路1段、光復路口(火車站)(5)-往火車站(全景)",
           "PositionLat":"",
           "PositionLon":"",
@@ -803,6 +903,7 @@
        {
           "title":"梅花湖",
           "CCTVID":1126867803,
+          "did": 1126867801,
           "SurveillanceDescription":"(103捐)冬山鄉大埤路與梅湖路口-1-往梅花湖全景",
           "PositionLat":"",
           "PositionLon":"",
@@ -811,6 +912,7 @@
        {
           "title":"清溝夜市",
           "CCTVID":1144443402,
+          "did": 1144443402,
           "SurveillanceDescription":"(110_HD)冬山鄉永興路2段、清溝路口(6)-全景往廣興",
           "PositionLat":"",
           "PositionLon":"",
@@ -819,6 +921,7 @@
        {
           "title":"羅東夜市",
           "CCTVID":1142588902,
+          "did": 1142588902,
           "SurveillanceDescription":"(109_HD)羅東鎮興東路、民權路口(5)-往屈臣氏方向全景",
           "PositionLat":"",
           "PositionLon":"",
@@ -827,6 +930,7 @@
        {
           "title":"羅東夜市",
           "CCTVID":1142588803,
+          "did": 1142588801,
           "SurveillanceDescription":"(109_HD)羅東鎮興東路、民生路口(5)-往中山公園方向全景",
           "PositionLat":"",
           "PositionLon":"",

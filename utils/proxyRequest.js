@@ -2,8 +2,6 @@ const http = require('http')
 const https = require('https')
 
 
-
-'YilanCounty'
 const proxyRequest = (requestURL, cityName, targetURL, res) => {
 
     const edgeCase1 = ['Keelung', 'Taoyuan']
