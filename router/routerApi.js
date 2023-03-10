@@ -2,7 +2,6 @@ const http = require('http')
 const https = require('https')
 const getNewTaipei = require('../utils/getNewTaipei')
 const getTaichung = require('../utils/getTaichung')
-const getYilanCounty = require('../utils/getYilanCounty')
 const proxyRequest = require('../utils/proxyRequest')
 
 

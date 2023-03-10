@@ -17,6 +17,7 @@ const server = http.createServer((req, res) => {
         routerApi(requestURL, res)
     }
     else if (requestURL.pathname === '/close') {
+        console.log('close')
         res.writeHead(200, {
             'access-control-allow-origin': '*',
         })

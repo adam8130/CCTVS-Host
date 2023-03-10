@@ -275,8 +275,8 @@
           "CCTVID":1140803409,
           "did": 1140803402,
           "SurveillanceDescription":"宜蘭市中山路台銀前-2(5)-全景(往神農路)114",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.754408",
+          "PositionLon":"121.751920",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1140803402"
        },
        {
@@ -284,8 +284,8 @@
           "CCTVID":1142756208,
           "did": 1142756201,
           "SurveillanceDescription":"宜蘭市舊城東路與東港橋口-1(4)-全景(往東港橋方向)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.758446",
+          "PositionLon":"121.756788",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1142756201"
        },
        {
@@ -293,26 +293,17 @@
           "CCTVID":1142756404,
           "did": 1142756402,
           "SurveillanceDescription":"(109_HD)宜蘭市校舍路與東港路口(6)-全景(往宜蘭市方向)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.752283",
+          "PositionLon":"121.764811",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1142756402"
-       },
-       {
-          "title":"縣民大道",
-          "CCTVID":1105226906,
-          "did": 1105226904,
-          "SurveillanceDescription":"(97)壯圍鄉台7線、縣民大道路口-2(4)-全景(南下往壯圍大橋)",
-          "PositionLat":"",
-          "PositionLon":"",
-          "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1105226904"
        },
        {
           "title":"南山",
           "CCTVID":1144061008,
           "did": 1144061001,
           "SurveillanceDescription":"(110_HD)大同鄉南山加油站前(4)-CAM1",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.438807",
+          "PositionLon":"121.379068",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1144061001"
        },
        {
@@ -320,8 +311,8 @@
           "CCTVID":1122815304,
           "did": 1122815303,
           "SurveillanceDescription":"(99)大同鄉泰雅一路(牛鬥巷口)(4)-全景",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.639930",
+          "PositionLon":"121.576584",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1122815303"
        },
        {
@@ -329,26 +320,17 @@
           "CCTVID":1103095808,
           "did": 1103095801,
           "SurveillanceDescription":"(94)三星鄉福山派出所前(4)-1-全景(雜貨店旁)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.661783",
+          "PositionLon":"121.621666",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1103095801"
-       },
-       {
-          "title":"三星市場口",
-          "CCTVID":1118897508,
-          "did": 1118897501,
-          "SurveillanceDescription":"95(100V-S)三星鄉三星路與中山路口-2(4)-全景(往三星路方向)",
-          "PositionLat":"",
-          "PositionLon":"",
-          "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1118897501"
        },
        {
           "title":"聖母護專前",
           "CCTVID":1121509005,
           "did": 1121509003,
           "SurveillanceDescription":"(101V-S)三星鄉三星路二段265巷263號前-1(4)-全景(往三星)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.667603",
+          "PositionLon":"121.701808",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1121509003"
        },
        {
@@ -356,8 +338,8 @@
           "CCTVID":1143999904,
           "did": 1143999903,
           "SurveillanceDescription":"(110_HD)冬山鄉廣興路、永興路口(4)-往羅東方向",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.669864",
+          "PositionLon":"121.749108",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1143999903"
        },
        {
@@ -365,8 +347,8 @@
           "CCTVID":1141264811,
           "did": 1141264802,
           "SurveillanceDescription":"(108_HD)羅東鎮純精路、中山路口(5)-往純精路、中山路口(全景)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.674312",
+          "PositionLon":"121.763687",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1141264802"
        },
        {
@@ -374,44 +356,26 @@
           "CCTVID":1141447409,
           "did": 1141447406,
           "SurveillanceDescription":"(108_HD)礁溪鄉礁溪路、白雲二路口(6)-CAM6",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.835694",
+          "PositionLon":"121.783205",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1141447406"
-       },
-       {
-          "title":"礁溪市區北端",
-          "CCTVID":1104187802,
-          "did": 1104187801,
-          "SurveillanceDescription":"(95-2)礁溪鄉中山路2段、公園路口-1(4)-全景(南下)",
-          "PositionLat":"",
-          "PositionLon":"",
-          "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1104187801"
        },
        {
           "title":"礁溪市區",
           "CCTVID":1142490807,
           "did": 1142490801,
           "SurveillanceDescription":"(109_HD)礁溪鄉礁溪路5段、德陽路口(6)-全景(往東)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.827890",
+          "PositionLon":"121.772607",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1142490801"
-       },
-       {
-          "title":"礁溪市區南端",
-          "CCTVID":1142253708,
-          "did": 1142253702,
-          "SurveillanceDescription":"(109_HD)礁溪鄉礁溪路4段、中山路口南端(6)-中山路全景(往南)",
-          "PositionLat":"",
-          "PositionLon":"",
-          "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1142253702"
        },
        {
           "title":"四城",
           "CCTVID":1141013504,
           "did": 1141013501,
           "SurveillanceDescription":"(108-HD)礁溪鄉礁溪路、育英路口-1(4)-CAM1",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.786186",
+          "PositionLon":"121.761426",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1141013501"
        },
        {
@@ -419,8 +383,8 @@
           "CCTVID":1143926009,
           "did": 1143926002,
           "SurveillanceDescription":"(110_HD)宜蘭市中山路5段與環市東路口-1(4)-全景(往礁溪)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.778266",
+          "PositionLon":"121.759233",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1143926002"
        },
        {
@@ -428,8 +392,8 @@
           "CCTVID":1141012811,
           "did": 1141012806,
           "SurveillanceDescription":"(108-HD)宜蘭市黎霧橋北端(一)(6)-往宜市七張路方向全景",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.764439",
+          "PositionLon":"121.771352",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1141012806"
        },
        {
@@ -437,8 +401,8 @@
           "CCTVID":1142755709,
           "did": 1142755701,
           "SurveillanceDescription":"(109_HD)宜蘭市延平路與環市東路口-2(4)-全景(往七張橋方向)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.757675",
+          "PositionLon":"121.774718",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1142755701"
        },
        {
@@ -446,8 +410,8 @@
           "CCTVID":1105371909,
           "did": 1105371904,
           "SurveillanceDescription":"(97-2)宜蘭市縣民大道與環市道路口-1(4)-View",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.740560",
+          "PositionLon":"121.771747",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1105371904"
        },
        {
@@ -455,8 +419,8 @@
           "CCTVID":1103094909,
           "did": 1103094901,
           "SurveillanceDescription":"94(100V-S)宜蘭市中山路一段蘭陽大橋北端路口-1(3)全景",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.723080",
+          "PositionLon":"121.769119",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1103094901"
        },
        {
@@ -464,8 +428,8 @@
           "CCTVID":1143238702,
           "did": 1143238701,
           "SurveillanceDescription":"(109_HD)五結鄉中正路2段、中興路3段口-監理站旁(4)-北上全景",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.694250",
+          "PositionLon":"121.769662",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1143238701"
        },
        {
@@ -473,8 +437,8 @@
           "CCTVID":1143999503,
           "did": 1143999502,
           "SurveillanceDescription":"(110_HD)羅東鎮純精路三段、中正北路口-1(4)-全景(往陸橋方向)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.687526",
+          "PositionLon":"121.770760",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1143999502"
        },
        {
@@ -482,8 +446,8 @@
           "CCTVID":1104483006,
           "did": 1104483001,
           "SurveillanceDescription":"(96)羅東鎮純精路2段、公正路口-3(4)-全景(往冬山)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.680044",
+          "PositionLon":"121.764139",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1104483001"
        },
        {
@@ -491,8 +455,8 @@
           "CCTVID":1143238303,
           "did": 1143238301,
           "SurveillanceDescription":"(109_HD)冬山鄉冬山路3段、冬山路5段口(6)-CAM1",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.666981",
+          "PositionLon":"121.772916",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1143238301"
        },
        {
@@ -500,8 +464,8 @@
           "CCTVID":1141554708,
           "did": 1141554706,
           "SurveillanceDescription":"(108_HD)冬山鄉冬山路2段、冬山路口(6)-往羅東方向(全景)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.636103",
+          "PositionLon":"121.787336",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1141554706"
        },
        {
@@ -509,8 +473,8 @@
           "CCTVID":1144318504,
           "did": 1144318501,
           "SurveillanceDescription":"(110_HD)冬山鄉冬山路1段與照安路口(6)-全景(南下)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.632443",
+          "PositionLon":"121.793640",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1144318501"
        },
        {
@@ -518,8 +482,8 @@
           "CCTVID":1143998809,
           "did": 1143998805,
           "SurveillanceDescription":"(110_HD)武荖坑入口處(6)-全景",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.610235",
+          "PositionLon":"121.815270",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1143998805"
        },
        {
@@ -527,8 +491,8 @@
           "CCTVID":1142252410,
           "did": 1142252404,
           "SurveillanceDescription":"(109_HD)蘇澳鎮蘇澳火車站新站前入口(4)-路口全景",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.608529",
+          "PositionLon":"121.826907",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1142252404"
        },
        {
@@ -536,8 +500,8 @@
           "CCTVID":1104188602,
           "did": 1104188601,
           "SurveillanceDescription":"95-2(100V-S)蘇澳國中前-1(3)-全景(往冬山方向)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.596487",
+          "PositionLon":"121.835882",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1104188601"
        },
        {
@@ -545,8 +509,8 @@
           "CCTVID":1142761809,
           "did": 1142761802,
           "SurveillanceDescription":"(109_HD)蘇澳鎮蘇濱路5段101號旁(蘇花公路入口)(5)-往蘇澳市區方向(全景)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.596155",
+          "PositionLon":"121.853326",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1142761802"
        },
        {
@@ -554,8 +518,8 @@
           "CCTVID":1140885006,
           "did": 1140885001,
           "SurveillanceDescription":"(108_HD)蘇澳鎮台9線、蘇港路口(4)-往蘇港路北上全景",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.594234",
+          "PositionLon":"121.846144",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1140885001"
        },
        {
@@ -563,8 +527,8 @@
           "CCTVID":1138381109,
           "did": 1138381101,
           "SurveillanceDescription":"(107)南澳鄉蘇花改東澳端路口-1(3)-往南澳方向全景",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.516921",
+          "PositionLon":"121.830146",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1138381101"
        },
        {
@@ -572,8 +536,8 @@
           "CCTVID":1142761805,
           "did": 1142761801,
           "SurveillanceDescription":"(109_HD)蘇澳鎮蘇濱路5段101號旁(蘇花公路入口)(5)-往南方澳方向(全景)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.593881",
+          "PositionLon":"121.846068",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1142761801"
        },
        {
@@ -581,8 +545,8 @@
           "CCTVID":1142762005,
           "did": 1142762002,
           "SurveillanceDescription":"(109_HD)南澳鄉中正路與蘇花路2段251號路口(6)-全景(南下)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.464594",
+          "PositionLon":"121.800530",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1142762002"
        },
        {
@@ -590,8 +554,8 @@
           "CCTVID":1142761601,
           "did": 1142761601,
           "SurveillanceDescription":"(109_HD)南澳鄉台9線153K(漢本火車站前)(4)-全景(往宜蘭方向)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.335536",
+          "PositionLon":"121.768046",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1142761601"
        },
        {
@@ -599,8 +563,8 @@
           "CCTVID":1142762304,
           "did": 1142762301,
           "SurveillanceDescription":"(109_HD)南澳鄉澳花村出入口(漢本隧道口)(4)-全景(往花蓮方向)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.325936",
+          "PositionLon":"121.746144",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1142762301"
        },
        {
@@ -608,8 +572,8 @@
           "CCTVID":1141447309,
           "did": 1141447302,
           "SurveillanceDescription":"(108_HD)頭城鎮青雲路2段、三和路口(6)-CAM2",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.845380",
+          "PositionLon":"121.807557",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1141447302"
        },
        {
@@ -617,8 +581,8 @@
           "CCTVID":1119685403,
           "did": 1119685401,
           "SurveillanceDescription":"(104維)頭城鎮中崙橋北端(4)-中崙橋全景(橋頭南側)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.829183",
+          "PositionLon":"121.801789",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1119685401"
        },
        {
@@ -626,8 +590,8 @@
           "CCTVID":1141154113,
           "did": 1141154105,
           "SurveillanceDescription":"(108_HD)台191線、宜6線路口(玉田弄獅)(6)-CAM5",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.798345",
+          "PositionLon":"121.786900",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1141154105"
        },
        {
@@ -635,8 +599,8 @@
           "CCTVID":1129678008,
           "did": 1129678002,
           "SurveillanceDescription":"(104)宜蘭市七張路、河濱路口(七張橋南端)(4)七張橋南端往北端方向(全景)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.761429",
+          "PositionLon":"121.779230",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1129678002"
        },
        {
@@ -644,8 +608,8 @@
           "CCTVID":1142755707,
           "did": 1142755701,
           "SurveillanceDescription":"(109_HD)宜蘭市延平路與環市東路口-2(4)-全景(往七張橋方向)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.756677",
+          "PositionLon":"121.771450",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1142755701"
        },
        {
@@ -653,8 +617,8 @@
           "CCTVID":1142253503,
           "did": 1142253502,
           "SurveillanceDescription":"(109_HD)壯圍鄉台2線、192線路口(大福派出所前)(5)-往南全景",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.800579",
+          "PositionLon":"121.816792",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1142253502"
        },
        {
@@ -662,8 +626,8 @@
           "CCTVID":1144352902,
           "did": 1144352901,
           "SurveillanceDescription":"(110_HD)壯圍鄉大福路3段與永美路口(5)-CAM1",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.778066",
+          "PositionLon":"121.788863",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1144352901"
        },
        {
@@ -671,8 +635,8 @@
           "CCTVID":1117956604,
           "did": 1117956604,
           "SurveillanceDescription":"(99)壯圍鄉192線與國道5側車道-2(3)-全景(北上)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.773164",
+          "PositionLon":"121.779225",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1117956604"
        },
        {
@@ -680,8 +644,8 @@
           "CCTVID":1143925310,
           "did": 1143925304,
           "SurveillanceDescription":"(110_HD)宜蘭市環市東路與大福路口-1(4)-全景(往國道礁溪)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.767210",
+          "PositionLon":"121.770642",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1143925304"
        },
        {
@@ -689,8 +653,8 @@
           "CCTVID":1142757011,
           "did": 1142757002,
           "SurveillanceDescription":"(109_HD)宜蘭市大福路1段與七張路口(6)-全景(往七張路方向)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.765688",
+          "PositionLon":"121.767470",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1142757002"
        },
        {
@@ -698,8 +662,8 @@
           "CCTVID":1142756702,
           "did": 1142756701,
           "SurveillanceDescription":"(109_HD)宜蘭市中山路5段與大福路1段路口(5)-全景(往宜蘭橋方向)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.768174",
+          "PositionLon":"121.756102",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1142756701"
        },
        {
@@ -707,8 +671,8 @@
           "CCTVID":1143062606,
           "did": 1143062601,
           "SurveillanceDescription":"(109_HD)礁溪鄉大坡路、育龍路口(4)-全景",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.777389",
+          "PositionLon":"121.743407",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1143062601"
        },
        {
@@ -716,8 +680,8 @@
           "CCTVID":1105225008,
           "did": 1105225001,
           "SurveillanceDescription":"(97)宜蘭市梅洲一路、大坡路口(4)-全景",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.779250",
+          "PositionLon":"121.740973",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1105225001"
        },
        {
@@ -725,8 +689,8 @@
           "CCTVID":1104483306,
           "did": 1104483302,
           "SurveillanceDescription":"(96)五結鄉五結路2段、孝威路口-1(4)-往五結全景",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.694440",
+          "PositionLon":"121.810761",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1104483302"
        },
        {
@@ -734,8 +698,8 @@
           "CCTVID":1143237703,
           "did": 1143237701,
           "SurveillanceDescription":"(109_HD)五結鄉五結中路、五結路2段路口(6)-CAM1",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.684878",
+          "PositionLon":"121.797884",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1143237701"
        },
        {
@@ -743,8 +707,8 @@
           "CCTVID":1141153906,
           "did": 1141153902,
           "SurveillanceDescription":"(108_HD)羅東河濱路、復興路(歪仔歪橋)-1(3)-往三星方向全景",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.703200",
+          "PositionLon":"121.755348",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1141153902"
        },
        {
@@ -752,26 +716,17 @@
           "CCTVID":1141013804,
           "did": 1141013801,
           "SurveillanceDescription":"(108-HD)三星鄉大洲橋北端、五分路2段口(6)-全景",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.692920",
+          "PositionLon":"121.731404",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1141013801"
-       },
-       {
-          "title":"大義",
-          "CCTVID":1142737102,
-          "did": 1142737101,
-          "SurveillanceDescription":"(109_HD)三星鄉台7丙線、宜49線口(6)-全景(往三星)",
-          "PositionLat":"",
-          "PositionLon":"",
-          "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1142737101"
        },
        {
           "title":"三星國中",
           "CCTVID":1103584902,
           "did": 1103584901,
           "SurveillanceDescription":"(95)三星鄉三星路、中山路口-1(4)-全景(往市場、柑仔坑方向)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.667482",
+          "PositionLon":"121.652433",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1103584901"
        },
        {
@@ -779,8 +734,8 @@
           "CCTVID":1141509907,
           "did": 1141509904,
           "SurveillanceDescription":"(108_HD)頭城鎮台2線、大溪漁港交岔路口(4)-路口全景",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.941683",
+          "PositionLon":"121.900816",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1141509904"
        },
        {
@@ -788,8 +743,8 @@
           "CCTVID":1143867509,
           "did": 1143867504,
           "SurveillanceDescription":"(110_HD)頭城鎮梗枋漁港(4)-路口全景",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.905539",
+          "PositionLon":"121.870241",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1143867504"
        },
        {
@@ -797,8 +752,8 @@
           "CCTVID":1141509811,
           "did": 1141509806,
           "SurveillanceDescription":"(108_HD)頭城鎮烏石港入口處(6)-烏石港路往濱海路全景",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.870928",
+          "PositionLon":"121.834569",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1141509806"
        },
        {
@@ -806,8 +761,8 @@
           "CCTVID":1121714504,
           "did": 1121714504,
           "SurveillanceDescription":"(101)礁溪鄉漳福路口(龍潭湖出入口)(4)-全景",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.790609",
+          "PositionLon":"121.743059",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1121714504"
        },
        {
@@ -815,8 +770,8 @@
           "CCTVID":1144319601,
           "did": 1144319601,
           "SurveillanceDescription":"(110_HD)五結鄉中興文創路口(6)-CAM1",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.694268",
+          "PositionLon":"121.770468",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1144319601"
        },
        {
@@ -824,8 +779,8 @@
           "CCTVID":1142214409,
           "did": 1142214402,
           "SurveillanceDescription":"(109_HD)宜蘭市嵐峰路、健康路1段口-2(5)-全景(往擺厘路方向)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.742359",
+          "PositionLon":"121.753111",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1142214402"
        },
        {
@@ -833,35 +788,17 @@
           "CCTVID":1144207005,
           "did": 1144207001,
           "SurveillanceDescription":"(110_HD)羅東鎮北成路、公正路口(觀天下)(6)-CAM1",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.679175",
+          "PositionLon":"121.755441",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1144207001"
-       },
-       {
-          "title":"武荖坑風景區",
-          "CCTVID":1143998806,
-          "did": 1143998805,
-          "SurveillanceDescription":"(110_HD)武荖坑入口處(6)-全景",
-          "PositionLat":"",
-          "PositionLon":"",
-          "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1143998805"
-       },
-       {
-          "title":"南方澳漁港",
-          "CCTVID":1144206602,
-          "did": 1144206602,
-          "SurveillanceDescription":"(110_HD)蘇澳鎮江夏路、跨港路口(6)-CAM2",
-          "PositionLat":"",
-          "PositionLon":"",
-          "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1144206602"
        },
        {
           "title":"礁溪溫泉公園",
           "CCTVID":1104187803,
           "did": 1104187801,
           "SurveillanceDescription":"(95-2)礁溪鄉中山路2段、公園路口-1(4)-全景(南下)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.829303",
+          "PositionLon":"121.776733",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1104187801"
        },
        {
@@ -869,8 +806,8 @@
           "CCTVID":1142490810,
           "did": 1142490801,
           "SurveillanceDescription":"(109_HD)礁溪鄉礁溪路5段、德陽路口(6)-全景(往東)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.827902",
+          "PositionLon":"121.772612",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1142490801"
        },
        {
@@ -878,8 +815,8 @@
           "CCTVID":1142491303,
           "did": 1142491301,
           "SurveillanceDescription":"(109_HD)礁溪鄉德陽路、仁愛路口(6)-全景(往北)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.828859",
+          "PositionLon":"121.771545",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1142491301"
        },
        {
@@ -887,8 +824,8 @@
           "CCTVID":1142491302,
           "did": 1142491302,
           "SurveillanceDescription":"(109_HD)礁溪鄉德陽路、仁愛路口(6)-全景(往南)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.828722",
+          "PositionLon":"121.771550",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1142491302"
        },
        {
@@ -896,8 +833,8 @@
           "CCTVID":1141657508,
           "did": 1141657501,
           "SurveillanceDescription":"(108_HD)宜蘭市宜興路1段、光復路口(火車站)(5)-往火車站(全景)",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.755359",
+          "PositionLon":"121.757815",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1141657501"
        },
        {
@@ -905,8 +842,8 @@
           "CCTVID":1126867803,
           "did": 1126867801,
           "SurveillanceDescription":"(103捐)冬山鄉大埤路與梅湖路口-1-往梅花湖全景",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.650061",
+          "PositionLon":"121.731089",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1126867801"
        },
        {
@@ -914,8 +851,8 @@
           "CCTVID":1144443402,
           "did": 1144443402,
           "SurveillanceDescription":"(110_HD)冬山鄉永興路2段、清溝路口(6)-全景往廣興",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.655845",
+          "PositionLon":"121.760877",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1144443402"
        },
        {
@@ -923,8 +860,8 @@
           "CCTVID":1142588902,
           "did": 1142588902,
           "SurveillanceDescription":"(109_HD)羅東鎮興東路、民權路口(5)-往屈臣氏方向全景",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.676061",
+          "PositionLon":"121.767828",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1142588902"
        },
        {
@@ -932,8 +869,8 @@
           "CCTVID":1142588803,
           "did": 1142588801,
           "SurveillanceDescription":"(109_HD)羅東鎮興東路、民生路口(5)-往中山公園方向全景",
-          "PositionLat":"",
-          "PositionLon":"",
+          "PositionLat":"24.677320",
+          "PositionLon":"121.768235",
           "VideoStreamURL":"https://ilcpb.ivs.hinet.net/public/hls_player?page=ilcpb&did=1142588801"
        }
     ]
