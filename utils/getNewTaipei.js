@@ -7,14 +7,14 @@ const getNewTaipei = async (targetURL, res) => {
     const cctvDevice = targetURL.split('/').pop()
     const queryDeviceURL = 'https://apiatis.ntpc.gov.tw/atis-api/device/queryCCTVURL/' + cctvDevice
     try {
-        const sourceURL = await getSourceURL(queryDeviceURL)
+        const sourceURL = await getSourceURL(queryDeviceURL, res)
         getSourceVideo(sourceURL, res)
     } catch (err) {
         console.log(err)
     }
 }
 
-const getSourceURL = async (queryDeviceURL) => (
+const getSourceURL = async (queryDeviceURL, res) => (
     new Promise((resolve, reject) => {
     const request = https.get(queryDeviceURL, (response) => {
         let data = ''
@@ -24,9 +24,10 @@ const getSourceURL = async (queryDeviceURL) => (
             const responseData = JSON.parse(data)
             if (responseData.data?.url) {
                 console.log(responseData.status)
-                resolve(responseData.data.url)                    
+                resolve(responseData.data.url.replace('/flv', ''))                    
             }
             else {
+                res.end(null)
                 reject(new Error('url not found'))
             }
         })
