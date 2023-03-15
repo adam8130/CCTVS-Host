@@ -1,8 +1,8 @@
 const http = require('http')
 const https = require('https')
 const fs = require('fs')
-const routerApi = require('./router/routerApi')
-const routerCity = require('./router/routerCity')
+const apiRouter = require('./router/apiRouter')
+const cityRouter = require('./router/cityRouter')
 
 const connections = new Set()
 
@@ -11,10 +11,10 @@ const server = http.createServer((req, res) => {
     const requestURL = new URL(req.url, 'https://adalia.pp.ua')
 
     if (requestURL.pathname == '/cities') {
-        routerCity(requestURL, res)
+        cityRouter(requestURL, res)
     }
     else if (requestURL.pathname == '/api') {
-        routerApi(requestURL, res)
+        apiRouter(requestURL, res)
     }
     else if (requestURL.pathname === '/close') {
         console.log('close')

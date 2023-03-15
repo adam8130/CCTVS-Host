@@ -1,12 +1,10 @@
-const http = require('http')
-const https = require('https')
 const getNewTaipei = require('../utils/getNewTaipei')
 const getTaichung = require('../utils/getTaichung')
 const proxyRequest = require('../utils/proxyRequest')
 
 
 
-function routerApi (requestURL, res) {
+function apiRouter (requestURL, res) {
 
     const cityName = requestURL.searchParams.get('cityName')
     const targetURL = requestURL.searchParams.get('url')
@@ -28,4 +26,4 @@ function routerApi (requestURL, res) {
     }
 }
 
-module.exports = routerApi
+module.exports = apiRouter
