@@ -3,7 +3,7 @@ const https = require('https')
 
 
 const getTaichung = (targetURL, res) => {
-    
+    console.log(targetURL)
     const srcReg = /<img.*?src="(.*?)"/g
     const protocol = targetURL.split('://')[0] === 'http' ? http : https
 
