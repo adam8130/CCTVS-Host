@@ -1,0 +1,251 @@
+{
+  "UpdateTime": "2023-08-29T01:52:25+08:00",
+  "UpdateInterval": 21600,
+  "SrcUpdateTime": "2023-08-29T01:01:24+08:00",
+  "SrcUpdateInterval": 86400,
+  "AuthorityCode": "NAN",
+  "CCTVs": [
+    {
+      "CCTVID": "CCTV-051",
+      "LinkID": "4015100001199M",
+      "VideoStreamURL": "https://trafficcctv.nantou.gov.tw/cctv/049033.html",
+      "LocationType": 1,
+      "PositionLon": 120.778848,
+      "PositionLat": 23.718888,
+      "RoadID": "401510",
+      "RoadName": "南投縣鹿谷鄉興產路(縣道151線與投55-2鄉道叉路口12K+000)",
+      "RoadClass": 4
+    },
+    {
+      "CCTVID": "CCTV-005",
+      "LinkID": "6521420000090M",
+      "VideoStreamURL": "https://trafficcctv.nantou.gov.tw/cctv/005.html",
+      "LocationType": 1,
+      "PositionLon": 120.93611,
+      "PositionLat": 23.85133,
+      "RoadID": "652142M",
+      "RoadName": "南投縣魚池鄉日月村中正路101號(青年活動中心入口)",
+      "RoadClass": 6
+    },
+    {
+      "CCTVID": "CCTV-006",
+      "LinkID": "6521420000100M",
+      "VideoStreamURL": "https://trafficcctv.nantou.gov.tw/cctv/006.html",
+      "LocationType": 1,
+      "PositionLon": 120.93227,
+      "PositionLat": 23.84704,
+      "RoadID": "652142M",
+      "RoadName": "南投縣魚池鄉日月村中正路288號(德化派出所)",
+      "RoadClass": 6
+    },
+    {
+      "CCTVID": "CCTV-001",
+      "LinkID": "6526390000010M",
+      "VideoStreamURL": "https://trafficcctv.nantou.gov.tw/cctv/001.html",
+      "LocationType": 1,
+      "PositionLon": 120.68592,
+      "PositionLat": 23.97663,
+      "RoadID": "652639M",
+      "RoadName": "南投縣草屯鎮虎山路口與育英路口",
+      "RoadClass": 6
+    },
+    {
+      "CCTVID": "CCTV-003",
+      "LinkID": "6527910200050M",
+      "VideoStreamURL": "https://trafficcctv.nantou.gov.tw/cctv/003.html",
+      "LocationType": 1,
+      "PositionLon": 120.933332,
+      "PositionLat": 23.898917,
+      "RoadID": "652791M",
+      "RoadName": "南投縣魚池鄉魚池街643號",
+      "RoadClass": 6
+    },
+    {
+      "CCTVID": "CCTV-007",
+      "LinkID": "6521230100070M",
+      "VideoStreamURL": "https://trafficcctv.nantou.gov.tw/cctv/007.html",
+      "LocationType": 1,
+      "PositionLon": 120.89624,
+      "PositionLat": 23.83372,
+      "RoadID": "652123M",
+      "RoadName": "南投縣魚池鄉頭社村和平巷145號(頭社派出所)",
+      "RoadClass": 6
+    },
+    {
+      "CCTVID": "CCTV-009",
+      "LinkID": "6522460000050M",
+      "VideoStreamURL": "https://trafficcctv.nantou.gov.tw/cctv/009.html",
+      "LocationType": 1,
+      "PositionLon": 120.86861,
+      "PositionLat": 23.79441,
+      "RoadID": "652246M",
+      "RoadName": "南投縣水里鄉集里路(台21線)頂崁巷(台16線)路口",
+      "RoadClass": 6
+    },
+    {
+      "CCTVID": "CCTV-018",
+      "LinkID": "4013920001609M",
+      "VideoStreamURL": "https://trafficcctv.nantou.gov.tw/cctv/018.html",
+      "LocationType": 1,
+      "PositionLon": 120.699567,
+      "PositionLat": 23.842569,
+      "RoadID": "401392",
+      "RoadName": "南投縣名間鄉彰南路與山腳巷-名松路",
+      "RoadClass": 4
+    },
+    {
+      "CCTVID": "CCTV-020",
+      "LinkID": "6520680100040M",
+      "VideoStreamURL": "https://trafficcctv.nantou.gov.tw/cctv/020.html",
+      "LocationType": 1,
+      "PositionLon": 120.679343,
+      "PositionLat": 23.757475,
+      "RoadID": "652068M",
+      "RoadName": "南投縣竹山鎮大明路與前山路口",
+      "RoadClass": 6
+    },
+    {
+      "CCTVID": "CCTV-049",
+      "LinkID": "4015100000883M",
+      "VideoStreamURL": "https://trafficcctv.nantou.gov.tw/cctv/049254.html",
+      "LocationType": 1,
+      "PositionLon": 120.760071,
+      "PositionLat": 23.736745,
+      "RoadID": "401510",
+      "RoadName": "南投縣鹿谷鄉中正一路(縣道151線9K+100)(冠軍茶葉旁)",
+      "RoadClass": 4
+    },
+    {
+      "CCTVID": "CCTV-017",
+      "LinkID": "4015100000850M",
+      "VideoStreamURL": "https://trafficcctv.nantou.gov.tw/cctv/017.html",
+      "LocationType": 1,
+      "PositionLon": 120.758004,
+      "PositionLat": 23.7405665,
+      "RoadID": "401510",
+      "RoadName": "南投縣鹿谷鄉中正路一段201號前紅綠燈桿",
+      "RoadClass": 4
+    },
+    {
+      "CCTVID": "CCTV-011",
+      "LinkID": "4015100000307M",
+      "VideoStreamURL": "https://trafficcctv.nantou.gov.tw/cctv/011.html",
+      "LocationType": 1,
+      "PositionLon": 120.73595,
+      "PositionLat": 23.76872,
+      "RoadID": "401510",
+      "RoadName": "南投縣鹿谷鄉縣151線與縣131線路口(往竹山方向)",
+      "RoadClass": 4
+    },
+    {
+      "CCTVID": "CCTV-019",
+      "LinkID": "6529090000090M",
+      "VideoStreamURL": "https://trafficcctv.nantou.gov.tw/cctv/019.html",
+      "LocationType": 1,
+      "PositionLon": 120.701905,
+      "PositionLat": 23.839281,
+      "RoadID": "652909M",
+      "RoadName": "南投縣名間鄉彰南路與董門路-南雅街",
+      "RoadClass": 6
+    },
+    {
+      "CCTVID": "CCTV-012",
+      "LinkID": "4015000104304M",
+      "VideoStreamURL": "https://trafficcctv.nantou.gov.tw/cctv/012.html",
+      "LocationType": 1,
+      "PositionLon": 120.6849588,
+      "PositionLat": 23.8997592,
+      "RoadID": "401500",
+      "RoadName": "南投縣南投市南崗一路與中興路口",
+      "RoadClass": 4
+    },
+    {
+      "CCTVID": "CCTV-013",
+      "LinkID": "6521580100080M",
+      "VideoStreamURL": "https://trafficcctv.nantou.gov.tw/cctv/013.html",
+      "LocationType": 1,
+      "PositionLon": 120.66577,
+      "PositionLat": 23.93429,
+      "RoadID": "652158M",
+      "RoadName": "南投縣南投市南崗三路與中華路口",
+      "RoadClass": 6
+    },
+    {
+      "CCTVID": "CCTV-010",
+      "LinkID": "6522470000000M",
+      "VideoStreamURL": "https://trafficcctv.nantou.gov.tw/cctv/010.html",
+      "LocationType": 1,
+      "PositionLon": 120.865761,
+      "PositionLat": 23.770999,
+      "RoadID": "652247M",
+      "RoadName": "南投縣水里鄉新山橋(台21線)80K~81K前閃黃燈號誌燈桿",
+      "RoadClass": 6
+    },
+    {
+      "CCTVID": "CCTV-047",
+      "LinkID": "6527580100040M",
+      "VideoStreamURL": "https://trafficcctv.nantou.gov.tw/cctv/047.html",
+      "LocationType": 1,
+      "PositionLon": 120.6847384,
+      "PositionLat": 23.9175508,
+      "RoadID": "652758M",
+      "RoadName": "南投縣南投市祖祠路與華陽路口",
+      "RoadClass": 6
+    },
+    {
+      "CCTVID": "CCTV-014",
+      "LinkID": "6522190000040M",
+      "VideoStreamURL": "https://trafficcctv.nantou.gov.tw/cctv/014.html",
+      "LocationType": 1,
+      "PositionLon": 120.68069,
+      "PositionLat": 23.95558,
+      "RoadID": "652219M",
+      "RoadName": "南投縣草屯鎮太平路與省府路口",
+      "RoadClass": 6
+    },
+    {
+      "CCTVID": "CCTV-015",
+      "LinkID": "6521720100030M",
+      "VideoStreamURL": "https://trafficcctv.nantou.gov.tw/cctv/015.html",
+      "LocationType": 1,
+      "PositionLon": 120.6835,
+      "PositionLat": 23.97445,
+      "RoadID": "652172M",
+      "RoadName": "南投縣草屯鎮太平路與中興路口",
+      "RoadClass": 6
+    },
+    {
+      "CCTVID": "CCTV-004",
+      "LinkID": "6521230100010M",
+      "VideoStreamURL": "https://trafficcctv.nantou.gov.tw/cctv/004.html",
+      "LocationType": 1,
+      "PositionLon": 120.9147708,
+      "PositionLat": 23.865956,
+      "RoadID": "652123M",
+      "RoadName": "南投縣魚池鄉水社村中山路65號埔潭幹11",
+      "RoadClass": 6
+    },
+    {
+      "CCTVID": "CCTV-008",
+      "LinkID": "6528990000000M",
+      "VideoStreamURL": "https://trafficcctv.nantou.gov.tw/cctv/008.html",
+      "LocationType": 1,
+      "PositionLon": 120.887915,
+      "PositionLat": 23.823976,
+      "RoadID": "652899M",
+      "RoadName": "南投縣魚池鄉登武村統貴巷3號水里枝46",
+      "RoadClass": 6
+    },
+    {
+      "CCTVID": "CCTV-031",
+      "LinkID": "4015100001765M",
+      "VideoStreamURL": "https://trafficcctv.nantou.gov.tw/cctv/031.html",
+      "LocationType": 1,
+      "PositionLon": 120.795167,
+      "PositionLat": 23.676194,
+      "RoadID": "401510",
+      "RoadName": "南投縣鹿谷鄉興產路(縣道151線18K+450)(溪頭遊樂區門口)",
+      "RoadClass": 4
+    }
+  ]
+}

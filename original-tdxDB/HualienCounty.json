@@ -1,0 +1,3484 @@
+{
+  "UpdateTime": "2023-08-30T00:22:26+08:00",
+  "UpdateInterval": 21600,
+  "SrcUpdateTime": "2023-08-30T00:00:07+08:00",
+  "SrcUpdateInterval": 86400,
+  "AuthorityCode": "HUA",
+  "LinkVersion": "22.09.1",
+  "CCTVs": [
+    {
+      "CCTVID": "CAM01",
+      "LinkID": "3000900018611U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.609036,
+      "PositionLat": 24.0101,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-嘉新路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM02",
+      "LinkID": "3000900018628U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.609165,
+      "PositionLat": 24.00879,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-嘉新路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "S",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM03",
+      "LinkID": "6791130500000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.609355,
+      "PositionLat": 24.009549,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-嘉新路",
+      "RoadID": "road_id2",
+      "RoadName": "嘉新路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM04",
+      "LinkID": "6791130100010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.608631,
+      "PositionLat": 24.009261,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-嘉新路",
+      "RoadID": "road_id2",
+      "RoadName": "嘉新路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM05",
+      "LinkID": "6800300100030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.615788,
+      "PositionLat": 24.008022,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "嘉南路-嘉新路",
+      "RoadID": "road_id3",
+      "RoadName": "嘉南路",
+      "RoadClass": 0,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM06",
+      "LinkID": "6800300500030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.615758,
+      "PositionLat": 24.007935,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "嘉南路-嘉新路",
+      "RoadID": "road_id3",
+      "RoadName": "嘉南路",
+      "RoadClass": 0,
+      "RoadDirection": "S",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM07",
+      "LinkID": "6801410300020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.615993,
+      "PositionLat": 24.00759,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "嘉南路-嘉新路",
+      "RoadID": "road_id2",
+      "RoadName": "嘉新路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM08",
+      "LinkID": "6801410600000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.615394,
+      "PositionLat": 24.007663,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "嘉南路-嘉新路",
+      "RoadID": "road_id2",
+      "RoadName": "嘉新路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM09",
+      "LinkID": "6801410300010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.61509,
+      "PositionLat": 24.007635,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海星加油站-嘉新路",
+      "RoadID": "road_id4",
+      "RoadName": "海星加油站",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM10",
+      "LinkID": "6801410300010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.615032,
+      "PositionLat": 24.007386,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海星加油站-嘉新路",
+      "RoadID": "road_id4",
+      "RoadName": "海星加油站",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM100",
+      "LinkID": "6795040200010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.590053,
+      "PositionLat": 23.96452,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安中山路-吉豐路",
+      "RoadID": "road_id22",
+      "RoadName": "吉豐路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM101",
+      "LinkID": "6795040600000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.589299,
+      "PositionLat": 23.964455,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安中山路-吉豐路",
+      "RoadID": "road_id22",
+      "RoadName": "吉豐路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM102",
+      "LinkID": "6794760600060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.547634,
+      "PositionLat": 23.945192,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安路-干城二街",
+      "RoadID": "road_id24",
+      "RoadName": "吉安路",
+      "RoadClass": 0,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM103",
+      "LinkID": "6794760600050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.547577,
+      "PositionLat": 23.944496,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安路-干城二街",
+      "RoadID": "road_id24",
+      "RoadName": "吉安路",
+      "RoadClass": 0,
+      "RoadDirection": "S",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM104",
+      "LinkID": "6794760200060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.547157,
+      "PositionLat": 23.945075,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安路-干城二街",
+      "RoadID": "road_id25",
+      "RoadName": "干城二街",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM105",
+      "LinkID": "6794760200060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.547119,
+      "PositionLat": 23.944628,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安路-干城二街",
+      "RoadID": "road_id25",
+      "RoadName": "干城二街",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM106",
+      "LinkID": "6795070500020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.545339,
+      "PositionLat": 23.941617,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "台9線-吉城二街",
+      "RoadID": "road_id26",
+      "RoadName": "台9線",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM107",
+      "LinkID": "6795070100030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.544504,
+      "PositionLat": 23.940845,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "台9線-吉城二街",
+      "RoadID": "road_id26",
+      "RoadName": "台9線",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM108",
+      "LinkID": "6795070100030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.545254,
+      "PositionLat": 23.941038,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "台9線-吉城二街",
+      "RoadID": "road_id27",
+      "RoadName": "吉城二街",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM109",
+      "LinkID": "4019300102241U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.592279,
+      "PositionLat": 23.926826,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海岸路-南濱路",
+      "RoadID": "road_id23",
+      "RoadName": "海岸路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM11",
+      "LinkID": "6801410600000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.615375,
+      "PositionLat": 24.007626,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海星加油站-嘉新路",
+      "RoadID": "road_id2",
+      "RoadName": "嘉新路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM110",
+      "LinkID": "6798510400040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.591047,
+      "PositionLat": 23.927436,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海岸路-南濱路",
+      "RoadID": "road_id23",
+      "RoadName": "海岸路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM111",
+      "LinkID": "6797770000060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.592002,
+      "PositionLat": 23.927631,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海岸路-南濱路",
+      "RoadID": "road_id28",
+      "RoadName": "南濱路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM112",
+      "LinkID": "3001130100002U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.591464,
+      "PositionLat": 23.926481,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海岸路-南濱路",
+      "RoadID": "road_id28",
+      "RoadName": "南濱路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM113",
+      "LinkID": "3001100100587U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.604672,
+      "PositionLat": 23.925601,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "花東海岸公路-嶺頂山路",
+      "RoadID": "road_id28",
+      "RoadName": "花東海岸公路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM114",
+      "LinkID": "3001100100587U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.603999,
+      "PositionLat": 23.925114,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "花東海岸公路-嶺頂山路",
+      "RoadID": "road_id28",
+      "RoadName": "花東海岸公路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM115",
+      "LinkID": "3001100000587U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.604765,
+      "PositionLat": 23.925389,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "花東海岸公路-嶺頂山路",
+      "RoadID": "road_id29",
+      "RoadName": "嶺頂山路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM116",
+      "LinkID": "6803050500010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.554034,
+      "PositionLat": 23.895687,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "豐坪路-大學路",
+      "RoadID": "road_id30",
+      "RoadName": "豐坪路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM117",
+      "LinkID": "6803050100030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.552336,
+      "PositionLat": 23.894289,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "豐坪路-大學路",
+      "RoadID": "road_id30",
+      "RoadName": "豐坪路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM118",
+      "LinkID": "6790630500010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.552563,
+      "PositionLat": 23.895848,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "豐坪路-大學路",
+      "RoadID": "road_id31",
+      "RoadName": "大學路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM119",
+      "LinkID": "6790630100000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.552059,
+      "PositionLat": 23.894883,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "豐坪路-大學路",
+      "RoadID": "road_id31",
+      "RoadName": "大學路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM12",
+      "LinkID": "6801410300010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.614436,
+      "PositionLat": 24.007434,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海星加油站-嘉新路",
+      "RoadID": "road_id2",
+      "RoadName": "嘉新路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM121",
+      "LinkID": "6790850300050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.600472,
+      "PositionLat": 23.988471,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-國聯一路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM122",
+      "LinkID": "6790850300040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.600001,
+      "PositionLat": 23.98896,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-國聯一路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM123",
+      "LinkID": "6799200500030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.600381,
+      "PositionLat": 23.98893,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-國聯一路",
+      "RoadID": "road_id32",
+      "RoadName": "國聯一路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM125",
+      "LinkID": "6799200500010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602983,
+      "PositionLat": 23.991897,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯一路-國聯三路",
+      "RoadID": "road_id32",
+      "RoadName": "國聯一路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM126",
+      "LinkID": "6799200100030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602637,
+      "PositionLat": 23.99133,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯一路-國聯三路",
+      "RoadID": "road_id32",
+      "RoadName": "國聯一路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM127",
+      "LinkID": "6799220200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.603105,
+      "PositionLat": 23.991415,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯一路-國聯三路",
+      "RoadID": "road_id33",
+      "RoadName": "國聯三路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM128",
+      "LinkID": "6799200500020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602611,
+      "PositionLat": 23.991698,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯一路-國聯三路",
+      "RoadID": "road_id33",
+      "RoadName": "國聯三路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM129",
+      "LinkID": "6799200500000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.603352,
+      "PositionLat": 23.992676,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯一路-國聯四路",
+      "RoadID": "road_id32",
+      "RoadName": "國聯一路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM13",
+      "LinkID": "6791130500023U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602399,
+      "PositionLat": 24.005304,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-十六股大道",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM130",
+      "LinkID": "6799200500010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.603214,
+      "PositionLat": 23.992383,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯一路-國聯四路",
+      "RoadID": "road_id32",
+      "RoadName": "國聯一路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM131",
+      "LinkID": "6799230200010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.603379,
+      "PositionLat": 23.992449,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯一路-國聯四路",
+      "RoadID": "road_id34",
+      "RoadName": "國聯四路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM132",
+      "LinkID": "6799230200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.603155,
+      "PositionLat": 23.992545,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯一路-國聯四路",
+      "RoadID": "road_id34",
+      "RoadName": "國聯四路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM133",
+      "LinkID": "6790850300070U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.604562,
+      "PositionLat": 23.983151,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-建國路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM134",
+      "LinkID": "6790850300060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.604149,
+      "PositionLat": 23.983723,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-建國路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM135",
+      "LinkID": "6798290200010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.604681,
+      "PositionLat": 23.983273,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-建國路",
+      "RoadID": "road_id9",
+      "RoadName": "建國路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM136",
+      "LinkID": "6798290200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.604023,
+      "PositionLat": 23.983374,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-建國路",
+      "RoadID": "road_id9",
+      "RoadName": "建國路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM137",
+      "LinkID": "6790850300060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.604389,
+      "PositionLat": 23.983683,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-建國路",
+      "RoadID": "road_id35",
+      "RoadName": "明心街",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM138",
+      "LinkID": "6790850300080U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.605947,
+      "PositionLat": 23.981507,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-林森路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM139",
+      "LinkID": "6790850300070U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.605635,
+      "PositionLat": 23.981902,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-林森路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM14",
+      "LinkID": "6791130100026U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.601578,
+      "PositionLat": 24.00412,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-十六股大道",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM140",
+      "LinkID": "6796890100010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.606042,
+      "PositionLat": 23.981823,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-林森路",
+      "RoadID": "road_id36",
+      "RoadName": "林森路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM141",
+      "LinkID": "6796890100020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.605576,
+      "PositionLat": 23.981521,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-林森路",
+      "RoadID": "road_id36",
+      "RoadName": "林森路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM142",
+      "LinkID": "6796890500000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.607999,
+      "PositionLat": 23.983156,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "林森路-明禮路",
+      "RoadID": "road_id36",
+      "RoadName": "林森路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM143",
+      "LinkID": "6796890100000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.607696,
+      "PositionLat": 23.982906,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "林森路-明禮路",
+      "RoadID": "road_id36",
+      "RoadName": "林森路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM144",
+      "LinkID": "6796440300020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.608004,
+      "PositionLat": 23.9829,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "林森路-明禮路",
+      "RoadID": "road_id37",
+      "RoadName": "明禮路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM145",
+      "LinkID": "6796440300010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.607688,
+      "PositionLat": 23.983282,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "林森路-明禮路",
+      "RoadID": "road_id37",
+      "RoadName": "明禮路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM146",
+      "LinkID": "6796890100020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.600545,
+      "PositionLat": 23.978235,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "林森路-和平路",
+      "RoadID": "road_id36",
+      "RoadName": "林森路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM147",
+      "LinkID": "6796890100030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.600072,
+      "PositionLat": 23.97791,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "林森路-和平路",
+      "RoadID": "road_id36",
+      "RoadName": "林森路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM148",
+      "LinkID": "6795780300020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.600401,
+      "PositionLat": 23.977909,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "林森路-和平路",
+      "RoadID": "road_id13",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM149",
+      "LinkID": "6795780300010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.600148,
+      "PositionLat": 23.978251,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "林森路-和平路",
+      "RoadID": "road_id13",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM15",
+      "LinkID": "6803220200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602346,
+      "PositionLat": 24.004549,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-十六股大道",
+      "RoadID": "road_id5",
+      "RoadName": "十六股大道",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM150",
+      "LinkID": "6791230500010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.610965,
+      "PositionLat": 23.979611,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-明禮路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM151",
+      "LinkID": "6791230500020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.610567,
+      "PositionLat": 23.979332,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-明禮路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM152",
+      "LinkID": "6796440300040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.610906,
+      "PositionLat": 23.97927,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-明禮路",
+      "RoadID": "road_id37",
+      "RoadName": "明禮路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM153",
+      "LinkID": "6796440300030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.610641,
+      "PositionLat": 23.9797,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-明禮路",
+      "RoadID": "road_id37",
+      "RoadName": "明禮路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM154",
+      "LinkID": "6791230500040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.603312,
+      "PositionLat": 23.974601,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-和平路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM155",
+      "LinkID": "6791230100050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602856,
+      "PositionLat": 23.974284,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-和平路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM156",
+      "LinkID": "6795780300050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.603223,
+      "PositionLat": 23.974256,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-和平路",
+      "RoadID": "road_id13",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM157",
+      "LinkID": "6795780300040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602927,
+      "PositionLat": 23.974613,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-和平路",
+      "RoadID": "road_id13",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM158",
+      "LinkID": "6791590600030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.59666,
+      "PositionLat": 23.974852,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-林森路",
+      "RoadID": "road_id11",
+      "RoadName": "中華路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM159",
+      "LinkID": "6791590600020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.595947,
+      "PositionLat": 23.9748,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-林森路",
+      "RoadID": "road_id11",
+      "RoadName": "中華路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM16",
+      "LinkID": "6799240400030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.606071,
+      "PositionLat": 23.988511,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯五路-商校街",
+      "RoadID": "road_id6",
+      "RoadName": "國聯五路",
+      "RoadClass": 0,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM160",
+      "LinkID": "6796890100030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.596619,
+      "PositionLat": 23.975272,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-林森路",
+      "RoadID": "road_id36",
+      "RoadName": "林森路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM161",
+      "LinkID": "6791590600020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.596532,
+      "PositionLat": 23.974591,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-林森路",
+      "RoadID": "road_id38",
+      "RoadName": "榮正街",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM162",
+      "LinkID": "6796890500030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.596057,
+      "PositionLat": 23.975086,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-林森路",
+      "RoadID": "road_id38",
+      "RoadName": "榮正街",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM163",
+      "LinkID": "6791590600030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.596202,
+      "PositionLat": 23.974557,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-林森路",
+      "RoadID": "road_id39",
+      "RoadName": "德安一街",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM164",
+      "LinkID": "6790850300110U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.610023,
+      "PositionLat": 23.976175,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-中華路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM165",
+      "LinkID": "6790850300100U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.609653,
+      "PositionLat": 23.976666,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-中華路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM166",
+      "LinkID": "6792390200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.610117,
+      "PositionLat": 23.976493,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-中華路",
+      "RoadID": "road_id40",
+      "RoadName": "公園路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM167",
+      "LinkID": "6791590200070U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.609619,
+      "PositionLat": 23.976312,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-中華路",
+      "RoadID": "road_id11",
+      "RoadName": "中華路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM168",
+      "LinkID": "6791590600050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.60452,
+      "PositionLat": 23.975697,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-仁愛街",
+      "RoadID": "road_id11",
+      "RoadName": "中華路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM169",
+      "LinkID": "6791590600050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.603838,
+      "PositionLat": 23.975627,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-仁愛街",
+      "RoadID": "road_id11",
+      "RoadName": "中華路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM17",
+      "LinkID": "6800610400000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.606299,
+      "PositionLat": 23.987616,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯五路-商校街",
+      "RoadID": "road_id6",
+      "RoadName": "國聯五路",
+      "RoadClass": 0,
+      "RoadDirection": "S",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM170",
+      "LinkID": "6791590600050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.60431,
+      "PositionLat": 23.975514,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-仁愛街",
+      "RoadID": "road_id41",
+      "RoadName": "仁愛街",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM171",
+      "LinkID": "6791590600050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.60401,
+      "PositionLat": 23.975895,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-仁愛街",
+      "RoadID": "road_id41",
+      "RoadName": "仁愛街",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM172",
+      "LinkID": "6795780300000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.592936,
+      "PositionLat": 23.981191,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-自立路",
+      "RoadID": "road_id13",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM173",
+      "LinkID": "6795790300020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.592557,
+      "PositionLat": 23.981294,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-自立路",
+      "RoadID": "road_id13",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM174",
+      "LinkID": "6795330100000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.592895,
+      "PositionLat": 23.981363,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-自立路",
+      "RoadID": "road_id42",
+      "RoadName": "自立路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM175",
+      "LinkID": "6795320100000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.592721,
+      "PositionLat": 23.981096,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-自立路",
+      "RoadID": "road_id42",
+      "RoadName": "自立路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM176",
+      "LinkID": "6790850300100U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.608722,
+      "PositionLat": 23.977864,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-中正路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM177",
+      "LinkID": "6790850300090U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.608417,
+      "PositionLat": 23.978253,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-中正路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM178",
+      "LinkID": "6791230100020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.608822,
+      "PositionLat": 23.978196,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-中正路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM179",
+      "LinkID": "6791230100030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.6084,
+      "PositionLat": 23.977925,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-中正路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM18",
+      "LinkID": "6800610000000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.60651,
+      "PositionLat": 23.988116,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯五路-商校街",
+      "RoadID": "road_id7",
+      "RoadName": "商校街",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM180",
+      "LinkID": "6790850300120U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.61159,
+      "PositionLat": 23.974143,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-重慶路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM181",
+      "LinkID": "6790850300110U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.611378,
+      "PositionLat": 23.974424,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-重慶路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM182",
+      "LinkID": "6798480100000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.611368,
+      "PositionLat": 23.974067,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-重慶路",
+      "RoadID": "road_id43",
+      "RoadName": "重慶路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM183",
+      "LinkID": "6798580000000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.611564,
+      "PositionLat": 23.974427,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-重慶路",
+      "RoadID": "road_id44",
+      "RoadName": "軒轅路",
+      "RoadClass": 0,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM184",
+      "LinkID": "6798480100000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.611665,
+      "PositionLat": 23.974326,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-重慶路",
+      "RoadID": "road_id45",
+      "RoadName": "花崗街",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM185",
+      "LinkID": "6790850300000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.594749,
+      "PositionLat": 23.99576,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-吉安中山路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM186",
+      "LinkID": "6790930300020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.594231,
+      "PositionLat": 23.996428,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-吉安中山路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM187",
+      "LinkID": "6791130500040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.594731,
+      "PositionLat": 23.996478,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-吉安中山路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM188",
+      "LinkID": "6791120100000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.59415,
+      "PositionLat": 23.995611,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-吉安中山路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM189",
+      "LinkID": "6798530100070U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.620573,
+      "PositionLat": 23.981586,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海岸路-民權路",
+      "RoadID": "road_id23",
+      "RoadName": "海岸路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM19",
+      "LinkID": "6800610000000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.605884,
+      "PositionLat": 23.988102,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯五路-商校街",
+      "RoadID": "road_id7",
+      "RoadName": "商校街",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM190",
+      "LinkID": "4019300001546U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.619527,
+      "PositionLat": 23.98088,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海岸路-民權路",
+      "RoadID": "road_id23",
+      "RoadName": "海岸路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM191",
+      "LinkID": "6794060500100U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.620516,
+      "PositionLat": 23.981698,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海岸路-民權路",
+      "RoadID": "road_id46",
+      "RoadName": "民權路",
+      "RoadClass": 0,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM192",
+      "LinkID": "6793890200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.620152,
+      "PositionLat": 23.981103,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海岸路-民權路",
+      "RoadID": "road_id47",
+      "RoadName": "花蓮港",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM193",
+      "LinkID": "6800960000000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.616874,
+      "PositionLat": 23.993383,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "新興路-瑞美路",
+      "RoadID": "road_id48",
+      "RoadName": "新興路",
+      "RoadClass": 0,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM194",
+      "LinkID": "6800960000010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.616824,
+      "PositionLat": 23.992652,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "新興路-瑞美路",
+      "RoadID": "road_id48",
+      "RoadName": "新興路",
+      "RoadClass": 0,
+      "RoadDirection": "S",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM195",
+      "LinkID": "6801100200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.617422,
+      "PositionLat": 23.993062,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "新興路-瑞美路",
+      "RoadID": "road_id49",
+      "RoadName": "瑞美路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM20",
+      "LinkID": "6800610000000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.606476,
+      "PositionLat": 23.987935,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯五路-商校街",
+      "RoadID": "road_id7",
+      "RoadName": "商校街",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM21",
+      "LinkID": "6790850300060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.601333,
+      "PositionLat": 23.987358,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-商校街",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM22",
+      "LinkID": "6790850300060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.60166,
+      "PositionLat": 23.986922,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-商校街",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM23",
+      "LinkID": "6790850300060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.601893,
+      "PositionLat": 23.987299,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-商校街",
+      "RoadID": "road_id7",
+      "RoadName": "商校街",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM24",
+      "LinkID": "6790850300060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.601103,
+      "PositionLat": 23.987115,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-商校街",
+      "RoadID": "road_id7",
+      "RoadName": "商校街",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM25",
+      "LinkID": "6798290200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.603089,
+      "PositionLat": 23.983555,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-明智街",
+      "RoadID": "road_id9",
+      "RoadName": "建國路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM26",
+      "LinkID": "6798290200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602701,
+      "PositionLat": 23.983622,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-明智街",
+      "RoadID": "road_id9",
+      "RoadName": "建國路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM27",
+      "LinkID": "6798290200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602988,
+      "PositionLat": 23.983907,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-明智街",
+      "RoadID": "road_id10",
+      "RoadName": "明智街",
+      "RoadClass": 0,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM28",
+      "LinkID": "6798290200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602976,
+      "PositionLat": 23.983548,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-明智街",
+      "RoadID": "road_id10",
+      "RoadName": "明智街",
+      "RoadClass": 0,
+      "RoadDirection": "S",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM29",
+      "LinkID": "6798290200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.603085,
+      "PositionLat": 23.983546,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-明智街",
+      "RoadID": "road_id10",
+      "RoadName": "明智街",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM30",
+      "LinkID": "6798290200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602596,
+      "PositionLat": 23.983544,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-明智街",
+      "RoadID": "road_id10",
+      "RoadName": "明智街",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM31",
+      "LinkID": "6791590200060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.605875,
+      "PositionLat": 23.975842,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-中正路",
+      "RoadID": "road_id11",
+      "RoadName": "中華路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM32",
+      "LinkID": "6791590600050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.604459,
+      "PositionLat": 23.975695,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-中正路",
+      "RoadID": "road_id11",
+      "RoadName": "中華路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM33",
+      "LinkID": "6791230500030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.605508,
+      "PositionLat": 23.976015,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-中正路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM34",
+      "LinkID": "6791230500040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.604746,
+      "PositionLat": 23.975503,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-中正路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM35",
+      "LinkID": "6791590600050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.60284,
+      "PositionLat": 23.975484,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-和平路",
+      "RoadID": "road_id11",
+      "RoadName": "中華路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM36",
+      "LinkID": "6791590200040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.601664,
+      "PositionLat": 23.975374,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-和平路",
+      "RoadID": "road_id11",
+      "RoadName": "中華路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM37",
+      "LinkID": "6795780300040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602436,
+      "PositionLat": 23.975243,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-和平路",
+      "RoadID": "road_id13",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM38",
+      "LinkID": "6795780300030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602132,
+      "PositionLat": 23.975616,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-和平路",
+      "RoadID": "road_id13",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM39",
+      "LinkID": "6791590600020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.594538,
+      "PositionLat": 23.97468,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-中原路",
+      "RoadID": "road_id11",
+      "RoadName": "中華路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM40",
+      "LinkID": "6791590200010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.593927,
+      "PositionLat": 23.974614,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-中原路",
+      "RoadID": "road_id11",
+      "RoadName": "中華路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM41",
+      "LinkID": "6791500700050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.594462,
+      "PositionLat": 23.974457,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-中原路",
+      "RoadID": "road_id14",
+      "RoadName": "中原路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM42",
+      "LinkID": "6791500700040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.594103,
+      "PositionLat": 23.974864,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-中原路",
+      "RoadID": "road_id14",
+      "RoadName": "中原路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM43",
+      "LinkID": "6791230100060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.597878,
+      "PositionLat": 23.971024,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-中原路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM44",
+      "LinkID": "6791230100070U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.597453,
+      "PositionLat": 23.97073,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-中原路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM45",
+      "LinkID": "6791500300060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.597941,
+      "PositionLat": 23.970654,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-中原路",
+      "RoadID": "road_id14",
+      "RoadName": "中原路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM46",
+      "LinkID": "6791500700050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.597439,
+      "PositionLat": 23.971176,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-中原路",
+      "RoadID": "road_id14",
+      "RoadName": "中原路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM47",
+      "LinkID": "6798310600030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.595629,
+      "PositionLat": 23.984976,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-自立路",
+      "RoadID": "road_id15",
+      "RoadName": "建國路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM48",
+      "LinkID": "6798310200020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.59473,
+      "PositionLat": 23.985185,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-自立路",
+      "RoadID": "road_id15",
+      "RoadName": "建國路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM49",
+      "LinkID": "6795310400010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.595361,
+      "PositionLat": 23.98539,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-自立路",
+      "RoadID": "road_id16",
+      "RoadName": "自立路",
+      "RoadClass": 0,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM50",
+      "LinkID": "6795330500000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.595022,
+      "PositionLat": 23.984765,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-自立路",
+      "RoadID": "road_id16",
+      "RoadName": "自立路",
+      "RoadClass": 0,
+      "RoadDirection": "S",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM51",
+      "LinkID": "6798310200020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.59154,
+      "PositionLat": 23.985884,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-自強路",
+      "RoadID": "road_id15",
+      "RoadName": "建國路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM52",
+      "LinkID": "6798310200010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.590835,
+      "PositionLat": 23.98611,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-自強路",
+      "RoadID": "road_id15",
+      "RoadName": "建國路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM53",
+      "LinkID": "6795430100010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.591529,
+      "PositionLat": 23.986238,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-自強路",
+      "RoadID": "road_id17",
+      "RoadName": "自強路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM54",
+      "LinkID": "6795430100020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.591022,
+      "PositionLat": 23.985609,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-自強路",
+      "RoadID": "road_id17",
+      "RoadName": "自強路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM55",
+      "LinkID": "6798310200010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.58832,
+      "PositionLat": 23.986928,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-中央路",
+      "RoadID": "road_id15",
+      "RoadName": "建國路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM56",
+      "LinkID": "6798310000000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.587326,
+      "PositionLat": 23.987301,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-中央路",
+      "RoadID": "road_id15",
+      "RoadName": "建國路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM57",
+      "LinkID": "6791120500020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.588119,
+      "PositionLat": 23.987514,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-中央路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM58",
+      "LinkID": "6791120100030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.587679,
+      "PositionLat": 23.986487,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-中央路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "S",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM59",
+      "LinkID": "6795790700020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.589512,
+      "PositionLat": 23.982905,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-自強路",
+      "RoadID": "road_id18",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM60",
+      "LinkID": "6795790300010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.588702,
+      "PositionLat": 23.983319,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-自強路",
+      "RoadID": "road_id18",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM61",
+      "LinkID": "6795430100020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.589435,
+      "PositionLat": 23.983412,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-自強路",
+      "RoadID": "road_id17",
+      "RoadName": "自強路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM62",
+      "LinkID": "6795430100030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.588926,
+      "PositionLat": 23.982644,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-自強路",
+      "RoadID": "road_id17",
+      "RoadName": "自強路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM63",
+      "LinkID": "6795790300010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.586843,
+      "PositionLat": 23.984324,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-中央路",
+      "RoadID": "road_id18",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM64",
+      "LinkID": "6795790300000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.585989,
+      "PositionLat": 23.984782,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-中央路",
+      "RoadID": "road_id18",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM65",
+      "LinkID": "6791120500030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.586624,
+      "PositionLat": 23.984938,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-中央路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM66",
+      "LinkID": "6791120100040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.586265,
+      "PositionLat": 23.98413,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-中央路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM67",
+      "LinkID": "6791510700010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.584756,
+      "PositionLat": 23.980778,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中原路-中央路",
+      "RoadID": "road_id14",
+      "RoadName": "中原路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM68",
+      "LinkID": "6791510700000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.583938,
+      "PositionLat": 23.981204,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中原路-中央路",
+      "RoadID": "road_id14",
+      "RoadName": "中原路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM69",
+      "LinkID": "6791120500050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.58452,
+      "PositionLat": 23.981381,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中原路-中央路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM70",
+      "LinkID": "6791120100060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.584134,
+      "PositionLat": 23.980541,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中原路-中央路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM71",
+      "LinkID": "6795320500010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.590835,
+      "PositionLat": 23.977988,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "自立路-中原路",
+      "RoadID": "road_id16",
+      "RoadName": "自立路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM72",
+      "LinkID": "6795320500010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.590429,
+      "PositionLat": 23.977343,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "自立路-中原路",
+      "RoadID": "road_id16",
+      "RoadName": "自立路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM73",
+      "LinkID": "6791500700000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.59099,
+      "PositionLat": 23.977439,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "自立路-中原路",
+      "RoadID": "road_id14",
+      "RoadName": "中原路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM74",
+      "LinkID": "6791510300020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.590178,
+      "PositionLat": 23.977855,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "自立路-中原路",
+      "RoadID": "road_id14",
+      "RoadName": "中原路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM75",
+      "LinkID": "6791120500060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.581961,
+      "PositionLat": 23.977431,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-慈惠一街",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM76",
+      "LinkID": "6791110100000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.581223,
+      "PositionLat": 23.976868,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-慈惠一街",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM77",
+      "LinkID": "6791120100060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.582144,
+      "PositionLat": 23.976916,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-慈惠一街",
+      "RoadID": "road_id19",
+      "RoadName": "慈惠一街",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM78",
+      "LinkID": "6791110500000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.580664,
+      "PositionLat": 23.977109,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-慈惠一街",
+      "RoadID": "road_id19",
+      "RoadName": "慈惠一街",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM79",
+      "LinkID": "6791110500000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.575979,
+      "PositionLat": 23.975778,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-吉安中山路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM80",
+      "LinkID": "6791110100010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.574455,
+      "PositionLat": 23.975204,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-吉安中山路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM81",
+      "LinkID": "6791010700020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.575669,
+      "PositionLat": 23.975121,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-吉安中山路",
+      "RoadID": "road_id20",
+      "RoadName": "吉安中山路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM82",
+      "LinkID": "6791010700010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.574339,
+      "PositionLat": 23.975887,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-吉安中山路",
+      "RoadID": "road_id20",
+      "RoadName": "吉安中山路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM83",
+      "LinkID": "6791620200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.579579,
+      "PositionLat": 23.973345,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安中山路-吉安中華路",
+      "RoadID": "road_id21",
+      "RoadName": "吉安中華路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM84",
+      "LinkID": "6795010500000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.578767,
+      "PositionLat": 23.972903,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安中山路-吉安中華路",
+      "RoadID": "road_id21",
+      "RoadName": "吉安中華路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM85",
+      "LinkID": "6790950700000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.579596,
+      "PositionLat": 23.973028,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安中山路-吉安中華路",
+      "RoadID": "road_id20",
+      "RoadName": "吉安中山路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM86",
+      "LinkID": "6791010700020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.578636,
+      "PositionLat": 23.973532,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安中山路-吉安中華路",
+      "RoadID": "road_id20",
+      "RoadName": "吉安中山路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM87",
+      "LinkID": "6791250100000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.593769,
+      "PositionLat": 23.968207,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-東海六街",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM88",
+      "LinkID": "6791250100020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.593241,
+      "PositionLat": 23.967621,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-東海六街",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM89",
+      "LinkID": "6791250100010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.593785,
+      "PositionLat": 23.967587,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-東海六街",
+      "RoadID": "road_id21",
+      "RoadName": "東海六街",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM90",
+      "LinkID": "6791250100010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.59319,
+      "PositionLat": 23.968267,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-東海六街",
+      "RoadID": "road_id21",
+      "RoadName": "東海六街",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM91",
+      "LinkID": "6795040200010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.590089,
+      "PositionLat": 23.964518,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉豐路-中正路",
+      "RoadID": "road_id22",
+      "RoadName": "吉豐路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM92",
+      "LinkID": "6791250500030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.590564,
+      "PositionLat": 23.964717,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉豐路-中正路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM93",
+      "LinkID": "6791250500040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.590168,
+      "PositionLat": 23.964329,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉豐路-中正路",
+      "RoadID": "road_id23",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM94",
+      "LinkID": "6791250500040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.590165,
+      "PositionLat": 23.964242,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-海岸路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM95",
+      "LinkID": "6791290400000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.589756,
+      "PositionLat": 23.963733,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-海岸路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM96",
+      "LinkID": "6798510000000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.590248,
+      "PositionLat": 23.963733,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-海岸路",
+      "RoadID": "road_id23",
+      "RoadName": "海岸路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM97",
+      "LinkID": "6790890300010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.589867,
+      "PositionLat": 23.964304,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-海岸路",
+      "RoadID": "road_id23",
+      "RoadName": "海岸路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM98",
+      "LinkID": "6790890300010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.589901,
+      "PositionLat": 23.964278,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安中山路-吉豐路",
+      "RoadID": "road_id20",
+      "RoadName": "吉安中山路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM99",
+      "LinkID": "6790890700000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.589566,
+      "PositionLat": 23.964817,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安中山路-吉豐路",
+      "RoadID": "road_id20",
+      "RoadName": "吉安中山路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    }
+  ]
+}

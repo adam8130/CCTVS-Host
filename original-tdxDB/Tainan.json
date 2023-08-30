@@ -1,0 +1,489 @@
+{
+  "UpdateTime": "2023-08-30T00:22:26+08:00",
+  "UpdateInterval": 21600,
+  "SrcUpdateTime": "2023-08-30T00:00:00+08:00",
+  "SrcUpdateInterval": 86400,
+  "AuthorityCode": "TNN",
+  "CCTVs": [
+    {
+      "CCTVID": "C010020",
+      "LinkID": "6150770600070D",
+      "VideoStreamURL": "https://trafficvideo2.tainan.gov.tw/192168234005",
+      "LocationType": 1,
+      "PositionLon": 120.16088,
+      "PositionLat": 23.00284,
+      "SurveillanceType": 1,
+      "SurveillanceDescription": "",
+      "RoadID": "615077D",
+      "RoadName": "安北路",
+      "RoadClass": 6,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "",
+      "LayoutMapURL": ""
+    },
+    {
+      "CCTVID": "C058330",
+      "LinkID": "6154600700010D",
+      "VideoStreamURL": "https://trafficvideo.tainan.gov.tw/17dcd3fb",
+      "LocationType": 1,
+      "PositionLon": 120.22304,
+      "PositionLat": 22.9853,
+      "SurveillanceType": 1,
+      "SurveillanceDescription": "",
+      "RoadID": "615460D",
+      "RoadName": "東門路二段",
+      "RoadClass": 6,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "",
+      "LayoutMapURL": ""
+    },
+    {
+      "CCTVID": "C071640",
+      "LinkID": "6151220400010D",
+      "VideoStreamURL": "https://trafficvideo2.tainan.gov.tw/192168234004",
+      "LocationType": 1,
+      "PositionLon": 120.16363,
+      "PositionLat": 22.99704,
+      "SurveillanceType": 1,
+      "SurveillanceDescription": "",
+      "RoadID": "615122D",
+      "RoadName": "安億路",
+      "RoadClass": 6,
+      "RoadDirection": "S",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "",
+      "LayoutMapURL": ""
+    },
+    {
+      "CCTVID": "C088570",
+      "LinkID": "6150770600100D",
+      "VideoStreamURL": "https://trafficvideo2.tainan.gov.tw/192168234006",
+      "LocationType": 1,
+      "PositionLon": 120.16811,
+      "PositionLat": 22.99902,
+      "SurveillanceType": 1,
+      "SurveillanceDescription": "",
+      "RoadID": "615077D",
+      "RoadName": "安北路",
+      "RoadClass": 6,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "",
+      "LayoutMapURL": ""
+    },
+    {
+      "CCTVID": "C088630",
+      "LinkID": "6146860700000D",
+      "VideoStreamURL": "https://trafficvideo2.tainan.gov.tw/192168234001",
+      "LocationType": 1,
+      "PositionLon": 120.15734,
+      "PositionLat": 23.00339,
+      "SurveillanceType": 1,
+      "SurveillanceDescription": "",
+      "RoadID": "614686D",
+      "RoadName": "王城路",
+      "RoadClass": 6,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "",
+      "LayoutMapURL": ""
+    },
+    {
+      "CCTVID": "C098800",
+      "LinkID": "6163110000040D",
+      "VideoStreamURL": "https://trafficvideo2.tainan.gov.tw/17bb0240",
+      "LocationType": 1,
+      "PositionLon": 120.281,
+      "PositionLat": 23.0644,
+      "SurveillanceType": -1,
+      "SurveillanceDescription": "",
+      "RoadID": "616311D",
+      "RoadName": "新港社大道",
+      "RoadClass": 6,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "",
+      "LayoutMapURL": ""
+    },
+    {
+      "CCTVID": "C110001",
+      "LinkID": "6158940200040D",
+      "VideoStreamURL": "https://trafficvideo2.tainan.gov.tw/539b8083",
+      "LocationType": 1,
+      "PositionLon": 120.20381,
+      "PositionLat": 22.98134,
+      "SurveillanceType": 1,
+      "SurveillanceDescription": "",
+      "RoadID": "615894D",
+      "RoadName": "健康路一段",
+      "RoadClass": 6,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "",
+      "LayoutMapURL": ""
+    },
+    {
+      "CCTVID": "C110002",
+      "LinkID": "6156830000020D",
+      "VideoStreamURL": "https://trafficvideo.tainan.gov.tw/ef80a475",
+      "LocationType": 1,
+      "PositionLon": 120.20371,
+      "PositionLat": 22.98124,
+      "SurveillanceType": -1,
+      "SurveillanceDescription": "",
+      "RoadID": "615683D",
+      "RoadName": "南門路",
+      "RoadClass": 6,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "",
+      "LayoutMapURL": ""
+    },
+    {
+      "CCTVID": "C110003",
+      "LinkID": "6154842700030D",
+      "VideoStreamURL": "https://trafficvideo2.tainan.gov.tw/a0c6236b",
+      "LocationType": 1,
+      "PositionLon": 120.2132,
+      "PositionLat": 22.99439,
+      "SurveillanceType": -1,
+      "SurveillanceDescription": "",
+      "RoadID": "615484D",
+      "RoadName": "東寧路西段",
+      "RoadClass": 6,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "",
+      "LayoutMapURL": ""
+    },
+    {
+      "CCTVID": "C110004",
+      "LinkID": "6162130700010D",
+      "VideoStreamURL": "https://trafficvideo2.tainan.gov.tw/54b2e135",
+      "LocationType": 1,
+      "PositionLon": 120.21116,
+      "PositionLat": 22.98479,
+      "SurveillanceType": -1,
+      "SurveillanceDescription": "",
+      "RoadID": "616213D",
+      "RoadName": "開山路",
+      "RoadClass": 6,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "",
+      "LayoutMapURL": ""
+    },
+    {
+      "CCTVID": "C110005",
+      "LinkID": "6154060400040D",
+      "VideoStreamURL": "https://trafficvideo2.tainan.gov.tw/82520774",
+      "LocationType": 1,
+      "PositionLon": 120.2027,
+      "PositionLat": 22.99168,
+      "SurveillanceType": -1,
+      "SurveillanceDescription": "",
+      "RoadID": "615406D",
+      "RoadName": "忠義路二段",
+      "RoadClass": 6,
+      "RoadDirection": "S",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "",
+      "LayoutMapURL": ""
+    },
+    {
+      "CCTVID": "C110006",
+      "LinkID": "3001700017579D",
+      "VideoStreamURL": "https://trafficvideo.tainan.gov.tw/c465bf94",
+      "LocationType": 1,
+      "PositionLon": 120.18641,
+      "PositionLat": 22.99639,
+      "SurveillanceType": -1,
+      "SurveillanceDescription": "",
+      "RoadID": "300170",
+      "RoadName": "台17線",
+      "RoadClass": 3,
+      "RoadDirection": "S",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "",
+      "LayoutMapURL": ""
+    },
+    {
+      "CCTVID": "C110007",
+      "LinkID": "6153590600020D",
+      "VideoStreamURL": "https://trafficvideo.tainan.gov.tw/6a0feb9b",
+      "LocationType": 1,
+      "PositionLon": 120.18706,
+      "PositionLat": 22.99263,
+      "SurveillanceType": -1,
+      "SurveillanceDescription": "",
+      "RoadID": "615359D",
+      "RoadName": "府前路二段",
+      "RoadClass": 6,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "",
+      "LayoutMapURL": ""
+    },
+    {
+      "CCTVID": "C110008",
+      "LinkID": "3000100132663D",
+      "VideoStreamURL": "https://trafficvideo2.tainan.gov.tw/b7b89f55",
+      "LocationType": 1,
+      "PositionLon": 120.24651,
+      "PositionLat": 23.04144,
+      "SurveillanceType": -1,
+      "SurveillanceDescription": "",
+      "RoadID": "300010",
+      "RoadName": "台1線",
+      "RoadClass": 3,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "",
+      "LayoutMapURL": ""
+    },
+    {
+      "CCTVID": "C110009",
+      "LinkID": "3001900013991D",
+      "VideoStreamURL": "https://trafficvideo2.tainan.gov.tw/05c68597",
+      "LocationType": 1,
+      "PositionLon": 120.21797,
+      "PositionLat": 23.02341,
+      "SurveillanceType": -1,
+      "SurveillanceDescription": "",
+      "RoadID": "300190",
+      "RoadName": "台19線",
+      "RoadClass": 3,
+      "RoadDirection": "S",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "",
+      "LayoutMapURL": ""
+    },
+    {
+      "CCTVID": "C110010",
+      "LinkID": "3000100033072D",
+      "VideoStreamURL": "https://trafficvideo2.tainan.gov.tw/a430e931",
+      "LocationType": 1,
+      "PositionLon": 120.2186,
+      "PositionLat": 23.02333,
+      "SurveillanceType": -1,
+      "SurveillanceDescription": "",
+      "RoadID": "300010",
+      "RoadName": "台1線",
+      "RoadClass": 3,
+      "RoadDirection": "S",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "",
+      "LayoutMapURL": ""
+    },
+    {
+      "CCTVID": "C110011",
+      "LinkID": "6161610600090D",
+      "VideoStreamURL": "https://trafficvideo2.tainan.gov.tw/9f277849",
+      "LocationType": 1,
+      "PositionLon": 120.29341,
+      "PositionLat": 23.30664,
+      "SurveillanceType": -1,
+      "SurveillanceDescription": "",
+      "RoadID": "616161D",
+      "RoadName": "復興路",
+      "RoadClass": 6,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "",
+      "LayoutMapURL": ""
+    },
+    {
+      "CCTVID": "C110012",
+      "LinkID": "6156010400000D",
+      "VideoStreamURL": "https://trafficvideo2.tainan.gov.tw/a3f5f3d2",
+      "LocationType": 1,
+      "PositionLon": 120.29354,
+      "PositionLat": 23.3064,
+      "SurveillanceType": -1,
+      "SurveillanceDescription": "",
+      "RoadID": "615601D",
+      "RoadName": "長榮路三段",
+      "RoadClass": 6,
+      "RoadDirection": "S",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "",
+      "LayoutMapURL": ""
+    },
+    {
+      "CCTVID": "C154400",
+      "LinkID": "0000801104000D",
+      "VideoStreamURL": "https://trafficvideo2.tainan.gov.tw/9a2e174e",
+      "LocationType": 1,
+      "PositionLon": 120.282,
+      "PositionLat": 23.0621,
+      "SurveillanceType": -1,
+      "SurveillanceDescription": "",
+      "RoadID": "000080",
+      "RoadName": "國道8號",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "台1_322K+500",
+      "LayoutMapURL": ""
+    },
+    {
+      "CCTVID": "C156060",
+      "LinkID": "6142800600040D",
+      "VideoStreamURL": "https://trafficvideo2.tainan.gov.tw/50794012",
+      "LocationType": 1,
+      "PositionLon": 120.24766,
+      "PositionLat": 22.97268,
+      "SurveillanceType": 1,
+      "SurveillanceDescription": "",
+      "RoadID": "614280D",
+      "RoadName": "中山路",
+      "RoadClass": 6,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "",
+      "LayoutMapURL": ""
+    },
+    {
+      "CCTVID": "C303400",
+      "LinkID": "6152030500000D",
+      "VideoStreamURL": "https://trafficvideo.tainan.gov.tw/d46fb9da",
+      "LocationType": 1,
+      "PositionLon": 120.267,
+      "PositionLat": 23.315,
+      "SurveillanceType": -1,
+      "SurveillanceDescription": "",
+      "RoadID": "615203D",
+      "RoadName": "行昌路",
+      "RoadClass": 6,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "",
+      "LayoutMapURL": ""
+    },
+    {
+      "CCTVID": "C980310",
+      "LinkID": "6164550100010D",
+      "VideoStreamURL": "https://trafficvideo2.tainan.gov.tw/192168234003",
+      "LocationType": 1,
+      "PositionLon": 120.16045,
+      "PositionLat": 22.9976,
+      "SurveillanceType": 1,
+      "SurveillanceDescription": "",
+      "RoadID": "616455D",
+      "RoadName": "運河路",
+      "RoadClass": 6,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "",
+      "LayoutMapURL": ""
+    },
+    {
+      "CCTVID": "C980750",
+      "LinkID": "3000100132982D",
+      "VideoStreamURL": "https://trafficvideo2.tainan.gov.tw/03acfaeb",
+      "LocationType": 1,
+      "PositionLon": 120.21895,
+      "PositionLat": 23.02426,
+      "SurveillanceType": -1,
+      "SurveillanceDescription": "",
+      "RoadID": "300010",
+      "RoadName": "台1線",
+      "RoadClass": 3,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "",
+      "LayoutMapURL": ""
+    },
+    {
+      "CCTVID": "C981340",
+      "LinkID": "6161760400000D",
+      "VideoStreamURL": "https://trafficvideo2.tainan.gov.tw/192168234002",
+      "LocationType": 1,
+      "PositionLon": 120.15813,
+      "PositionLat": 22.99936,
+      "SurveillanceType": 1,
+      "SurveillanceDescription": "",
+      "RoadID": "616176D",
+      "RoadName": "湖內一街",
+      "RoadClass": 6,
+      "RoadDirection": "S",
+      "RoadSection": {
+        "Start": "",
+        "End": ""
+      },
+      "LocationMile": "",
+      "LayoutMapURL": ""
+    }
+  ]
+}

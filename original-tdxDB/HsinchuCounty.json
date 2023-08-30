@@ -1,0 +1,169 @@
+{
+  "UpdateTime": "2023-08-30T00:22:26+08:00",
+  "UpdateInterval": 21600,
+  "SrcUpdateTime": "2023-08-30T00:00:00+08:00",
+  "SrcUpdateInterval": 86400,
+  "AuthorityCode": "HSQ",
+  "CCTVs": [
+    {
+      "CCTVID": "N01-005-CC201",
+      "LinkID": "3000100107055J",
+      "VideoStreamURL": "http://124.199.98.109/jpeg?cam=5",
+      "LocationType": 4,
+      "PositionLon": 120.99745,
+      "PositionLat": 24.82568,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "竹北市中華路與興隆路一段-中華路"
+    },
+    {
+      "CCTVID": "N01-006-CC202",
+      "LinkID": "6449790700000J",
+      "VideoStreamURL": "http://124.199.98.109/jpeg?cam=6",
+      "LocationType": 2,
+      "PositionLon": 120.997583,
+      "PositionLat": 24.825487,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "竹北市中華路與興隆路一段-興隆路"
+    },
+    {
+      "CCTVID": "N01-007",
+      "LinkID": "6443220700080J",
+      "VideoStreamURL": "http://124.199.98.109/jpeg?cam=7",
+      "LocationType": 2,
+      "PositionLon": 121.01644,
+      "PositionLat": 24.82389,
+      "SurveillanceType": 1,
+      "SurveillanceDescription": "竹北市光明六路與南下匝道-光明六路往西"
+    },
+    {
+      "CCTVID": "N01-008",
+      "LinkID": "6448150500000J",
+      "VideoStreamURL": "http://124.199.98.109/jpeg?cam=08",
+      "LocationType": 2,
+      "PositionLon": 121.00754,
+      "PositionLat": 24.88029,
+      "SurveillanceType": 1,
+      "SurveillanceDescription": "湖口鄉台1線新興路與仰德高中-台1線往南"
+    },
+    {
+      "CCTVID": "N01-009-CC203",
+      "LinkID": "6441440000110J",
+      "VideoStreamURL": "http://124.199.98.109/jpeg?cam=9",
+      "LocationType": 2,
+      "PositionLon": 120.99731,
+      "PositionLat": 24.82531,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "竹北市中華路與興隆路一段-中華路"
+    },
+    {
+      "CCTVID": "N01-010-CC204",
+      "LinkID": "6441440400120J",
+      "VideoStreamURL": "http://124.199.98.109/jpeg?cam=10",
+      "LocationType": 2,
+      "PositionLon": 120.99721,
+      "PositionLat": 24.82535,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "竹北市中華路與興隆路一段-中華路"
+    },
+    {
+      "CCTVID": "N01-011-CC205",
+      "LinkID": "6443340300000J",
+      "VideoStreamURL": "http://124.199.98.109/jpeg?cam=11",
+      "LocationType": 2,
+      "PositionLon": 121.0284,
+      "PositionLat": 24.81961,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "竹北市光明六路東二段自強南路-光明六路東二段"
+    },
+    {
+      "CCTVID": "N01-012-CC206",
+      "LinkID": "6444180100060J",
+      "VideoStreamURL": "http://124.199.98.109/jpeg?cam=12",
+      "LocationType": 2,
+      "PositionLon": 121.028487,
+      "PositionLat": 24.820046,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "竹北市光明六路東二段自強南路-自強南路"
+    },
+    {
+      "CCTVID": "N01-013-CC207",
+      "LinkID": "6444190500010J",
+      "VideoStreamURL": "http://124.199.98.109/jpeg?cam=13",
+      "LocationType": 2,
+      "PositionLon": 121.02794,
+      "PositionLat": 24.81956,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "竹北市光明六路東二段自強南路-自強北路"
+    },
+    {
+      "CCTVID": "N01-015-CC210",
+      "LinkID": "6442560700000J",
+      "VideoStreamURL": "http://124.199.98.109/jpeg?cam=15",
+      "LocationType": 2,
+      "PositionLon": 121.02346,
+      "PositionLat": 24.81314,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "竹北市自強南路與文興路-文興路"
+    },
+    {
+      "CCTVID": "N01-016-CC211",
+      "LinkID": "6444190500050J",
+      "VideoStreamURL": "http://124.199.98.109/jpeg?cam=16",
+      "LocationType": 2,
+      "PositionLon": 121.02307,
+      "PositionLat": 24.81307,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "竹北市自強南路與文興路-自強南路"
+    },
+    {
+      "CCTVID": "N01-017-CC209",
+      "LinkID": "1006801004030J",
+      "VideoStreamURL": "http://124.199.98.109/jpeg?cam=17",
+      "LocationType": 2,
+      "PositionLon": 121.01939,
+      "PositionLat": 24.80814,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "竹北市經國橋台68匝道出口-匝道出口"
+    },
+    {
+      "CCTVID": "N01-018-CC208",
+      "LinkID": "1006801004030J",
+      "VideoStreamURL": "http://124.199.98.109/jpeg?cam=18",
+      "LocationType": 2,
+      "PositionLon": 121.019469,
+      "PositionLat": 24.80808,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "竹北市經國橋台68匝道出口-平面"
+    },
+    {
+      "CCTVID": "N01-020-CC212",
+      "LinkID": "6444190100050J",
+      "VideoStreamURL": "http://124.199.98.109/jpeg?cam=20",
+      "LocationType": 4,
+      "PositionLon": 121.02255,
+      "PositionLat": 24.81199,
+      "SurveillanceType": 1,
+      "SurveillanceDescription": "竹北市自強南路-經國橋下橋處"
+    },
+    {
+      "CCTVID": "N01-023-CC213",
+      "LinkID": "6450560000000J",
+      "VideoStreamURL": "http://124.199.98.109/jpeg?cam=23",
+      "LocationType": 1,
+      "PositionLon": 121.03755,
+      "PositionLat": 24.79956,
+      "SurveillanceType": 1,
+      "SurveillanceDescription": "竹北市興隆大橋-往竹北"
+    },
+    {
+      "CCTVID": "N01-024-CC214",
+      "LinkID": "6446370400000J",
+      "VideoStreamURL": "http://124.199.98.109/jpeg?cam=24",
+      "LocationType": 1,
+      "PositionLon": 121.03947,
+      "PositionLat": 24.80618,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "竹北市高鐵五路與文興路二段-高鐵五路"
+    }
+  ]
+}

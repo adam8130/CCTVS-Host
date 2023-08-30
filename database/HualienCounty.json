@@ -1,0 +1,6465 @@
+{
+  "UpdateTime": "2023-08-30T00:22:26+08:00",
+  "UpdateInterval": 21600,
+  "SrcUpdateTime": "2023-08-30T00:00:07+08:00",
+  "SrcUpdateInterval": 86400,
+  "AuthorityCode": "HUA",
+  "LinkVersion": "22.09.1",
+  "CCTVs": [
+    {
+      "CCTVID": "CAM01",
+      "LinkID": "3000900018611U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.609036,
+      "PositionLat": 24.0101,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-嘉新路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM02",
+      "LinkID": "3000900018628U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.609165,
+      "PositionLat": 24.00879,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-嘉新路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "S",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM03",
+      "LinkID": "6791130500000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.609355,
+      "PositionLat": 24.009549,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-嘉新路",
+      "RoadID": "road_id2",
+      "RoadName": "嘉新路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM04",
+      "LinkID": "6791130100010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.608631,
+      "PositionLat": 24.009261,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-嘉新路",
+      "RoadID": "road_id2",
+      "RoadName": "嘉新路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM05",
+      "LinkID": "6800300100030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.615788,
+      "PositionLat": 24.008022,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "嘉南路-嘉新路",
+      "RoadID": "road_id3",
+      "RoadName": "嘉南路",
+      "RoadClass": 0,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM06",
+      "LinkID": "6800300500030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.615758,
+      "PositionLat": 24.007935,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "嘉南路-嘉新路",
+      "RoadID": "road_id3",
+      "RoadName": "嘉南路",
+      "RoadClass": 0,
+      "RoadDirection": "S",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM07",
+      "LinkID": "6801410300020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.615993,
+      "PositionLat": 24.00759,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "嘉南路-嘉新路",
+      "RoadID": "road_id2",
+      "RoadName": "嘉新路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM08",
+      "LinkID": "6801410600000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.615394,
+      "PositionLat": 24.007663,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "嘉南路-嘉新路",
+      "RoadID": "road_id2",
+      "RoadName": "嘉新路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM09",
+      "LinkID": "6801410300010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.61509,
+      "PositionLat": 24.007635,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海星加油站-嘉新路",
+      "RoadID": "road_id4",
+      "RoadName": "海星加油站",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM10",
+      "LinkID": "6801410300010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.615032,
+      "PositionLat": 24.007386,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海星加油站-嘉新路",
+      "RoadID": "road_id4",
+      "RoadName": "海星加油站",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM100",
+      "LinkID": "6795040200010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.590053,
+      "PositionLat": 23.96452,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安中山路-吉豐路",
+      "RoadID": "road_id22",
+      "RoadName": "吉豐路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM101",
+      "LinkID": "6795040600000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.589299,
+      "PositionLat": 23.964455,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安中山路-吉豐路",
+      "RoadID": "road_id22",
+      "RoadName": "吉豐路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM102",
+      "LinkID": "6794760600060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.547634,
+      "PositionLat": 23.945192,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安路-干城二街",
+      "RoadID": "road_id24",
+      "RoadName": "吉安路",
+      "RoadClass": 0,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM103",
+      "LinkID": "6794760600050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.547577,
+      "PositionLat": 23.944496,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安路-干城二街",
+      "RoadID": "road_id24",
+      "RoadName": "吉安路",
+      "RoadClass": 0,
+      "RoadDirection": "S",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM104",
+      "LinkID": "6794760200060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.547157,
+      "PositionLat": 23.945075,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安路-干城二街",
+      "RoadID": "road_id25",
+      "RoadName": "干城二街",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM105",
+      "LinkID": "6794760200060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.547119,
+      "PositionLat": 23.944628,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安路-干城二街",
+      "RoadID": "road_id25",
+      "RoadName": "干城二街",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM106",
+      "LinkID": "6795070500020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.545339,
+      "PositionLat": 23.941617,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "台9線-吉城二街",
+      "RoadID": "road_id26",
+      "RoadName": "台9線",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM107",
+      "LinkID": "6795070100030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.544504,
+      "PositionLat": 23.940845,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "台9線-吉城二街",
+      "RoadID": "road_id26",
+      "RoadName": "台9線",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM108",
+      "LinkID": "6795070100030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.545254,
+      "PositionLat": 23.941038,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "台9線-吉城二街",
+      "RoadID": "road_id27",
+      "RoadName": "吉城二街",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM109",
+      "LinkID": "4019300102241U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.592279,
+      "PositionLat": 23.926826,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海岸路-南濱路",
+      "RoadID": "road_id23",
+      "RoadName": "海岸路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM11",
+      "LinkID": "6801410600000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.615375,
+      "PositionLat": 24.007626,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海星加油站-嘉新路",
+      "RoadID": "road_id2",
+      "RoadName": "嘉新路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM110",
+      "LinkID": "6798510400040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.591047,
+      "PositionLat": 23.927436,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海岸路-南濱路",
+      "RoadID": "road_id23",
+      "RoadName": "海岸路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM111",
+      "LinkID": "6797770000060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.592002,
+      "PositionLat": 23.927631,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海岸路-南濱路",
+      "RoadID": "road_id28",
+      "RoadName": "南濱路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM112",
+      "LinkID": "3001130100002U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.591464,
+      "PositionLat": 23.926481,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海岸路-南濱路",
+      "RoadID": "road_id28",
+      "RoadName": "南濱路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM113",
+      "LinkID": "3001100100587U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.604672,
+      "PositionLat": 23.925601,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "花東海岸公路-嶺頂山路",
+      "RoadID": "road_id28",
+      "RoadName": "花東海岸公路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM114",
+      "LinkID": "3001100100587U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.603999,
+      "PositionLat": 23.925114,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "花東海岸公路-嶺頂山路",
+      "RoadID": "road_id28",
+      "RoadName": "花東海岸公路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM115",
+      "LinkID": "3001100000587U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.604765,
+      "PositionLat": 23.925389,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "花東海岸公路-嶺頂山路",
+      "RoadID": "road_id29",
+      "RoadName": "嶺頂山路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM116",
+      "LinkID": "6803050500010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.554034,
+      "PositionLat": 23.895687,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "豐坪路-大學路",
+      "RoadID": "road_id30",
+      "RoadName": "豐坪路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM117",
+      "LinkID": "6803050100030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.552336,
+      "PositionLat": 23.894289,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "豐坪路-大學路",
+      "RoadID": "road_id30",
+      "RoadName": "豐坪路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM118",
+      "LinkID": "6790630500010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.552563,
+      "PositionLat": 23.895848,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "豐坪路-大學路",
+      "RoadID": "road_id31",
+      "RoadName": "大學路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM119",
+      "LinkID": "6790630100000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.552059,
+      "PositionLat": 23.894883,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "豐坪路-大學路",
+      "RoadID": "road_id31",
+      "RoadName": "大學路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM12",
+      "LinkID": "6801410300010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.614436,
+      "PositionLat": 24.007434,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海星加油站-嘉新路",
+      "RoadID": "road_id2",
+      "RoadName": "嘉新路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM121",
+      "LinkID": "6790850300050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.600472,
+      "PositionLat": 23.988471,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-國聯一路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM122",
+      "LinkID": "6790850300040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.600001,
+      "PositionLat": 23.98896,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-國聯一路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM123",
+      "LinkID": "6799200500030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.600381,
+      "PositionLat": 23.98893,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-國聯一路",
+      "RoadID": "road_id32",
+      "RoadName": "國聯一路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM125",
+      "LinkID": "6799200500010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602983,
+      "PositionLat": 23.991897,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯一路-國聯三路",
+      "RoadID": "road_id32",
+      "RoadName": "國聯一路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM126",
+      "LinkID": "6799200100030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602637,
+      "PositionLat": 23.99133,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯一路-國聯三路",
+      "RoadID": "road_id32",
+      "RoadName": "國聯一路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM127",
+      "LinkID": "6799220200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.603105,
+      "PositionLat": 23.991415,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯一路-國聯三路",
+      "RoadID": "road_id33",
+      "RoadName": "國聯三路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM128",
+      "LinkID": "6799200500020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602611,
+      "PositionLat": 23.991698,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯一路-國聯三路",
+      "RoadID": "road_id33",
+      "RoadName": "國聯三路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM129",
+      "LinkID": "6799200500000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.603352,
+      "PositionLat": 23.992676,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯一路-國聯四路",
+      "RoadID": "road_id32",
+      "RoadName": "國聯一路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM13",
+      "LinkID": "6791130500023U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602399,
+      "PositionLat": 24.005304,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-十六股大道",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM130",
+      "LinkID": "6799200500010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.603214,
+      "PositionLat": 23.992383,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯一路-國聯四路",
+      "RoadID": "road_id32",
+      "RoadName": "國聯一路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM131",
+      "LinkID": "6799230200010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.603379,
+      "PositionLat": 23.992449,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯一路-國聯四路",
+      "RoadID": "road_id34",
+      "RoadName": "國聯四路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM132",
+      "LinkID": "6799230200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.603155,
+      "PositionLat": 23.992545,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯一路-國聯四路",
+      "RoadID": "road_id34",
+      "RoadName": "國聯四路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM133",
+      "LinkID": "6790850300070U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.604562,
+      "PositionLat": 23.983151,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-建國路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM134",
+      "LinkID": "6790850300060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.604149,
+      "PositionLat": 23.983723,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-建國路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM135",
+      "LinkID": "6798290200010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.604681,
+      "PositionLat": 23.983273,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-建國路",
+      "RoadID": "road_id9",
+      "RoadName": "建國路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM136",
+      "LinkID": "6798290200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.604023,
+      "PositionLat": 23.983374,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-建國路",
+      "RoadID": "road_id9",
+      "RoadName": "建國路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM137",
+      "LinkID": "6790850300060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.604389,
+      "PositionLat": 23.983683,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-建國路",
+      "RoadID": "road_id35",
+      "RoadName": "明心街",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM138",
+      "LinkID": "6790850300080U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.605947,
+      "PositionLat": 23.981507,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-林森路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM139",
+      "LinkID": "6790850300070U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.605635,
+      "PositionLat": 23.981902,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-林森路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM14",
+      "LinkID": "6791130100026U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.601578,
+      "PositionLat": 24.00412,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-十六股大道",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM140",
+      "LinkID": "6796890100010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.606042,
+      "PositionLat": 23.981823,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-林森路",
+      "RoadID": "road_id36",
+      "RoadName": "林森路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM141",
+      "LinkID": "6796890100020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.605576,
+      "PositionLat": 23.981521,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-林森路",
+      "RoadID": "road_id36",
+      "RoadName": "林森路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM142",
+      "LinkID": "6796890500000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.607999,
+      "PositionLat": 23.983156,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "林森路-明禮路",
+      "RoadID": "road_id36",
+      "RoadName": "林森路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM143",
+      "LinkID": "6796890100000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.607696,
+      "PositionLat": 23.982906,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "林森路-明禮路",
+      "RoadID": "road_id36",
+      "RoadName": "林森路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM144",
+      "LinkID": "6796440300020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.608004,
+      "PositionLat": 23.9829,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "林森路-明禮路",
+      "RoadID": "road_id37",
+      "RoadName": "明禮路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM145",
+      "LinkID": "6796440300010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.607688,
+      "PositionLat": 23.983282,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "林森路-明禮路",
+      "RoadID": "road_id37",
+      "RoadName": "明禮路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM146",
+      "LinkID": "6796890100020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.600545,
+      "PositionLat": 23.978235,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "林森路-和平路",
+      "RoadID": "road_id36",
+      "RoadName": "林森路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM147",
+      "LinkID": "6796890100030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.600072,
+      "PositionLat": 23.97791,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "林森路-和平路",
+      "RoadID": "road_id36",
+      "RoadName": "林森路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM148",
+      "LinkID": "6795780300020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.600401,
+      "PositionLat": 23.977909,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "林森路-和平路",
+      "RoadID": "road_id13",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM149",
+      "LinkID": "6795780300010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.600148,
+      "PositionLat": 23.978251,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "林森路-和平路",
+      "RoadID": "road_id13",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM15",
+      "LinkID": "6803220200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602346,
+      "PositionLat": 24.004549,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-十六股大道",
+      "RoadID": "road_id5",
+      "RoadName": "十六股大道",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM150",
+      "LinkID": "6791230500010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.610965,
+      "PositionLat": 23.979611,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-明禮路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM151",
+      "LinkID": "6791230500020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.610567,
+      "PositionLat": 23.979332,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-明禮路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM152",
+      "LinkID": "6796440300040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.610906,
+      "PositionLat": 23.97927,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-明禮路",
+      "RoadID": "road_id37",
+      "RoadName": "明禮路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM153",
+      "LinkID": "6796440300030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.610641,
+      "PositionLat": 23.9797,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-明禮路",
+      "RoadID": "road_id37",
+      "RoadName": "明禮路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM154",
+      "LinkID": "6791230500040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.603312,
+      "PositionLat": 23.974601,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-和平路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM155",
+      "LinkID": "6791230100050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602856,
+      "PositionLat": 23.974284,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-和平路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM156",
+      "LinkID": "6795780300050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.603223,
+      "PositionLat": 23.974256,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-和平路",
+      "RoadID": "road_id13",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM157",
+      "LinkID": "6795780300040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602927,
+      "PositionLat": 23.974613,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-和平路",
+      "RoadID": "road_id13",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM158",
+      "LinkID": "6791590600030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.59666,
+      "PositionLat": 23.974852,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-林森路",
+      "RoadID": "road_id11",
+      "RoadName": "中華路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM159",
+      "LinkID": "6791590600020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.595947,
+      "PositionLat": 23.9748,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-林森路",
+      "RoadID": "road_id11",
+      "RoadName": "中華路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM16",
+      "LinkID": "6799240400030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.606071,
+      "PositionLat": 23.988511,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯五路-商校街",
+      "RoadID": "road_id6",
+      "RoadName": "國聯五路",
+      "RoadClass": 0,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM160",
+      "LinkID": "6796890100030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.596619,
+      "PositionLat": 23.975272,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-林森路",
+      "RoadID": "road_id36",
+      "RoadName": "林森路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM161",
+      "LinkID": "6791590600020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.596532,
+      "PositionLat": 23.974591,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-林森路",
+      "RoadID": "road_id38",
+      "RoadName": "榮正街",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM162",
+      "LinkID": "6796890500030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.596057,
+      "PositionLat": 23.975086,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-林森路",
+      "RoadID": "road_id38",
+      "RoadName": "榮正街",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM163",
+      "LinkID": "6791590600030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.596202,
+      "PositionLat": 23.974557,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-林森路",
+      "RoadID": "road_id39",
+      "RoadName": "德安一街",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM164",
+      "LinkID": "6790850300110U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.610023,
+      "PositionLat": 23.976175,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-中華路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM165",
+      "LinkID": "6790850300100U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.609653,
+      "PositionLat": 23.976666,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-中華路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM166",
+      "LinkID": "6792390200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.610117,
+      "PositionLat": 23.976493,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-中華路",
+      "RoadID": "road_id40",
+      "RoadName": "公園路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM167",
+      "LinkID": "6791590200070U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.609619,
+      "PositionLat": 23.976312,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-中華路",
+      "RoadID": "road_id11",
+      "RoadName": "中華路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM168",
+      "LinkID": "6791590600050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.60452,
+      "PositionLat": 23.975697,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-仁愛街",
+      "RoadID": "road_id11",
+      "RoadName": "中華路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM169",
+      "LinkID": "6791590600050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.603838,
+      "PositionLat": 23.975627,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-仁愛街",
+      "RoadID": "road_id11",
+      "RoadName": "中華路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM17",
+      "LinkID": "6800610400000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.606299,
+      "PositionLat": 23.987616,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯五路-商校街",
+      "RoadID": "road_id6",
+      "RoadName": "國聯五路",
+      "RoadClass": 0,
+      "RoadDirection": "S",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM170",
+      "LinkID": "6791590600050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.60431,
+      "PositionLat": 23.975514,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-仁愛街",
+      "RoadID": "road_id41",
+      "RoadName": "仁愛街",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM171",
+      "LinkID": "6791590600050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.60401,
+      "PositionLat": 23.975895,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-仁愛街",
+      "RoadID": "road_id41",
+      "RoadName": "仁愛街",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM172",
+      "LinkID": "6795780300000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.592936,
+      "PositionLat": 23.981191,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-自立路",
+      "RoadID": "road_id13",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM173",
+      "LinkID": "6795790300020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.592557,
+      "PositionLat": 23.981294,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-自立路",
+      "RoadID": "road_id13",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM174",
+      "LinkID": "6795330100000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.592895,
+      "PositionLat": 23.981363,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-自立路",
+      "RoadID": "road_id42",
+      "RoadName": "自立路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM175",
+      "LinkID": "6795320100000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.592721,
+      "PositionLat": 23.981096,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-自立路",
+      "RoadID": "road_id42",
+      "RoadName": "自立路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM176",
+      "LinkID": "6790850300100U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.608722,
+      "PositionLat": 23.977864,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-中正路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM177",
+      "LinkID": "6790850300090U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.608417,
+      "PositionLat": 23.978253,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-中正路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM178",
+      "LinkID": "6791230100020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.608822,
+      "PositionLat": 23.978196,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-中正路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM179",
+      "LinkID": "6791230100030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.6084,
+      "PositionLat": 23.977925,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-中正路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM18",
+      "LinkID": "6800610000000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.60651,
+      "PositionLat": 23.988116,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯五路-商校街",
+      "RoadID": "road_id7",
+      "RoadName": "商校街",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM180",
+      "LinkID": "6790850300120U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.61159,
+      "PositionLat": 23.974143,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-重慶路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM181",
+      "LinkID": "6790850300110U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.611378,
+      "PositionLat": 23.974424,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-重慶路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM182",
+      "LinkID": "6798480100000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.611368,
+      "PositionLat": 23.974067,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-重慶路",
+      "RoadID": "road_id43",
+      "RoadName": "重慶路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM183",
+      "LinkID": "6798580000000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.611564,
+      "PositionLat": 23.974427,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-重慶路",
+      "RoadID": "road_id44",
+      "RoadName": "軒轅路",
+      "RoadClass": 0,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM184",
+      "LinkID": "6798480100000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.611665,
+      "PositionLat": 23.974326,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-重慶路",
+      "RoadID": "road_id45",
+      "RoadName": "花崗街",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM185",
+      "LinkID": "6790850300000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.594749,
+      "PositionLat": 23.99576,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-吉安中山路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM186",
+      "LinkID": "6790930300020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.594231,
+      "PositionLat": 23.996428,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-吉安中山路",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM187",
+      "LinkID": "6791130500040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.594731,
+      "PositionLat": 23.996478,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-吉安中山路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM188",
+      "LinkID": "6791120100000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.59415,
+      "PositionLat": 23.995611,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-吉安中山路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM189",
+      "LinkID": "6798530100070U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.620573,
+      "PositionLat": 23.981586,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海岸路-民權路",
+      "RoadID": "road_id23",
+      "RoadName": "海岸路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM19",
+      "LinkID": "6800610000000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.605884,
+      "PositionLat": 23.988102,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯五路-商校街",
+      "RoadID": "road_id7",
+      "RoadName": "商校街",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM190",
+      "LinkID": "4019300001546U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.619527,
+      "PositionLat": 23.98088,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海岸路-民權路",
+      "RoadID": "road_id23",
+      "RoadName": "海岸路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM191",
+      "LinkID": "6794060500100U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.620516,
+      "PositionLat": 23.981698,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海岸路-民權路",
+      "RoadID": "road_id46",
+      "RoadName": "民權路",
+      "RoadClass": 0,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM192",
+      "LinkID": "6793890200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.620152,
+      "PositionLat": 23.981103,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "海岸路-民權路",
+      "RoadID": "road_id47",
+      "RoadName": "花蓮港",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM193",
+      "LinkID": "6800960000000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.616874,
+      "PositionLat": 23.993383,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "新興路-瑞美路",
+      "RoadID": "road_id48",
+      "RoadName": "新興路",
+      "RoadClass": 0,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM194",
+      "LinkID": "6800960000010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.616824,
+      "PositionLat": 23.992652,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "新興路-瑞美路",
+      "RoadID": "road_id48",
+      "RoadName": "新興路",
+      "RoadClass": 0,
+      "RoadDirection": "S",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM195",
+      "LinkID": "6801100200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.617422,
+      "PositionLat": 23.993062,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "新興路-瑞美路",
+      "RoadID": "road_id49",
+      "RoadName": "瑞美路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM20",
+      "LinkID": "6800610000000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.606476,
+      "PositionLat": 23.987935,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "國聯五路-商校街",
+      "RoadID": "road_id7",
+      "RoadName": "商校街",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM21",
+      "LinkID": "6790850300060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.601333,
+      "PositionLat": 23.987358,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-商校街",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM22",
+      "LinkID": "6790850300060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.60166,
+      "PositionLat": 23.986922,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-商校街",
+      "RoadID": "road_id8",
+      "RoadName": "中山路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM23",
+      "LinkID": "6790850300060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.601893,
+      "PositionLat": 23.987299,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-商校街",
+      "RoadID": "road_id7",
+      "RoadName": "商校街",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM24",
+      "LinkID": "6790850300060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.601103,
+      "PositionLat": 23.987115,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中山路-商校街",
+      "RoadID": "road_id7",
+      "RoadName": "商校街",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM25",
+      "LinkID": "6798290200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.603089,
+      "PositionLat": 23.983555,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-明智街",
+      "RoadID": "road_id9",
+      "RoadName": "建國路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM26",
+      "LinkID": "6798290200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602701,
+      "PositionLat": 23.983622,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-明智街",
+      "RoadID": "road_id9",
+      "RoadName": "建國路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM27",
+      "LinkID": "6798290200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602988,
+      "PositionLat": 23.983907,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-明智街",
+      "RoadID": "road_id10",
+      "RoadName": "明智街",
+      "RoadClass": 0,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM28",
+      "LinkID": "6798290200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602976,
+      "PositionLat": 23.983548,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-明智街",
+      "RoadID": "road_id10",
+      "RoadName": "明智街",
+      "RoadClass": 0,
+      "RoadDirection": "S",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM29",
+      "LinkID": "6798290200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.603085,
+      "PositionLat": 23.983546,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-明智街",
+      "RoadID": "road_id10",
+      "RoadName": "明智街",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM30",
+      "LinkID": "6798290200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602596,
+      "PositionLat": 23.983544,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-明智街",
+      "RoadID": "road_id10",
+      "RoadName": "明智街",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM31",
+      "LinkID": "6791590200060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.605875,
+      "PositionLat": 23.975842,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-中正路",
+      "RoadID": "road_id11",
+      "RoadName": "中華路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM32",
+      "LinkID": "6791590600050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.604459,
+      "PositionLat": 23.975695,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-中正路",
+      "RoadID": "road_id11",
+      "RoadName": "中華路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM33",
+      "LinkID": "6791230500030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.605508,
+      "PositionLat": 23.976015,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-中正路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM34",
+      "LinkID": "6791230500040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.604746,
+      "PositionLat": 23.975503,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-中正路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM35",
+      "LinkID": "6791590600050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.60284,
+      "PositionLat": 23.975484,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-和平路",
+      "RoadID": "road_id11",
+      "RoadName": "中華路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM36",
+      "LinkID": "6791590200040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.601664,
+      "PositionLat": 23.975374,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-和平路",
+      "RoadID": "road_id11",
+      "RoadName": "中華路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM37",
+      "LinkID": "6795780300040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602436,
+      "PositionLat": 23.975243,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-和平路",
+      "RoadID": "road_id13",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM38",
+      "LinkID": "6795780300030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.602132,
+      "PositionLat": 23.975616,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-和平路",
+      "RoadID": "road_id13",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM39",
+      "LinkID": "6791590600020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.594538,
+      "PositionLat": 23.97468,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-中原路",
+      "RoadID": "road_id11",
+      "RoadName": "中華路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM40",
+      "LinkID": "6791590200010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.593927,
+      "PositionLat": 23.974614,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-中原路",
+      "RoadID": "road_id11",
+      "RoadName": "中華路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM41",
+      "LinkID": "6791500700050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.594462,
+      "PositionLat": 23.974457,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-中原路",
+      "RoadID": "road_id14",
+      "RoadName": "中原路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM42",
+      "LinkID": "6791500700040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.594103,
+      "PositionLat": 23.974864,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中華路-中原路",
+      "RoadID": "road_id14",
+      "RoadName": "中原路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM43",
+      "LinkID": "6791230100060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.597878,
+      "PositionLat": 23.971024,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-中原路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM44",
+      "LinkID": "6791230100070U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.597453,
+      "PositionLat": 23.97073,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-中原路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM45",
+      "LinkID": "6791500300060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.597941,
+      "PositionLat": 23.970654,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-中原路",
+      "RoadID": "road_id14",
+      "RoadName": "中原路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM46",
+      "LinkID": "6791500700050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.597439,
+      "PositionLat": 23.971176,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-中原路",
+      "RoadID": "road_id14",
+      "RoadName": "中原路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM47",
+      "LinkID": "6798310600030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.595629,
+      "PositionLat": 23.984976,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-自立路",
+      "RoadID": "road_id15",
+      "RoadName": "建國路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM48",
+      "LinkID": "6798310200020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.59473,
+      "PositionLat": 23.985185,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-自立路",
+      "RoadID": "road_id15",
+      "RoadName": "建國路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM49",
+      "LinkID": "6795310400010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.595361,
+      "PositionLat": 23.98539,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-自立路",
+      "RoadID": "road_id16",
+      "RoadName": "自立路",
+      "RoadClass": 0,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM50",
+      "LinkID": "6795330500000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.595022,
+      "PositionLat": 23.984765,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-自立路",
+      "RoadID": "road_id16",
+      "RoadName": "自立路",
+      "RoadClass": 0,
+      "RoadDirection": "S",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM51",
+      "LinkID": "6798310200020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.59154,
+      "PositionLat": 23.985884,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-自強路",
+      "RoadID": "road_id15",
+      "RoadName": "建國路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM52",
+      "LinkID": "6798310200010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.590835,
+      "PositionLat": 23.98611,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-自強路",
+      "RoadID": "road_id15",
+      "RoadName": "建國路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM53",
+      "LinkID": "6795430100010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.591529,
+      "PositionLat": 23.986238,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-自強路",
+      "RoadID": "road_id17",
+      "RoadName": "自強路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM54",
+      "LinkID": "6795430100020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.591022,
+      "PositionLat": 23.985609,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-自強路",
+      "RoadID": "road_id17",
+      "RoadName": "自強路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM55",
+      "LinkID": "6798310200010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.58832,
+      "PositionLat": 23.986928,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-中央路",
+      "RoadID": "road_id15",
+      "RoadName": "建國路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM56",
+      "LinkID": "6798310000000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.587326,
+      "PositionLat": 23.987301,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-中央路",
+      "RoadID": "road_id15",
+      "RoadName": "建國路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM57",
+      "LinkID": "6791120500020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.588119,
+      "PositionLat": 23.987514,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-中央路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "N",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM58",
+      "LinkID": "6791120100030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.587679,
+      "PositionLat": 23.986487,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "建國路-中央路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "S",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM59",
+      "LinkID": "6795790700020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.589512,
+      "PositionLat": 23.982905,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-自強路",
+      "RoadID": "road_id18",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM60",
+      "LinkID": "6795790300010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.588702,
+      "PositionLat": 23.983319,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-自強路",
+      "RoadID": "road_id18",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM61",
+      "LinkID": "6795430100020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.589435,
+      "PositionLat": 23.983412,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-自強路",
+      "RoadID": "road_id17",
+      "RoadName": "自強路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM62",
+      "LinkID": "6795430100030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.588926,
+      "PositionLat": 23.982644,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-自強路",
+      "RoadID": "road_id17",
+      "RoadName": "自強路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM63",
+      "LinkID": "6795790300010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.586843,
+      "PositionLat": 23.984324,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-中央路",
+      "RoadID": "road_id18",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM64",
+      "LinkID": "6795790300000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.585989,
+      "PositionLat": 23.984782,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-中央路",
+      "RoadID": "road_id18",
+      "RoadName": "和平路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM65",
+      "LinkID": "6791120500030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.586624,
+      "PositionLat": 23.984938,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-中央路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM66",
+      "LinkID": "6791120100040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.586265,
+      "PositionLat": 23.98413,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "和平路-中央路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM67",
+      "LinkID": "6791510700010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.584756,
+      "PositionLat": 23.980778,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中原路-中央路",
+      "RoadID": "road_id14",
+      "RoadName": "中原路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM68",
+      "LinkID": "6791510700000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.583938,
+      "PositionLat": 23.981204,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中原路-中央路",
+      "RoadID": "road_id14",
+      "RoadName": "中原路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM69",
+      "LinkID": "6791120500050U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.58452,
+      "PositionLat": 23.981381,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中原路-中央路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM70",
+      "LinkID": "6791120100060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.584134,
+      "PositionLat": 23.980541,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中原路-中央路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM71",
+      "LinkID": "6795320500010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.590835,
+      "PositionLat": 23.977988,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "自立路-中原路",
+      "RoadID": "road_id16",
+      "RoadName": "自立路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM72",
+      "LinkID": "6795320500010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.590429,
+      "PositionLat": 23.977343,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "自立路-中原路",
+      "RoadID": "road_id16",
+      "RoadName": "自立路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM73",
+      "LinkID": "6791500700000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.59099,
+      "PositionLat": 23.977439,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "自立路-中原路",
+      "RoadID": "road_id14",
+      "RoadName": "中原路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM74",
+      "LinkID": "6791510300020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.590178,
+      "PositionLat": 23.977855,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "自立路-中原路",
+      "RoadID": "road_id14",
+      "RoadName": "中原路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM75",
+      "LinkID": "6791120500060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.581961,
+      "PositionLat": 23.977431,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-慈惠一街",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM76",
+      "LinkID": "6791110100000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.581223,
+      "PositionLat": 23.976868,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-慈惠一街",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM77",
+      "LinkID": "6791120100060U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.582144,
+      "PositionLat": 23.976916,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-慈惠一街",
+      "RoadID": "road_id19",
+      "RoadName": "慈惠一街",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM78",
+      "LinkID": "6791110500000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.580664,
+      "PositionLat": 23.977109,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-慈惠一街",
+      "RoadID": "road_id19",
+      "RoadName": "慈惠一街",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM79",
+      "LinkID": "6791110500000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.575979,
+      "PositionLat": 23.975778,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-吉安中山路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM80",
+      "LinkID": "6791110100010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.574455,
+      "PositionLat": 23.975204,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-吉安中山路",
+      "RoadID": "road_id1",
+      "RoadName": "中央路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM81",
+      "LinkID": "6791010700020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.575669,
+      "PositionLat": 23.975121,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-吉安中山路",
+      "RoadID": "road_id20",
+      "RoadName": "吉安中山路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM82",
+      "LinkID": "6791010700010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.574339,
+      "PositionLat": 23.975887,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中央路-吉安中山路",
+      "RoadID": "road_id20",
+      "RoadName": "吉安中山路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM83",
+      "LinkID": "6791620200000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.579579,
+      "PositionLat": 23.973345,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安中山路-吉安中華路",
+      "RoadID": "road_id21",
+      "RoadName": "吉安中華路",
+      "RoadClass": 0,
+      "RoadDirection": "E",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM84",
+      "LinkID": "6795010500000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.578767,
+      "PositionLat": 23.972903,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安中山路-吉安中華路",
+      "RoadID": "road_id21",
+      "RoadName": "吉安中華路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM85",
+      "LinkID": "6790950700000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.579596,
+      "PositionLat": 23.973028,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安中山路-吉安中華路",
+      "RoadID": "road_id20",
+      "RoadName": "吉安中山路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM86",
+      "LinkID": "6791010700020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.578636,
+      "PositionLat": 23.973532,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安中山路-吉安中華路",
+      "RoadID": "road_id20",
+      "RoadName": "吉安中山路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM87",
+      "LinkID": "6791250100000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.593769,
+      "PositionLat": 23.968207,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-東海六街",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM88",
+      "LinkID": "6791250100020U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.593241,
+      "PositionLat": 23.967621,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-東海六街",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM89",
+      "LinkID": "6791250100010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.593785,
+      "PositionLat": 23.967587,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-東海六街",
+      "RoadID": "road_id21",
+      "RoadName": "東海六街",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM90",
+      "LinkID": "6791250100010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.59319,
+      "PositionLat": 23.968267,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-東海六街",
+      "RoadID": "road_id21",
+      "RoadName": "東海六街",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM91",
+      "LinkID": "6795040200010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.590089,
+      "PositionLat": 23.964518,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉豐路-中正路",
+      "RoadID": "road_id22",
+      "RoadName": "吉豐路",
+      "RoadClass": 0,
+      "RoadDirection": "W",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM92",
+      "LinkID": "6791250500030U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.590564,
+      "PositionLat": 23.964717,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉豐路-中正路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM93",
+      "LinkID": "6791250500040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.590168,
+      "PositionLat": 23.964329,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉豐路-中正路",
+      "RoadID": "road_id23",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM94",
+      "LinkID": "6791250500040U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.590165,
+      "PositionLat": 23.964242,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-海岸路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "NE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM95",
+      "LinkID": "6791290400000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.589756,
+      "PositionLat": 23.963733,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-海岸路",
+      "RoadID": "road_id12",
+      "RoadName": "中正路",
+      "RoadClass": 0,
+      "RoadDirection": "SW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM96",
+      "LinkID": "6798510000000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.590248,
+      "PositionLat": 23.963733,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-海岸路",
+      "RoadID": "road_id23",
+      "RoadName": "海岸路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM97",
+      "LinkID": "6790890300010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.589867,
+      "PositionLat": 23.964304,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "中正路-海岸路",
+      "RoadID": "road_id23",
+      "RoadName": "海岸路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM98",
+      "LinkID": "6790890300010U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.589901,
+      "PositionLat": 23.964278,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安中山路-吉豐路",
+      "RoadID": "road_id20",
+      "RoadName": "吉安中山路",
+      "RoadClass": 0,
+      "RoadDirection": "SE",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "CAM99",
+      "LinkID": "6790890700000U",
+      "VideoStreamURL": "http://223.200.143.142/zrs/live_video.php?id=1&img=1",
+      "LocationType": 4,
+      "PositionLon": 121.589566,
+      "PositionLat": 23.964817,
+      "SurveillanceType": 2,
+      "SurveillanceDescription": "吉安中山路-吉豐路",
+      "RoadID": "road_id20",
+      "RoadName": "吉安中山路",
+      "RoadClass": 0,
+      "RoadDirection": "NW",
+      "RoadSection": {
+        "Start": " ",
+        "End": " "
+      }
+    },
+    {
+      "CCTVID": "300141009747",
+      "VideoStreamURL": "https://cctv-ss04.thb.gov.tw:443/T14A-32K+781",
+      "PositionLon": 121.284496,
+      "PositionLat": 24.141981,
+      "SurveillanceDescription": "合歡山遊客服務中心",
+      "RoadName": " 台14甲線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300141009730",
+      "VideoStreamURL": "https://cctv-ss04.thb.gov.tw:443/T14A-32K+781-2",
+      "PositionLon": 121.284496,
+      "PositionLat": 24.141981,
+      "SurveillanceDescription": "雪厚標尺",
+      "RoadName": " 台14甲線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300113009146",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11C-000K+250",
+      "PositionLon": 121.590763,
+      "PositionLat": 23.925381,
+      "SurveillanceDescription": "台11丙線 000K+250",
+      "RoadName": " 台11丙線",
+      "CityName": "花蓮縣",
+      "TownName": "吉安鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300112999541",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11C-018K+200",
+      "PositionLon": 121.472388,
+      "PositionLat": 23.815481,
+      "SurveillanceDescription": "壽豐鄉台11丙18K+200與台9線228k+600路口以東200公尺|距台9線200公尺(順)",
+      "RoadName": " 台11丙線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300111009455",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11A-003K+800",
+      "PositionLon": 121.457111,
+      "PositionLat": 23.656663,
+      "SurveillanceDescription": "豐濱鄉台11甲與193線共線北側(順)",
+      "RoadName": " 台11甲線",
+      "CityName": "花蓮縣",
+      "TownName": "光復鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300111009951",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11A-003K+900",
+      "PositionLon": 121.457629,
+      "PositionLat": 23.656369,
+      "SurveillanceDescription": "光復鄉台11甲及193線叉路前順椿路側(逆)",
+      "RoadName": " 台11甲線",
+      "CityName": "花蓮縣",
+      "TownName": "光復鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110999504",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11A-016K+400",
+      "PositionLon": 121.505739,
+      "PositionLat": 23.615125,
+      "SurveillanceDescription": "豐濱鄉柵欄西50M順椿路側(逆)",
+      "RoadName": " 台11甲線",
+      "CityName": "花蓮縣",
+      "TownName": "豐濱鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110999939",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11A-018K+500",
+      "PositionLon": 121.516283,
+      "PositionLat": 23.603835,
+      "SurveillanceDescription": "豐濱鄉台11甲線縮前路段逆椿路側(順)",
+      "RoadName": " 台11甲線",
+      "CityName": "花蓮縣",
+      "TownName": "豐濱鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110999210",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11A-019K+000",
+      "PositionLon": 121.520495,
+      "PositionLat": 23.602069,
+      "SurveillanceDescription": "豐濱鄉台11線叉口400M郵局斜對面，附掛逆樁標示桿|豐濱加油站(逆)",
+      "RoadName": " 台11甲線",
+      "CityName": "花蓮縣",
+      "TownName": "豐濱鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300109999177",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-004K+960",
+      "PositionLon": 121.592805,
+      "PositionLat": 23.926319,
+      "SurveillanceDescription": "吉安鄉台11丙/台11線路口約20公尺(逆)",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "吉安鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300109999931",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-005K+970",
+      "PositionLon": 121.600166,
+      "PositionLat": 23.922536,
+      "SurveillanceDescription": "壽豐鄉舊花蓮所鐵皮外牆監看花蓮大橋(逆)",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300109999388",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-006K+080",
+      "PositionLon": 121.600408,
+      "PositionLat": 23.922734,
+      "SurveillanceDescription": "吉安鄉花蓮大橋及花工務所100m(順)",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300109999094",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-006K+025",
+      "PositionLon": 121.600862,
+      "PositionLat": 23.923049,
+      "SurveillanceDescription": "台11線 006K+025",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110009124",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-008K+800",
+      "PositionLon": 121.603733,
+      "PositionLat": 23.90533,
+      "SurveillanceDescription": "壽豐鄉海洋公園之北，中央分隔島CMS 3×8北向(順)",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110009480",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-010K+150",
+      "PositionLon": 121.60375,
+      "PositionLat": 23.893067,
+      "SurveillanceDescription": "台11線010K+150",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300109999545",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-012K+500",
+      "PositionLon": 121.598979,
+      "PositionLat": 23.873157,
+      "SurveillanceDescription": "台11線 012K+500",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110009546",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-018K+505",
+      "PositionLon": 121.582407,
+      "PositionLat": 23.821621,
+      "SurveillanceDescription": "壽豐鄉跳浪隧道北12號橋北端順椿(逆)",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110010045",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-019K+000",
+      "PositionLon": 121.580261,
+      "PositionLat": 23.817412,
+      "SurveillanceDescription": "壽豐鄉跳浪19K+120(北洞口)",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300109999941",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-019K+080",
+      "PositionLon": 121.579773,
+      "PositionLat": 23.817052,
+      "SurveillanceDescription": "台11線019K+080",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110009547",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-019K+080-1",
+      "PositionLon": 121.579897,
+      "PositionLat": 23.817078,
+      "SurveillanceDescription": "台11線019K+080-1",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110009755",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-020K+560",
+      "PositionLon": 121.572055,
+      "PositionLat": 23.807024,
+      "SurveillanceDescription": "台11線020K+560",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110009411",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-020K+560-1",
+      "PositionLon": 121.572076,
+      "PositionLat": 23.806897,
+      "SurveillanceDescription": "台11線020K+560-1",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110009320",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-020K+685",
+      "PositionLon": 121.571197,
+      "PositionLat": 23.805827,
+      "SurveillanceDescription": "台11線020K+685",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110000080",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-020K+685-1",
+      "PositionLon": 121.571514,
+      "PositionLat": 23.806066,
+      "SurveillanceDescription": "台11線020K+685-1",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110009829",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-021K+500",
+      "PositionLon": 121.567731,
+      "PositionLat": 23.799993,
+      "SurveillanceDescription": "台11線021K+500",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300109999975",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-021K+500-1",
+      "PositionLon": 121.567849,
+      "PositionLat": 23.799757,
+      "SurveillanceDescription": "台11線021K+500-1",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300109999287",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-021K+615",
+      "PositionLon": 121.568195,
+      "PositionLat": 23.798757,
+      "SurveillanceDescription": "壽豐鄉水璉隧道南口約100M逆椿路側(順)",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300109999849",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-021K+615-1",
+      "PositionLon": 121.568013,
+      "PositionLat": 23.799002,
+      "SurveillanceDescription": "台11線021K+615-1",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110009590",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-023K+500",
+      "PositionLon": 121.562891,
+      "PositionLat": 23.785077,
+      "SurveillanceDescription": "壽豐鄉水璉水新路|逆樁路側立桿(順)",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300109999950",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-033K+880",
+      "PositionLon": 121.553814,
+      "PositionLat": 23.726469,
+      "SurveillanceDescription": "豐濱鄉台電電桿376桿南5M逆椿路側(順)",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "豐濱鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110000028",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-034K+400",
+      "PositionLon": 121.550522,
+      "PositionLat": 23.722929,
+      "SurveillanceDescription": "豐濱鄉洩水溝對面逆椿路側(順)",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "豐濱鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110009671",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-036K+800",
+      "PositionLon": 121.546793,
+      "PositionLat": 23.705567,
+      "SurveillanceDescription": "壽豐鄉磯崎41號，逆樁路側立桿，道班房前(逆)",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "豐濱鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110010376",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-040K+030",
+      "PositionLon": 121.545825,
+      "PositionLat": 23.678541,
+      "SurveillanceDescription": "台11線 040K+030",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "豐濱鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110009747",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-040K+030-1",
+      "PositionLon": 121.54578,
+      "PositionLat": 23.67864,
+      "SurveillanceDescription": "台11線 040K+030-1",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "豐濱鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110009987",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-039K+960",
+      "PositionLon": 121.545766,
+      "PositionLat": 23.679228,
+      "SurveillanceDescription": "豐濱鄉新豐隧道北口70M順椿路側(逆)",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "豐濱鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110009509",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-039K+960-1",
+      "PositionLon": 121.545705,
+      "PositionLat": 23.679073,
+      "SurveillanceDescription": "台11線039K+960-1",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "豐濱鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110010250",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-040K+900",
+      "PositionLon": 121.5444,
+      "PositionLat": 23.6715,
+      "SurveillanceDescription": "台11線 040K+900",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "豐濱鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110009964",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-040K+900-1",
+      "PositionLon": 121.544311,
+      "PositionLat": 23.671441,
+      "SurveillanceDescription": "台11線 040K+900-1",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "豐濱鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300109999990",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-041K+000",
+      "PositionLon": 121.544427,
+      "PositionLat": 23.671336,
+      "SurveillanceDescription": "豐濱鄉新豐隧道南100M逆椿路側(順)",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "豐濱鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300109999943",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-041K+000-1",
+      "PositionLon": 121.544386,
+      "PositionLat": 23.670822,
+      "SurveillanceDescription": "台11線041K+000-1",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "豐濱鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110010063",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-042K+850",
+      "PositionLon": 121.539588,
+      "PositionLat": 23.656047,
+      "SurveillanceDescription": "台11線042K+850",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "豐濱鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110010005",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-049K+620",
+      "PositionLon": 121.522933,
+      "PositionLat": 23.600959,
+      "SurveillanceDescription": "台11線049K+620",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "豐濱鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110010427",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-049K+630",
+      "PositionLon": 121.522715,
+      "PositionLat": 23.600855,
+      "SurveillanceDescription": "豐濱鄉與台11甲路口監工站圍牆內(49.6k)|(順)",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "豐濱鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110000091",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-059K+450",
+      "PositionLon": 121.503038,
+      "PositionLat": 23.524045,
+      "SurveillanceDescription": "台11線059K+450",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "豐濱鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110000183",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-061K+410",
+      "PositionLon": 121.503993,
+      "PositionLat": 23.506581,
+      "SurveillanceDescription": "豐濱鄉人定勝天附近(逆)",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "豐濱鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110000345",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-062K+900",
+      "PositionLon": 121.5043,
+      "PositionLat": 23.502689,
+      "SurveillanceDescription": "壽豐鄉石梯漁港賞鯨中心之北，石梯灣25號，附掛順樁標示桿|賞鯨發源地旁(順)",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "豐濱鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300109999678",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-067K+090",
+      "PositionLon": 121.490338,
+      "PositionLat": 23.468731,
+      "SurveillanceDescription": "豐濱鄉長虹橋北端與瑞港路口(順)",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "豐濱鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300110000115",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T11-069K+050",
+      "PositionLon": 121.496576,
+      "PositionLat": 23.456307,
+      "SurveillanceDescription": "台11線 069K+050",
+      "RoadName": "台11線",
+      "CityName": "花蓮縣",
+      "TownName": "豐濱鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300141000371",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T14A-039K+050",
+      "PositionLon": 121.298385,
+      "PositionLat": 24.175046,
+      "SurveillanceDescription": "台14甲線 039K+050",
+      "RoadName": " 台14甲線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300140999754",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T14A-041K+600",
+      "PositionLon": 121.309138,
+      "PositionLat": 24.180395,
+      "SurveillanceDescription": "台14甲線 041K+600",
+      "RoadName": " 台14甲線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300140999540",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T14A-041K+700",
+      "PositionLon": 121.309815,
+      "PositionLat": 24.180608,
+      "SurveillanceDescription": "大禹嶺路側停車場電信箱旁(順)",
+      "RoadName": " 台14甲線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300230009274",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T23-000K+650",
+      "PositionLon": 121.246359,
+      "PositionLat": 23.170512,
+      "SurveillanceDescription": "富里鄉台9線叉口650M，順樁立桿(順)",
+      "RoadName": "台23線",
+      "CityName": "花蓮縣",
+      "TownName": "富里鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300229999051",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T23-001K+420",
+      "PositionLon": 121.252051,
+      "PositionLat": 23.172935,
+      "SurveillanceDescription": "富里鄉富里大橋北順樁路側(逆)",
+      "RoadName": "台23線",
+      "CityName": "花蓮縣",
+      "TownName": "富里鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300230009502",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T23-007K+048",
+      "PositionLon": 121.274431,
+      "PositionLat": 23.143352,
+      "SurveillanceDescription": "富里鄉小天祥第1隧道東100M順樁路側(逆)",
+      "RoadName": "台23線",
+      "CityName": "花蓮縣",
+      "TownName": "富里鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300230009264",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T23-007K+125",
+      "PositionLon": 121.275058,
+      "PositionLat": 23.143155,
+      "SurveillanceDescription": "富里鄉小天祥中段彎道處順樁路側(逆)",
+      "RoadName": "台23線",
+      "CityName": "花蓮縣",
+      "TownName": "富里鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300230009310",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T23-007K+250",
+      "PositionLon": 121.276268,
+      "PositionLat": 23.143108,
+      "SurveillanceDescription": "富里鄉小天祥第2隧道西100M順樁路側(逆)",
+      "RoadName": "台23線",
+      "CityName": "花蓮縣",
+      "TownName": "富里鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300230009938",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T23-007K+530",
+      "PositionLon": 121.278059,
+      "PositionLat": 23.141545,
+      "SurveillanceDescription": "富里鄉小天祥東5號橋西150M順樁路側(逆)",
+      "RoadName": "台23線",
+      "CityName": "花蓮縣",
+      "TownName": "富里鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300230009756",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T23-008K+300",
+      "PositionLon": 121.279751,
+      "PositionLat": 23.135227,
+      "SurveillanceDescription": "台23線 008K+300",
+      "RoadName": "台23線",
+      "CityName": "花蓮縣",
+      "TownName": "富里鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300230009727",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T23-011K+900",
+      "PositionLon": 121.281506,
+      "PositionLat": 23.114507,
+      "SurveillanceDescription": "富里鄉坍方路段逆樁山谷側電力桿旁(順)",
+      "RoadName": "台23線",
+      "CityName": "花蓮縣",
+      "TownName": "富里鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300230009465",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T23-014K+300",
+      "PositionLon": 121.2723,
+      "PositionLat": 23.105173,
+      "SurveillanceDescription": "台23線 014K+300",
+      "RoadName": "台23線",
+      "CityName": "花蓮縣",
+      "TownName": "富里鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300299999212",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T30-007K+200",
+      "PositionLon": 121.26526,
+      "PositionLat": 23.296803,
+      "SurveillanceDescription": "台30線 007K+200",
+      "RoadName": "台30線",
+      "CityName": "花蓮縣",
+      "TownName": "卓溪鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300299999675",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T30-009K+700",
+      "PositionLon": 121.288429,
+      "PositionLat": 23.300371,
+      "SurveillanceDescription": "台30線 009K+700",
+      "RoadName": "台30線",
+      "CityName": "花蓮縣",
+      "TownName": "玉里鎮",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300300009578",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T30-019K+600",
+      "PositionLon": 121.334082,
+      "PositionLat": 23.297058,
+      "SurveillanceDescription": "富里鄉台9線叉口100M，逆樁立桿(逆)",
+      "RoadName": "台30線",
+      "CityName": "花蓮縣",
+      "TownName": "富里鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300300010246",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T30-025K+900",
+      "PositionLon": 121.358593,
+      "PositionLat": 23.267292,
+      "SurveillanceDescription": "玉長隧道西口，附掛既設CMS門架(順)",
+      "RoadName": "台30線",
+      "CityName": "花蓮縣",
+      "TownName": "富里鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300300010060",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T30-026K+100-1",
+      "PositionLon": 121.360323,
+      "PositionLat": 23.268172,
+      "SurveillanceDescription": "富里鄉玉長隧道(機房內部)",
+      "RoadName": "台30線",
+      "CityName": "花蓮縣",
+      "TownName": "富里鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300300010036",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T30-026K+110",
+      "PositionLon": 121.360549,
+      "PositionLat": 23.268281,
+      "SurveillanceDescription": "長濱鄉玉長隧道西口外(順)",
+      "RoadName": "台30線",
+      "CityName": "花蓮縣",
+      "TownName": "富里鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300299999869",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T30-026K+180-1",
+      "PositionLon": 121.360729,
+      "PositionLat": 23.26835,
+      "SurveillanceDescription": "富里鄉玉長隧道西口外(逆)",
+      "RoadName": "台30線",
+      "CityName": "花蓮縣",
+      "TownName": "富里鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300299999288",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T30-026K+180-2",
+      "PositionLon": 121.360814,
+      "PositionLat": 23.268265,
+      "SurveillanceDescription": "富里鄉玉長隧道西口內(順)",
+      "RoadName": "台30線",
+      "CityName": "花蓮縣",
+      "TownName": "富里鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300299999719",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T30-026K+300",
+      "PositionLon": 121.364239,
+      "PositionLat": 23.267702,
+      "SurveillanceDescription": "富里鄉玉長隧道(順)",
+      "RoadName": "台30線",
+      "CityName": "花蓮縣",
+      "TownName": "富里鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300299999282",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T30-026K+500",
+      "PositionLon": 121.366308,
+      "PositionLat": 23.267355,
+      "SurveillanceDescription": "富里鄉玉長隧道(順)",
+      "RoadName": "台30線",
+      "CityName": "花蓮縣",
+      "TownName": "富里鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300299999910",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T30-026K+700",
+      "PositionLon": 121.369447,
+      "PositionLat": 23.26683,
+      "SurveillanceDescription": "富里鄉玉長隧道(順)",
+      "RoadName": "台30線",
+      "CityName": "花蓮縣",
+      "TownName": "富里鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300299999268",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T30-026K+800",
+      "PositionLon": 121.370204,
+      "PositionLat": 23.266699,
+      "SurveillanceDescription": "富里鄉玉長隧道(順)",
+      "RoadName": "台30線",
+      "CityName": "花蓮縣",
+      "TownName": "富里鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080010142",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-110K+500",
+      "PositionLon": 121.312733,
+      "PositionLat": 24.180467,
+      "SurveillanceDescription": "秀林鄉大禹嶺東向路側(逆)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080001014",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-113K+280",
+      "PositionLon": 121.33082,
+      "PositionLat": 24.186661,
+      "SurveillanceDescription": "秀林鄉地滑路段順樁路側(順)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080001081",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-114K+600",
+      "PositionLon": 121.33913,
+      "PositionLat": 24.186375,
+      "SurveillanceDescription": "秀林鄉關原|合歡派出所東(逆)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080000770",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-114K+940",
+      "PositionLon": 121.341728,
+      "PositionLat": 24.185496,
+      "SurveillanceDescription": "秀林鄉關原加油站西20M逆樁路側(順)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080001177",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-151K+740",
+      "PositionLon": 121.45095,
+      "PositionLat": 24.206686,
+      "SurveillanceDescription": "秀林鄉洛韶工務段西逆椿|往關原方向(順)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080000949",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-151K+780",
+      "PositionLon": 121.451462,
+      "PositionLat": 24.206665,
+      "SurveillanceDescription": "秀林鄉洛韶工務段東順椿(順)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080001024",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-152K+480",
+      "PositionLon": 121.454982,
+      "PositionLat": 24.202283,
+      "SurveillanceDescription": "秀林鄉上邊坡落石區間順樁路側(順)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080001157",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-155K+960",
+      "PositionLon": 121.472525,
+      "PositionLat": 24.197699,
+      "SurveillanceDescription": "秀林鄉上邊坡落石區間順樁路側(逆)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011167",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-156K+640",
+      "PositionLon": 121.477095,
+      "PositionLat": 24.19605,
+      "SurveillanceDescription": "秀林鄉上邊坡落石區間順樁路側(順)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011101",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-158K+360",
+      "PositionLon": 121.48425,
+      "PositionLat": 24.192719,
+      "SurveillanceDescription": "秀林鄉上邊坡落石區間順樁路側(順)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011509",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-159K+550",
+      "PositionLon": 121.48493,
+      "PositionLat": 24.201806,
+      "SurveillanceDescription": "秀林鄉西寶國小入口西30M順樁附掛標示牌(順)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080010807",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-161K+880",
+      "PositionLon": 121.485521,
+      "PositionLat": 24.210163,
+      "SurveillanceDescription": "秀林鄉西寶隧道西口固定隧道口外壁順椿路側(逆)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080010644",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-162K+605",
+      "PositionLon": 121.484156,
+      "PositionLat": 24.212796,
+      "SurveillanceDescription": "台8線 162K+605",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011483",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-162K+605-1",
+      "PositionLon": 121.484199,
+      "PositionLat": 24.212718,
+      "SurveillanceDescription": "台8線 162K+605-1",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080010883",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-162K+980",
+      "PositionLon": 121.485793,
+      "PositionLat": 24.210765,
+      "SurveillanceDescription": "台8線 162K+980",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011583",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-163K+300",
+      "PositionLon": 121.486907,
+      "PositionLat": 24.2108,
+      "SurveillanceDescription": "台8線 163K+300",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080010688",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-164K+020",
+      "PositionLon": 121.48773,
+      "PositionLat": 24.203975,
+      "SurveillanceDescription": "台8線 164K+020",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080010830",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-164K+020-1",
+      "PositionLon": 121.487731,
+      "PositionLat": 24.203681,
+      "SurveillanceDescription": "台8線 164K+020-1",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080001128",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-164K+605",
+      "PositionLon": 121.491535,
+      "PositionLat": 24.200272,
+      "SurveillanceDescription": "台8線 164K+605",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "312080001553",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-164K+605-1",
+      "PositionLon": 121.491578,
+      "PositionLat": 24.200155,
+      "SurveillanceDescription": "台8線 164K+605-1",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080001501",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-166K+360",
+      "PositionLon": 121.489975,
+      "PositionLat": 24.186949,
+      "SurveillanceDescription": "秀林鄉明隧道西100M順椿路側(順)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011064",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-166K+750",
+      "PositionLon": 121.491815,
+      "PositionLat": 24.18521,
+      "SurveillanceDescription": "秀林鄉天祥西|往東方向(順)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080010933",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-167K+260",
+      "PositionLon": 121.49475,
+      "PositionLat": 24.1837,
+      "SurveillanceDescription": "秀林鄉天祥郵局西停車場角落立桿|往太魯閣方向(順)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011299",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-167K+660",
+      "PositionLon": 121.495637,
+      "PositionLat": 24.181962,
+      "SurveillanceDescription": "台8線 167K+660",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011107",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-167K+750",
+      "PositionLon": 121.49705,
+      "PositionLat": 24.182393,
+      "SurveillanceDescription": "秀林鄉天祥隧道西口舊路基立桿(逆)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011092",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-167K+750-1",
+      "PositionLon": 121.49705,
+      "PositionLat": 24.182283,
+      "SurveillanceDescription": "台8線 167K+750-1",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080001230",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-168K+250",
+      "PositionLon": 121.499365,
+      "PositionLat": 24.178432,
+      "SurveillanceDescription": "秀林鄉天祥隧道東口隧道內上(順)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080000989",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-169K+200",
+      "PositionLon": 121.507143,
+      "PositionLat": 24.177862,
+      "SurveillanceDescription": "台8線 169K+200",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080010843",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-169K+495",
+      "PositionLon": 121.509031,
+      "PositionLat": 24.17972,
+      "SurveillanceDescription": "秀林鄉綠水管理站東橋頭逆樁路側(順)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080010808",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-169K+905",
+      "PositionLon": 121.512305,
+      "PositionLat": 24.178301,
+      "SurveillanceDescription": "秀林鄉合?露營區西順樁路側(逆)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080000960",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-172K+205",
+      "PositionLon": 121.528466,
+      "PositionLat": 24.171088,
+      "SurveillanceDescription": "秀林鄉九曲洞西口順樁路側(逆)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080001553",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-172K+300",
+      "PositionLon": 121.529785,
+      "PositionLat": 24.171894,
+      "SurveillanceDescription": "台8線172K+300",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080000804",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-172K+300-1",
+      "PositionLon": 121.52942,
+      "PositionLat": 24.171672,
+      "SurveillanceDescription": "台8線172K+300-1",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011203",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-173K+420",
+      "PositionLon": 121.539908,
+      "PositionLat": 24.169299,
+      "SurveillanceDescription": "台8線 173K+420",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011333",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-173K+420-1",
+      "PositionLon": 121.539676,
+      "PositionLat": 24.169211,
+      "SurveillanceDescription": "台8線 173K+420-1",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080010794",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-173K+450",
+      "PositionLon": 121.540003,
+      "PositionLat": 24.169453,
+      "SurveillanceDescription": "秀林鄉九曲洞東口50M山壁下舊燈座逆樁路側(逆)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011439",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-173K+580",
+      "PositionLon": 121.540729,
+      "PositionLat": 24.170401,
+      "SurveillanceDescription": "台8線 173K+580",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011661",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-175K+440",
+      "PositionLon": 121.555633,
+      "PositionLat": 24.172451,
+      "SurveillanceDescription": "秀林鄉靳珩隧道西口約50M外擴平台逆樁路側(逆)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011555",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-175K+500",
+      "PositionLon": 121.556089,
+      "PositionLat": 24.172985,
+      "SurveillanceDescription": "台8線175K+500",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080014123",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-175K+500-1",
+      "PositionLon": 121.555988,
+      "PositionLat": 24.172912,
+      "SurveillanceDescription": "台8線175K+500-1",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011669",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-175K+950",
+      "PositionLon": 121.559867,
+      "PositionLat": 24.171612,
+      "SurveillanceDescription": "台8線175K+950",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011336",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-175K+950-1",
+      "PositionLon": 121.559977,
+      "PositionLat": 24.171668,
+      "SurveillanceDescription": "台8線175K+950-1",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011057",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-176K+050",
+      "PositionLon": 121.561001,
+      "PositionLat": 24.171132,
+      "SurveillanceDescription": "台8線 176K+050",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011601",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-176K+050-1",
+      "PositionLon": 121.560722,
+      "PositionLat": 24.171259,
+      "SurveillanceDescription": "台8線 176K+050-1",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011419",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-176K+740",
+      "PositionLon": 121.566648,
+      "PositionLat": 24.172725,
+      "SurveillanceDescription": "秀林鄉燕子口隧道東口10M明隧道頂板逆樁路側(順)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011351",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-176K+740-1",
+      "PositionLon": 121.566222,
+      "PositionLat": 24.172881,
+      "SurveillanceDescription": "台8線 176K+740-1",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011023",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-176K+740-2",
+      "PositionLon": 121.566515,
+      "PositionLat": 24.172847,
+      "SurveillanceDescription": "台8線 176K+740-2",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011258",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-176K+740-3",
+      "PositionLon": 121.566783,
+      "PositionLat": 24.172778,
+      "SurveillanceDescription": "台8線 176K+740-3",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011248",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-180K+860",
+      "PositionLon": 121.599419,
+      "PositionLat": 24.17239,
+      "SurveillanceDescription": "秀林鄉寧安橋東橋頭順樁明隧道梁上(順)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011757",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-182K+210",
+      "PositionLon": 121.606094,
+      "PositionLat": 24.164206,
+      "SurveillanceDescription": "秀林鄉長春隧道西口(逆)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080001131",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-182K+450",
+      "PositionLon": 121.608257,
+      "PositionLat": 24.162031,
+      "SurveillanceDescription": "台8線 182K+450",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080001034",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-182K+450-1",
+      "PositionLon": 121.608386,
+      "PositionLat": 24.162104,
+      "SurveillanceDescription": "台8線 182K+450-1",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "280080011203",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-182K+650",
+      "PositionLon": 121.609464,
+      "PositionLat": 24.160675,
+      "SurveillanceDescription": "台8線182K+650",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080010968",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-182K+910",
+      "PositionLon": 121.611114,
+      "PositionLat": 24.159227,
+      "SurveillanceDescription": "秀林鄉太魯閣口及往太管處叉口前，附掛中央分隔島標示桿(逆)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011455",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-183K+890",
+      "PositionLon": 121.616884,
+      "PositionLat": 24.15691,
+      "SurveillanceDescription": "秀林鄉逆樁路側(順)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011078",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-184K+650",
+      "PositionLon": 121.622686,
+      "PositionLat": 24.154525,
+      "SurveillanceDescription": "台8線 184K+650",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011334",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-185K+480",
+      "PositionLon": 121.62805,
+      "PositionLat": 24.148517,
+      "SurveillanceDescription": "秀林鄉太魯閣口東派出所西50M中央分隔島(順)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080001585",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-187K+700",
+      "PositionLon": 121.640802,
+      "PositionLat": 24.133371,
+      "SurveillanceDescription": "台8線 187K+700",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "新城鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080001484",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T8-187K+700-1",
+      "PositionLon": 121.640633,
+      "PositionLat": 24.133383,
+      "SurveillanceDescription": "秀林鄉亞泥旁(順)",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "新城鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300093999685",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-053K+330",
+      "PositionLon": 121.74119,
+      "PositionLat": 24.320251,
+      "SurveillanceDescription": "秀林鄉大濁水溪南海側(逆)",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300094000328",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-053K+360",
+      "PositionLon": 121.741384,
+      "PositionLat": 24.319919,
+      "SurveillanceDescription": "台9丁線 053K+360",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300094010243",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-053K+920",
+      "PositionLon": 121.744212,
+      "PositionLat": 24.315585,
+      "SurveillanceDescription": "台9丁線 053K+920",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300094010071",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-053K+920-1",
+      "PositionLon": 121.744085,
+      "PositionLat": 24.315623,
+      "SurveillanceDescription": "台9丁線 053K+920-1",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300094010295",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-054K+070",
+      "PositionLon": 121.7447,
+      "PositionLat": 24.314875,
+      "SurveillanceDescription": "台9丁線054K+070",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300093999663",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-054K+400",
+      "PositionLon": 121.747672,
+      "PositionLat": 24.313064,
+      "SurveillanceDescription": "台9丁線 054K+400",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300093999865",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-054K+450",
+      "PositionLon": 121.748169,
+      "PositionLat": 24.312807,
+      "SurveillanceDescription": "台9丁線 054K+450",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300094009910",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-058K+774",
+      "PositionLon": 121.744215,
+      "PositionLat": 24.277066,
+      "SurveillanceDescription": "台9丁線 058K+774",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300094010213",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-058K+774-1",
+      "PositionLon": 121.744,
+      "PositionLat": 24.2769,
+      "SurveillanceDescription": "台9丁線 058K+774-1",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300094000071",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-060K+175",
+      "PositionLon": 121.739759,
+      "PositionLat": 24.265107,
+      "SurveillanceDescription": "秀林鄉和平隧道北口50M(順)",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300093999957",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-060K+200",
+      "PositionLon": 121.739741,
+      "PositionLat": 24.264886,
+      "SurveillanceDescription": "台9丁線 060K+200",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300094010473",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-061K+550",
+      "PositionLon": 121.7352,
+      "PositionLat": 24.254077,
+      "SurveillanceDescription": "台9丁線 061K+550",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300094010151",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-061K+550-1",
+      "PositionLon": 121.735073,
+      "PositionLat": 24.253871,
+      "SurveillanceDescription": "秀林鄉兩明隧道中間，電力人孔旁(逆)",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300094009985",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-061K+555",
+      "PositionLon": 121.73473,
+      "PositionLat": 24.25347,
+      "SurveillanceDescription": "台9丁線 061K+555",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300094000407",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-061K+850",
+      "PositionLon": 121.733049,
+      "PositionLat": 24.251635,
+      "SurveillanceDescription": "台9丁線 061K+850",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300094009977",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-061K+850-1",
+      "PositionLon": 121.733093,
+      "PositionLat": 24.251672,
+      "SurveillanceDescription": "台9丁線 061K+850-1",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300093999700",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-063K+290",
+      "PositionLon": 121.721515,
+      "PositionLat": 24.244837,
+      "SurveillanceDescription": "台9丁線 063K+290",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300093999878",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-063K+290-1",
+      "PositionLon": 121.721446,
+      "PositionLat": 24.244843,
+      "SurveillanceDescription": "台9丁線063K+290-1",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300094000068",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-063K+350",
+      "PositionLon": 121.720448,
+      "PositionLat": 24.24526,
+      "SurveillanceDescription": "台9丁線 063K+350",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300093999651",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-063K+742",
+      "PositionLon": 121.718,
+      "PositionLat": 24.247,
+      "SurveillanceDescription": "台9丁線 063K+742",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300093999804",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-063K+840",
+      "PositionLon": 121.717,
+      "PositionLat": 24.2473,
+      "SurveillanceDescription": "秀林鄉和平村仁和51號，東方礦業公司和仁礦場前(順)",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300093999811",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-064K+800",
+      "PositionLon": 121.711714,
+      "PositionLat": 24.242468,
+      "SurveillanceDescription": "台9丁線 064K+800",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300093999755",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-064K+855",
+      "PositionLon": 121.711659,
+      "PositionLat": 24.242205,
+      "SurveillanceDescription": "台9丁線 064K+855",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300094000599",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-065K+470",
+      "PositionLon": 121.708676,
+      "PositionLat": 24.236275,
+      "SurveillanceDescription": "台9丁線 065K+470",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300094000437",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-066K+005",
+      "PositionLon": 121.707188,
+      "PositionLat": 24.232272,
+      "SurveillanceDescription": "秀林鄉太魯閣國家公園地標北(順)",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300094000130",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-066K+895",
+      "PositionLon": 121.70406,
+      "PositionLat": 24.225302,
+      "SurveillanceDescription": "台9丁線 066K+895",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300093999765",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-066K+960",
+      "PositionLon": 121.703658,
+      "PositionLat": 24.224974,
+      "SurveillanceDescription": "台9丁線 066K+960",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300094000504",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-067K+370",
+      "PositionLon": 121.700183,
+      "PositionLat": 24.22338,
+      "SurveillanceDescription": "台9丁線 067K+370",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300094000039",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-067K+660",
+      "PositionLon": 121.697575,
+      "PositionLat": 24.221855,
+      "SurveillanceDescription": "秀林鄉和清隧道北100m外凸點(逆)",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300094000200",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-067K+660-1",
+      "PositionLon": 121.697411,
+      "PositionLat": 24.221892,
+      "SurveillanceDescription": "秀林鄉和清隧道北100m外凸點(順)",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300094000639",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-068K+390",
+      "PositionLon": 121.691683,
+      "PositionLat": 24.217741,
+      "SurveillanceDescription": "台9丁線 068K+390",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300093999722",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-068K+390-1",
+      "PositionLon": 121.691751,
+      "PositionLat": 24.217828,
+      "SurveillanceDescription": "台9丁線 068K+390-1",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300094009746",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9D-068K+960",
+      "PositionLon": 121.689302,
+      "PositionLat": 24.2195,
+      "SurveillanceDescription": "台9丁線 068K+960",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300093009774",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9C-008K+600",
+      "PositionLon": 121.547457,
+      "PositionLat": 23.943929,
+      "SurveillanceDescription": "台9丙線 008K+600",
+      "RoadName": "台9丙線",
+      "CityName": "花蓮縣",
+      "TownName": "吉安鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300092999612",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9C-008K+826",
+      "PositionLon": 121.544856,
+      "PositionLat": 23.943001,
+      "SurveillanceDescription": "台9丙線 008K+826",
+      "RoadName": "台9丙線",
+      "CityName": "花蓮縣",
+      "TownName": "吉安鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300093009578",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9C-008K+850",
+      "PositionLon": 121.54407,
+      "PositionLat": 23.9427,
+      "SurveillanceDescription": "台9丙線 008K+850",
+      "RoadName": "台9丙線",
+      "CityName": "花蓮縣",
+      "TownName": "吉安鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300093009371",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9C-011K+600",
+      "PositionLon": 121.518925,
+      "PositionLat": 23.949927,
+      "SurveillanceDescription": "台9丙線 011K+600",
+      "RoadName": "台9丙線",
+      "CityName": "花蓮縣",
+      "TownName": "吉安鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300093010104",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9C-012K+500",
+      "PositionLon": 121.511752,
+      "PositionLat": 23.953293,
+      "SurveillanceDescription": "台9丙線 012K+500",
+      "RoadName": "台9丙線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300093009993",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9C-013K+155",
+      "PositionLon": 121.508215,
+      "PositionLat": 23.956758,
+      "SurveillanceDescription": "台9丙線 013K+155",
+      "RoadName": "台9丙線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300093010062",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9C-013K+200",
+      "PositionLon": 121.507183,
+      "PositionLat": 23.956601,
+      "SurveillanceDescription": "壽豐鄉仁壽橋北端堤岸南下路側|往仁壽橋及鯉魚潭方向(順)",
+      "RoadName": "台9丙線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300093009927",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9C-015K+600",
+      "PositionLon": 121.505984,
+      "PositionLat": 23.936476,
+      "SurveillanceDescription": "壽豐鄉台9丙鯉魚潭停車場北口CMS3×8北向(順)",
+      "RoadName": "台9丙線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300093009445",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9C-017K+200",
+      "PositionLon": 121.505883,
+      "PositionLat": 23.921977,
+      "SurveillanceDescription": "壽豐鄉鯉魚潭環潭道路路口之南北上路側(逆)",
+      "RoadName": "台9丙線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300092999784",
+      "VideoStreamURL": "https://cctv-ss02.thb.gov.tw:443/T9C-022K+600",
+      "PositionLon": 121.513722,
+      "PositionLat": 23.880555,
+      "SurveillanceDescription": "壽豐鄉附掛順樁路側立桿(順)",
+      "RoadName": "台9丙線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090000464",
+      "VideoStreamURL": "https://cctv-ss05.thb.gov.tw:443/T9-144K+011(N)",
+      "PositionLon": 121.75877,
+      "PositionLat": 24.31094,
+      "SurveillanceDescription": "台9線144K+011逆樁(N)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090010446",
+      "VideoStreamURL": "https://cctv-ss05.thb.gov.tw:443/T9-144K+950",
+      "PositionLon": 121.750329,
+      "PositionLat": 24.312496,
+      "SurveillanceDescription": "台9線 144K+950",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001007",
+      "VideoStreamURL": "https://cctv-ss05.thb.gov.tw:443/T9-146K+790",
+      "PositionLon": 121.752358,
+      "PositionLat": 24.297733,
+      "SurveillanceDescription": "秀林鄉和平車站前(逆)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300094009962",
+      "VideoStreamURL": "https://cctv-ss05.thb.gov.tw:443/T9-148K+820(N)",
+      "PositionLon": 121.74624,
+      "PositionLat": 24.2807,
+      "SurveillanceDescription": "台9線148K+820逆樁(N)",
+      "RoadName": "台9丁線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090000549",
+      "VideoStreamURL": "https://cctv-ss05.thb.gov.tw:443/T9-149K+118(S)",
+      "PositionLon": 121.744447,
+      "PositionLat": 24.278576,
+      "SurveillanceDescription": "台9線149K+118順樁(S)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011030",
+      "VideoStreamURL": "https://cctv-ss05.thb.gov.tw:443/T9-149K+156(N)",
+      "PositionLon": 121.74437,
+      "PositionLat": 24.278178,
+      "SurveillanceDescription": "台9線149K+156逆樁(N)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001373",
+      "VideoStreamURL": "https://cctv-ss05.thb.gov.tw:443/T9-150K+264(S)",
+      "PositionLon": 121.734263,
+      "PositionLat": 24.274345,
+      "SurveillanceDescription": "台9線150K+264順樁(S)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011310",
+      "VideoStreamURL": "https://cctv-ss05.thb.gov.tw:443/T9-150K+334(N)",
+      "PositionLon": 121.733825,
+      "PositionLat": 24.273706,
+      "SurveillanceDescription": "台9線150K+334逆樁(N)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "301209000997",
+      "VideoStreamURL": "https://cctv-ss05.thb.gov.tw:443/T9-151K+584(S)",
+      "PositionLon": 121.723806,
+      "PositionLat": 24.2672,
+      "SurveillanceDescription": "台9線151K+584順樁(S)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090010977",
+      "VideoStreamURL": "https://cctv-ss05.thb.gov.tw:443/T9-151K+642(N)",
+      "PositionLon": 121.723686,
+      "PositionLat": 24.266479,
+      "SurveillanceDescription": "台9線151K+642逆樁(N)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090000670",
+      "VideoStreamURL": "https://cctv-ss05.thb.gov.tw:443/T9-152K+904(S)",
+      "PositionLon": 121.716786,
+      "PositionLat": 24.257081,
+      "SurveillanceDescription": "中仁隧道-主線-緊急停車彎-車3",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090010957",
+      "VideoStreamURL": "https://cctv-ss05.thb.gov.tw:443/T9-152K+939(N)",
+      "PositionLon": 121.717136,
+      "PositionLat": 24.256644,
+      "SurveillanceDescription": "中仁隧道-主線-緊急停車彎-車3",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090010601",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-154K+956(N)",
+      "PositionLon": 121.71064,
+      "PositionLat": 24.2397,
+      "SurveillanceDescription": "台9線154K+956逆樁(N)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011434",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-155K+129(N)",
+      "PositionLon": 121.709712,
+      "PositionLat": 24.23833,
+      "SurveillanceDescription": "台9線155K+129逆樁(N)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090000777",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-155K+129(S)",
+      "PositionLon": 121.709615,
+      "PositionLat": 24.238437,
+      "SurveillanceDescription": "台9線155K+129順樁(S)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011410",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-155K+492(N)",
+      "PositionLon": 121.706958,
+      "PositionLat": 24.236297,
+      "SurveillanceDescription": "台9線155K+492逆樁(N)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090000999",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-156K+132(S)",
+      "PositionLon": 121.703183,
+      "PositionLat": 24.231678,
+      "SurveillanceDescription": "台9線156K+132順樁(S)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090010906",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-156K+892(N)",
+      "PositionLon": 121.697938,
+      "PositionLat": 24.226865,
+      "SurveillanceDescription": "台9線156K+892逆樁(N)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090000655",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-157K+532(S)",
+      "PositionLon": 121.692528,
+      "PositionLat": 24.223863,
+      "SurveillanceDescription": "台9線157K+532順樁(S)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090010799",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-158K+036(N)",
+      "PositionLon": 121.689468,
+      "PositionLat": 24.220431,
+      "SurveillanceDescription": "台9線158K+036逆樁(N)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001221",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-158K+036(S)",
+      "PositionLon": 121.689265,
+      "PositionLat": 24.220503,
+      "SurveillanceDescription": "台9線158K+036順樁(S)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011330",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-158K+226(N)",
+      "PositionLon": 121.68895,
+      "PositionLat": 24.21905,
+      "SurveillanceDescription": "台9線158K+226逆樁(N)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011027",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-158K+520",
+      "PositionLon": 121.687527,
+      "PositionLat": 24.216799,
+      "SurveillanceDescription": "台9線 158K+520",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090010658",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-158K+620",
+      "PositionLon": 121.686907,
+      "PositionLat": 24.215775,
+      "SurveillanceDescription": "仁水隧道-主線-南洞口",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011299",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-158K+620-1",
+      "PositionLon": 121.686987,
+      "PositionLat": 24.21595,
+      "SurveillanceDescription": "台9線158K+620-1",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011063",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-160K+370",
+      "PositionLon": 121.67296,
+      "PositionLat": 24.208292,
+      "SurveillanceDescription": "台9線 160K+370",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011134",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-160K+370-1",
+      "PositionLon": 121.672708,
+      "PositionLat": 24.208143,
+      "SurveillanceDescription": "台9線 160K+370-1",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011304",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-160K+395",
+      "PositionLon": 121.672484,
+      "PositionLat": 24.208017,
+      "SurveillanceDescription": "秀林鄉錦文隧道南口20M(逆)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011250",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-160K+490",
+      "PositionLon": 121.671429,
+      "PositionLat": 24.208118,
+      "SurveillanceDescription": "台9線 160K+490",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011588",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-160K+710",
+      "PositionLon": 121.67033,
+      "PositionLat": 24.208233,
+      "SurveillanceDescription": "秀林鄉小清水穚停車場南角電力箱北15M(逆)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090010637",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-161K+250",
+      "PositionLon": 121.666263,
+      "PositionLat": 24.206519,
+      "SurveillanceDescription": "秀林鄉匯德隧道北口附掛標示桿(順)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090010678",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-161K+255",
+      "PositionLon": 121.666311,
+      "PositionLat": 24.206715,
+      "SurveillanceDescription": "台9線 161K+255",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001569",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-161K+300",
+      "PositionLon": 121.665946,
+      "PositionLat": 24.206041,
+      "SurveillanceDescription": "台9線 161K+300",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011479",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-161K+300-1",
+      "PositionLon": 121.666055,
+      "PositionLat": 24.206215,
+      "SurveillanceDescription": "台9線 161K+300-1",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001624",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-162K+780",
+      "PositionLon": 121.661917,
+      "PositionLat": 24.19337,
+      "SurveillanceDescription": "台9線162K+780",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090000925",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-162K+780-1",
+      "PositionLon": 121.661808,
+      "PositionLat": 24.193059,
+      "SurveillanceDescription": "台9線162K+780-1",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090000902",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-162K+910",
+      "PositionLon": 121.661264,
+      "PositionLat": 24.192141,
+      "SurveillanceDescription": "秀林鄉崇德休憩區停車場(逆)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090000679",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-162K+910-1",
+      "PositionLon": 121.661318,
+      "PositionLat": 24.19228,
+      "SurveillanceDescription": "秀林鄉崇德休憩區停車場(順)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001123",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-163K+390-1",
+      "PositionLon": 121.660272,
+      "PositionLat": 24.18913,
+      "SurveillanceDescription": "秀林鄉崇德隧道南口30M(逆)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090000997",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-163K+390-2",
+      "PositionLon": 121.660341,
+      "PositionLat": 24.189019,
+      "SurveillanceDescription": "秀林鄉崇德隧道南口30M(順)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001203",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-163K+500",
+      "PositionLon": 121.659947,
+      "PositionLat": 24.188091,
+      "SurveillanceDescription": "台9線 163K+500",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001261",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-166K+230",
+      "PositionLon": 121.652824,
+      "PositionLat": 24.164717,
+      "SurveillanceDescription": "秀林鄉蘇花公路崇德(逆)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001378",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-166K+230-1",
+      "PositionLon": 121.65288,
+      "PositionLat": 24.164591,
+      "SurveillanceDescription": "台9線 166K+230-1",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001484",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-166K+230-2",
+      "PositionLon": 121.652979,
+      "PositionLat": 24.164928,
+      "SurveillanceDescription": "台9線166K+230-2",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011196",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-167K+900",
+      "PositionLon": 121.648937,
+      "PositionLat": 24.151087,
+      "SurveillanceDescription": "秀林鄉太魯閣大橋北附掛逆椿第3燈桿(順)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090000933",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-168K+310",
+      "PositionLon": 121.644337,
+      "PositionLat": 24.149619,
+      "SurveillanceDescription": "台9線 168K+310",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "390191001590",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-170K+300",
+      "PositionLon": 121.642794,
+      "PositionLat": 24.132223,
+      "SurveillanceDescription": "秀林鄉太魯閣大橋附近北上車道(順)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "新城鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011636",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-172K+150",
+      "PositionLon": 121.643516,
+      "PositionLat": 24.119967,
+      "SurveillanceDescription": "台9線172K+150",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "新城鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001065",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-172K+150-1",
+      "PositionLon": 121.644719,
+      "PositionLat": 24.12083,
+      "SurveillanceDescription": "台9線172K+150-1",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "新城鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001120",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-173K+930",
+      "PositionLon": 121.628836,
+      "PositionLat": 24.11113,
+      "SurveillanceDescription": "台9線173K+930",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "新城鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001319",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-175K+975",
+      "PositionLon": 121.615257,
+      "PositionLat": 24.098965,
+      "SurveillanceDescription": "新城鄉懷恩橋南中央立桿(逆)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "新城鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090010891",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-175K+980",
+      "PositionLon": 121.61542,
+      "PositionLat": 24.098925,
+      "SurveillanceDescription": "台9線 175K+980",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "新城鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011069",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-175K+980-1",
+      "PositionLon": 121.61542,
+      "PositionLat": 24.098925,
+      "SurveillanceDescription": "台9線 175K+980-1",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "新城鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001630",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-177K+895",
+      "PositionLon": 121.610115,
+      "PositionLat": 24.082455,
+      "SurveillanceDescription": "台9線177K+895",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "新城鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011042",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-177K+895-1",
+      "PositionLon": 121.610128,
+      "PositionLat": 24.082301,
+      "SurveillanceDescription": "台9線177K+895-1",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "新城鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001330",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-179K+600",
+      "PositionLon": 121.607666,
+      "PositionLat": 24.067505,
+      "SurveillanceDescription": "台9線 179K+600",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "新城鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090000853",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-181K+410",
+      "PositionLon": 121.605128,
+      "PositionLat": 24.051546,
+      "SurveillanceDescription": "台9線 181K+410",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "新城鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011364",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-182K+600",
+      "PositionLon": 121.603489,
+      "PositionLat": 24.040848,
+      "SurveillanceDescription": "台9線 182K+600",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "新城鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001055",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-183K+060",
+      "PositionLon": 121.60476,
+      "PositionLat": 24.03637,
+      "SurveillanceDescription": "台9線 183K+060",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "新城鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011491",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-183K+060-1",
+      "PositionLon": 121.604885,
+      "PositionLat": 24.036588,
+      "SurveillanceDescription": "台9線 183K+060-1",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "新城鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001005",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-184K+945",
+      "PositionLon": 121.608719,
+      "PositionLat": 24.021481,
+      "SurveillanceDescription": "台9線 184K+945",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "新城鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001439",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-184K+960",
+      "PositionLon": 121.608787,
+      "PositionLat": 24.021244,
+      "SurveillanceDescription": "台9線 184K+960",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "新城鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001282",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-185K+850",
+      "PositionLon": 121.609607,
+      "PositionLat": 24.012984,
+      "SurveillanceDescription": "台9線 185K+850",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "新城鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001811",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-186K+080",
+      "PositionLon": 121.609105,
+      "PositionLat": 24.010799,
+      "SurveillanceDescription": "花蓮市嘉里三街及新生橋叉路之北順樁路側(順)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "新城鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001146",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-186K+170",
+      "PositionLon": 121.60897,
+      "PositionLat": 24.00986,
+      "SurveillanceDescription": "台9線 186K+170",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "新城鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001001",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-187K+980",
+      "PositionLon": 121.619856,
+      "PositionLat": 24.001542,
+      "SurveillanceDescription": "台9線 187K+980",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "花蓮市",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001257",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-189K+630",
+      "PositionLon": 121.621022,
+      "PositionLat": 23.987081,
+      "SurveillanceDescription": "台9線 189K+630",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "花蓮市",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011844",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-190K+085",
+      "PositionLon": 121.619188,
+      "PositionLat": 23.983528,
+      "SurveillanceDescription": "台9線 190K+085",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "花蓮市",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001263",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-191K+050",
+      "PositionLon": 121.611616,
+      "PositionLat": 23.980037,
+      "SurveillanceDescription": "台9線 191K+050",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "花蓮市",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001047",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-191K+070",
+      "PositionLon": 121.611416,
+      "PositionLat": 23.979913,
+      "SurveillanceDescription": "台9線 191K+070",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "花蓮市",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011770",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-193K+100",
+      "PositionLon": 121.595361,
+      "PositionLat": 23.969359,
+      "SurveillanceDescription": "台9線 193K+100",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "花蓮市",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011081",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-193K+800",
+      "PositionLon": 121.591078,
+      "PositionLat": 23.965332,
+      "SurveillanceDescription": "台9線 193K+800",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "吉安鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001590",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-198K+750",
+      "PositionLon": 121.548829,
+      "PositionLat": 23.944417,
+      "SurveillanceDescription": "壽豐鄉台9及進鯉魚潭叉路北(逆)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "吉安鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001159",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-206K+400",
+      "PositionLon": 121.521236,
+      "PositionLat": 23.882053,
+      "SurveillanceDescription": "壽豐鄉和榮路橋北中華路2段32巷南，中央分隔島|用原基礎(逆)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001832",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-212K+000",
+      "PositionLon": 121.493269,
+      "PositionLat": 23.845336,
+      "SurveillanceDescription": "台9線212K+000",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011290",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-220K+005",
+      "PositionLon": 121.458961,
+      "PositionLat": 23.779788,
+      "SurveillanceDescription": "鳳林鎮逆樁路側(順)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "鳳林鎮",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001691",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-222K+070",
+      "PositionLon": 121.454881,
+      "PositionLat": 23.761136,
+      "SurveillanceDescription": "台9線222K+070",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "鳳林鎮",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001411",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-228K+920",
+      "PositionLon": 121.422269,
+      "PositionLat": 23.713227,
+      "SurveillanceDescription": "鳳林鄉新線|附掛順樁標示桿|滿妹豬腳附近(順)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "鳳林鎮",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090011667",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-230K+900",
+      "PositionLon": 121.411975,
+      "PositionLat": 23.700401,
+      "SurveillanceDescription": "台9線 230K+900",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "鳳林鎮",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001701",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-234K+510",
+      "PositionLon": 121.422437,
+      "PositionLat": 23.673734,
+      "SurveillanceDescription": "台9線 234K+510",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "光復鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090002395",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-258K+200",
+      "PositionLon": 121.356774,
+      "PositionLat": 23.472599,
+      "SurveillanceDescription": "台9線 258K+200",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "瑞穗鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001900",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-258K+200-1",
+      "PositionLon": 121.356792,
+      "PositionLat": 23.472694,
+      "SurveillanceDescription": "台9線 258K+200-1",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "瑞穗鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001670",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-262K+200",
+      "PositionLon": 121.354796,
+      "PositionLat": 23.447006,
+      "SurveillanceDescription": "瑞穗鄉舞鶴富源茶莊對面南下順樁路側立桿，舞鶴南支二五電信桿旁(順)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "瑞穗鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090002022",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-266K+080",
+      "PositionLon": 121.348614,
+      "PositionLat": 23.429361,
+      "SurveillanceDescription": "台9線 266K+080",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "玉里鎮",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090002646",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-277K+480",
+      "PositionLon": 121.320088,
+      "PositionLat": 23.331365,
+      "SurveillanceDescription": "玉里鎮外環進市區，中央分隔島上標示桿(逆)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "玉里鎮",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300300000045",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-278K+670",
+      "PositionLon": 121.326793,
+      "PositionLat": 23.323258,
+      "SurveillanceDescription": "玉里鎮玉里大橋西30M順樁橋頭(順)",
+      "RoadName": "台30線",
+      "CityName": "花蓮縣",
+      "TownName": "玉里鎮",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300300000085",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-279K+350",
+      "PositionLon": 121.332393,
+      "PositionLat": 23.322171,
+      "SurveillanceDescription": "台9線 279K+350",
+      "RoadName": "台30線",
+      "CityName": "花蓮縣",
+      "TownName": "玉里鎮",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300299999292",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-281K+940",
+      "PositionLon": 121.334479,
+      "PositionLat": 23.305472,
+      "SurveillanceDescription": "富里鄉富里鄉台30叉路之北順椿(順)",
+      "RoadName": "台30線",
+      "CityName": "花蓮縣",
+      "TownName": "玉里鎮",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090002411",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-282K+920",
+      "PositionLon": 121.332138,
+      "PositionLat": 23.292842,
+      "SurveillanceDescription": "台9線 282K+920",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "富里鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090002658",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-284K+600",
+      "PositionLon": 121.322696,
+      "PositionLat": 23.280095,
+      "SurveillanceDescription": "台9線 284K+600",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "富里鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090002686",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-293K+130",
+      "PositionLon": 121.282135,
+      "PositionLat": 23.219831,
+      "SurveillanceDescription": "富里鄉六十石山入口之南100M，附掛逆樁路側標示桿(逆)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "富里鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090012632",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T9-300K+900",
+      "PositionLon": 121.242227,
+      "PositionLat": 23.164549,
+      "SurveillanceDescription": "富里鄉台23線入口之南，附掛中央分隔島桿示桿(順)",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "富里鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011051",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T8-171K+700",
+      "PositionLon": 121.51776,
+      "PositionLat": 24.177613,
+      "SurveillanceDescription": "秀林鄉慈母橋",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080001777",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T8-181K+700",
+      "PositionLon": 121.591482,
+      "PositionLat": 24.171342,
+      "SurveillanceDescription": "秀林鄉白沙2號橋",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011076",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T8-184K+300",
+      "PositionLon": 121.626137,
+      "PositionLat": 24.150616,
+      "SurveillanceDescription": "秀林鄉太魯閣大橋",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300090001923",
+      "VideoStreamURL": "https://cctv-ss01.thb.gov.tw:443/T9-216K+100",
+      "PositionLon": 121.467309,
+      "PositionLat": 23.813402,
+      "SurveillanceDescription": "壽豐鄉新豐平大橋",
+      "RoadName": "台9線",
+      "CityName": "花蓮縣",
+      "TownName": "壽豐鄉",
+      "City": "HualienCounty"
+    },
+    {
+      "CCTVID": "300080011768",
+      "VideoStreamURL": "https://cctv-ss06.thb.gov.tw:443/T8-180K+500",
+      "PositionLon": 121.587196,
+      "PositionLat": 24.174278,
+      "SurveillanceDescription": "秀林鄉白沙1號橋",
+      "RoadName": "台8線",
+      "CityName": "花蓮縣",
+      "TownName": "秀林鄉",
+      "City": "HualienCounty"
+    }
+  ]
+}

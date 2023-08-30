@@ -1,0 +1,100 @@
+{
+  "UpdateTime": "2023-08-30T00:22:26+08:00",
+  "UpdateInterval": 21600,
+  "SrcUpdateTime": "2023-08-30T00:01:22+08:00",
+  "SrcUpdateInterval": 86400,
+  "AuthorityCode": "ILA",
+  "LinkVersion": "21.08.1",
+  "CCTVs": [
+    {
+      "CCTVID": "ILA:CCTV:TV107009001",
+      "LinkID": "6314030600020G",
+      "VideoStreamURL": "http://tp.e-land.gov.tw/ATIS/Device/ShowCCTV/00-0F-FC-51-5B-84",
+      "LocationType": 2,
+      "PositionLon": 121.785845,
+      "PositionLat": 24.836593,
+      "SurveillanceDescription": "礁溪路七段+白雲路路口",
+      "RoadClass": 6
+    },
+    {
+      "CCTVID": "ILA:CCTV:TV107009002",
+      "LinkID": "6314020100010G",
+      "VideoStreamURL": "http://tp.e-land.gov.tw/ATIS/Device/ShowCCTV/00-0F-FC-51-5B-88",
+      "LocationType": 2,
+      "PositionLon": 121.77797,
+      "PositionLat": 24.83069,
+      "SurveillanceDescription": "礁溪轉運站前中央分隔島(礁溪路六段)",
+      "RoadClass": 6
+    },
+    {
+      "CCTVID": "ILA:CCTV:TV107009003",
+      "LinkID": "6302250100015G",
+      "VideoStreamURL": "http://tp.e-land.gov.tw/ATIS/Device/ShowCCTV/00-0F-FC-52-C9-A4",
+      "LocationType": 2,
+      "PositionLon": 121.770834,
+      "PositionLat": 24.820736,
+      "SurveillanceDescription": "礁溪鄉礁溪路與十六結路口",
+      "RoadClass": 6
+    },
+    {
+      "CCTVID": "ILA:CCTV:TV107191001",
+      "LinkID": "4019100101619G",
+      "VideoStreamURL": "http://tp.e-land.gov.tw/ATIS/Device/ShowCCTV/00-0F-FC-51-5B-85",
+      "LocationType": 2,
+      "PositionLon": 121.793511,
+      "PositionLat": 24.68103,
+      "SurveillanceDescription": "五結路三段+(高速公路橋下)191",
+      "RoadClass": 4
+    },
+    {
+      "CCTVID": "ILA:CCTV:TV107999001",
+      "LinkID": "6304800000030G",
+      "VideoStreamURL": "http://tp.e-land.gov.tw/ATIS/Device/ShowCCTV/00-0F-FC-51-D9-44",
+      "LocationType": 2,
+      "PositionLon": 121.777735,
+      "PositionLat": 24.675884,
+      "SurveillanceDescription": "光榮路269號右前中央分隔島",
+      "RoadClass": 6
+    },
+    {
+      "CCTVID": "ILA:CCTV:C000001",
+      "LinkID": "4019110100564G",
+      "VideoStreamURL": "http://tp.e-land.gov.tw/ATIS/Device/ShowCCTV/00-0F-7C-15-DD-B4",
+      "LocationType": 2,
+      "PositionLon": 121.78415,
+      "PositionLat": 24.78886,
+      "SurveillanceDescription": "礁溪鄉玉龍路一段195號對向路側",
+      "RoadClass": 4
+    },
+    {
+      "CCTVID": "ILA:CCTV:C000002",
+      "LinkID": "3000900007751G",
+      "VideoStreamURL": "http://tp.e-land.gov.tw/ATIS/Device/ShowCCTV/00-0F-7C-15-E1-A0",
+      "LocationType": 2,
+      "PositionLon": 121.75978,
+      "PositionLat": 24.78005,
+      "SurveillanceDescription": "台9線中森加油站對面宜蘭市中山路五段501號(台9線77+672)",
+      "RoadClass": 3
+    },
+    {
+      "CCTVID": "ILA:CCTV:C000003",
+      "LinkID": "3000900008505G",
+      "VideoStreamURL": "http://223.200.93.8:8800/mjpeg_stream.cgi?ch=2",
+      "LocationType": 2,
+      "PositionLon": 121.77271,
+      "PositionLat": 24.71124,
+      "SurveillanceDescription": "台9線蘭陽大橋南端中央分隔島(台9線85+921)",
+      "RoadClass": 3
+    },
+    {
+      "CCTVID": "ILA:CCTV:C000004",
+      "LinkID": "3000900008852G",
+      "VideoStreamURL": "http://223.200.93.8:8800/mjpeg_stream.cgi?ch=1",
+      "LocationType": 2,
+      "PositionLon": 121.77037,
+      "PositionLat": 24.68946,
+      "SurveillanceDescription": "台9線五結鄉中正路一段106-1號前中央分隔島(台9線88K+391)",
+      "RoadClass": 3
+    }
+  ]
+}
