@@ -1,7 +1,6 @@
 const http = require('http')
 const https = require('https')
 
-
 const proxyRequest = (requestURL, cityName, targetURL, res) => {
 
   const edgeCase1 = ['Keelung', 'Taoyuan']
@@ -17,13 +16,13 @@ const proxyRequest = (requestURL, cityName, targetURL, res) => {
   }
 
   const request = protocol.get(targetURL, (response) => {
-    console.log(response.headers['content-type'])
+    console.log('proxy response', response.headers['content-type'])
     res.writeHead(200, {
       'access-control-allow-origin': '*',
       'content-type': response.headers['content-type'],
     })
     response.on('error', (err) => {
-      console.log(err)
+      console.log('proxy connection error', err)
     })
     response.pipe(res)
   })
@@ -31,6 +30,8 @@ const proxyRequest = (requestURL, cityName, targetURL, res) => {
     console.log(err)
     request.end()
   })
+
+  return request
 }
 
 module.exports = proxyRequest
