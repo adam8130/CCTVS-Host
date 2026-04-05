@@ -8,7 +8,7 @@
     {
       "CCTVID": "C000186",
       "LinkID": "6255500000080F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000186",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000186",
       "LocationType": 2,
       "PositionLon": 121.35666,
       "PositionLat": 24.94046,
@@ -22,7 +22,7 @@
     {
       "CCTVID": "C000278",
       "LinkID": "6271010000000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000278",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000278",
       "LocationType": 1,
       "PositionLon": 121.65162,
       "PositionLat": 25.06397,
@@ -36,7 +36,7 @@
     {
       "CCTVID": "C000273",
       "LinkID": "6251460700010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000273",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000273",
       "LocationType": 1,
       "PositionLon": 121.37616,
       "PositionLat": 24.94969,
@@ -50,7 +50,7 @@
     {
       "CCTVID": "C000151",
       "LinkID": "6275300000100F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000151",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000151",
       "LocationType": 2,
       "PositionLon": 121.52911,
       "PositionLat": 24.97229,
@@ -64,7 +64,7 @@
     {
       "CCTVID": "C000275",
       "LinkID": "6251010600050F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000275",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000275",
       "LocationType": 2,
       "PositionLon": 121.63914,
       "PositionLat": 25.05958,
@@ -78,7 +78,7 @@
     {
       "CCTVID": "C000274",
       "LinkID": "6265990100010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000274",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000274",
       "LocationType": 2,
       "PositionLon": 121.37462,
       "PositionLat": 24.95231,
@@ -92,7 +92,7 @@
     {
       "CCTVID": "C000039",
       "LinkID": "6257000300010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000039",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000039",
       "LocationType": 4,
       "PositionLon": 121.47023,
       "PositionLat": 25.01983,
@@ -120,7 +120,7 @@
     {
       "CCTVID": "C000161",
       "LinkID": "6264560600010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000161",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000161",
       "LocationType": 2,
       "PositionLon": 121.41218,
       "PositionLat": 25.02765,
@@ -148,7 +148,7 @@
     {
       "CCTVID": "C000187",
       "LinkID": "6269040600050F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000187",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000187",
       "LocationType": 2,
       "PositionLon": 121.36825,
       "PositionLat": 24.93895,
@@ -196,7 +196,7 @@
     {
       "CCTVID": "C000053",
       "LinkID": "6255510100010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000053",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000053",
       "LocationType": 2,
       "PositionLon": 121.46304,
       "PositionLat": 25.01623,
@@ -224,7 +224,7 @@
     {
       "CCTVID": "C000287",
       "LinkID": "6253610400030F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000287",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000287",
       "LocationType": 2,
       "PositionLon": 121.36696,
       "PositionLat": 24.91916,
@@ -238,7 +238,7 @@
     {
       "CCTVID": "C000042",
       "LinkID": "6275300000000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000042",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000042",
       "LocationType": 1,
       "PositionLon": 121.53329,
       "PositionLat": 24.99172,
@@ -252,7 +252,7 @@
     {
       "CCTVID": "C000284",
       "LinkID": "6270290700030F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000284",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000284",
       "LocationType": 2,
       "PositionLon": 121.49238,
       "PositionLat": 25.08989,
@@ -266,7 +266,7 @@
     {
       "CCTVID": "C000276",
       "LinkID": "6251010600050F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000276",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000276",
       "LocationType": 1,
       "PositionLon": 121.64027,
       "PositionLat": 25.0601,
@@ -280,7 +280,7 @@
     {
       "CCTVID": "C000158",
       "LinkID": "6255210200070F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000158",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000158",
       "LocationType": 2,
       "PositionLon": 121.64692,
       "PositionLat": 25.00855,
@@ -294,7 +294,7 @@
     {
       "CCTVID": "C000279",
       "LinkID": "6251020100050F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000279",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000279",
       "LocationType": 2,
       "PositionLon": 121.66225,
       "PositionLat": 25.06934,
@@ -308,7 +308,7 @@
     {
       "CCTVID": "C000157",
       "LinkID": "6255230200000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000157",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000157",
       "LocationType": 2,
       "PositionLon": 121.59996,
       "PositionLat": 25.00212,
@@ -322,7 +322,7 @@
     {
       "CCTVID": "C000152",
       "LinkID": "6252450000010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000152",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000152",
       "LocationType": 1,
       "PositionLon": 121.52364,
       "PositionLat": 24.97786,
@@ -336,7 +336,7 @@
     {
       "CCTVID": "C000272",
       "LinkID": "6253870400000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000272",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000272",
       "LocationType": 2,
       "PositionLon": 121.54701,
       "PositionLat": 24.97602,
@@ -350,7 +350,7 @@
     {
       "CCTVID": "C000032",
       "LinkID": "6255260500000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000032",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000032",
       "LocationType": 2,
       "PositionLon": 121.3685,
       "PositionLat": 25.06598,
@@ -378,7 +378,7 @@
     {
       "CCTVID": "C000175",
       "LinkID": "6252740300020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000175",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000175",
       "LocationType": 1,
       "PositionLon": 121.45797,
       "PositionLat": 25.15795,
@@ -406,7 +406,7 @@
     {
       "CCTVID": "C000167",
       "LinkID": "6250450700000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000167",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000167",
       "LocationType": 2,
       "PositionLon": 121.45927,
       "PositionLat": 25.09597,
@@ -420,7 +420,7 @@
     {
       "CCTVID": "C000045",
       "LinkID": "6256340000000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000045",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000045",
       "LocationType": 4,
       "PositionLon": 121.54156,
       "PositionLat": 24.96788,
@@ -440,7 +440,7 @@
     {
       "CCTVID": "C000162",
       "LinkID": "6252880100140F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000162",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000162",
       "LocationType": 2,
       "PositionLon": 121.41409,
       "PositionLat": 25.02328,
@@ -454,7 +454,7 @@
     {
       "CCTVID": "C000044",
       "LinkID": "6256380400010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000044",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000044",
       "LocationType": 1,
       "PositionLon": 121.54125,
       "PositionLat": 24.98295,
@@ -468,7 +468,7 @@
     {
       "CCTVID": "C000164",
       "LinkID": "6260640500010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000164",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000164",
       "LocationType": 1,
       "PositionLon": 121.49612,
       "PositionLat": 25.0828,
@@ -482,7 +482,7 @@
     {
       "CCTVID": "C000285",
       "LinkID": "6270470400000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000285",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000285",
       "LocationType": 2,
       "PositionLon": 121.44413,
       "PositionLat": 25.09008,
@@ -496,7 +496,7 @@
     {
       "CCTVID": "C000049",
       "LinkID": "6270620600010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000049",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000049",
       "LocationType": 2,
       "PositionLon": 121.63705,
       "PositionLat": 25.05582,
@@ -524,7 +524,7 @@
     {
       "CCTVID": "C000293",
       "LinkID": "6274400100020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000293",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000293",
       "LocationType": 1,
       "PositionLon": 121.46556,
       "PositionLat": 25.01453,
@@ -538,7 +538,7 @@
     {
       "CCTVID": "C000171",
       "LinkID": "6270620600100F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000171",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000171",
       "LocationType": 2,
       "PositionLon": 121.65693,
       "PositionLat": 25.06369,
@@ -552,7 +552,7 @@
     {
       "CCTVID": "C000050",
       "LinkID": "6270620200040F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000050",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000050",
       "LocationType": 2,
       "PositionLon": 121.64538,
       "PositionLat": 25.06042,
@@ -566,7 +566,7 @@
     {
       "CCTVID": "C000156",
       "LinkID": "6259530200010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000156",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000156",
       "LocationType": 2,
       "PositionLon": 121.51692,
       "PositionLat": 24.96408,
@@ -580,7 +580,7 @@
     {
       "CCTVID": "C000034",
       "LinkID": "6255510500000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000034",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000034",
       "LocationType": 2,
       "PositionLon": 121.46844,
       "PositionLat": 25.0232,
@@ -594,7 +594,7 @@
     {
       "CCTVID": "C000066",
       "LinkID": "6252720700080F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000066",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000066",
       "LocationType": 2,
       "PositionLon": 121.49327,
       "PositionLat": 25.06102,
@@ -608,7 +608,7 @@
     {
       "CCTVID": "C000054",
       "LinkID": "6257000700000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000054",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000054",
       "LocationType": 3,
       "PositionLon": 121.4699,
       "PositionLat": 25.0203,
@@ -622,7 +622,7 @@
     {
       "CCTVID": "C000061",
       "LinkID": "6274480500000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000061",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000061",
       "LocationType": 1,
       "PositionLon": 121.50791,
       "PositionLat": 24.98646,
@@ -636,7 +636,7 @@
     {
       "CCTVID": "C000046",
       "LinkID": "6251010200000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000046",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000046",
       "LocationType": 1,
       "PositionLon": 121.62155,
       "PositionLat": 25.05493,
@@ -650,7 +650,7 @@
     {
       "CCTVID": "C000166",
       "LinkID": "6270290700070F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000166",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000166",
       "LocationType": 2,
       "PositionLon": 121.49141,
       "PositionLat": 25.08917,
@@ -664,7 +664,7 @@
     {
       "CCTVID": "C000048",
       "LinkID": "6251010600040F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000048",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000048",
       "LocationType": 2,
       "PositionLon": 121.63328,
       "PositionLat": 25.05696,
@@ -678,7 +678,7 @@
     {
       "CCTVID": "C000289",
       "LinkID": "6255450200010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000289",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000289",
       "LocationType": 1,
       "PositionLon": 121.36603,
       "PositionLat": 24.93565,
@@ -692,7 +692,7 @@
     {
       "CCTVID": "C000168",
       "LinkID": "6253880200000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000168",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000168",
       "LocationType": 2,
       "PositionLon": 121.44037,
       "PositionLat": 25.08218,
@@ -706,7 +706,7 @@
     {
       "CCTVID": "C000047",
       "LinkID": "6251010200000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000047",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000047",
       "LocationType": 2,
       "PositionLon": 121.63084,
       "PositionLat": 25.05495,
@@ -720,7 +720,7 @@
     {
       "CCTVID": "C000163",
       "LinkID": "6270560000020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000163",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000163",
       "LocationType": 2,
       "PositionLon": 121.4431,
       "PositionLat": 25.05755,
@@ -734,7 +734,7 @@
     {
       "CCTVID": "C000041",
       "LinkID": "6275300000060F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000041",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000041",
       "LocationType": 1,
       "PositionLon": 121.51675,
       "PositionLat": 24.97943,
@@ -748,7 +748,7 @@
     {
       "CCTVID": "C000165",
       "LinkID": "6256750300020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000165",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000165",
       "LocationType": 2,
       "PositionLon": 121.49791,
       "PositionLat": 25.06228,
@@ -762,7 +762,7 @@
     {
       "CCTVID": "C000286",
       "LinkID": "6251240000000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000286",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000286",
       "LocationType": 2,
       "PositionLon": 121.36592,
       "PositionLat": 24.91004,
@@ -776,7 +776,7 @@
     {
       "CCTVID": "C000043",
       "LinkID": "6256340400050F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000043",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000043",
       "LocationType": 2,
       "PositionLon": 121.53906,
       "PositionLat": 24.96196,
@@ -790,7 +790,7 @@
     {
       "CCTVID": "C000170",
       "LinkID": "6269040600020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000170",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000170",
       "LocationType": 2,
       "PositionLon": 121.35776,
       "PositionLat": 24.93988,
@@ -804,7 +804,7 @@
     {
       "CCTVID": "C000291",
       "LinkID": "6272480000000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000291",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000291",
       "LocationType": 2,
       "PositionLon": 121.46316,
       "PositionLat": 25.00939,
@@ -818,7 +818,7 @@
     {
       "CCTVID": "C000051",
       "LinkID": "6251020500020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000051",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000051",
       "LocationType": 1,
       "PositionLon": 121.65611,
       "PositionLat": 25.06681,
@@ -832,7 +832,7 @@
     {
       "CCTVID": "C000155",
       "LinkID": "6256380400010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000155",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000155",
       "LocationType": 2,
       "PositionLon": 121.54094,
       "PositionLat": 24.98471,
@@ -846,7 +846,7 @@
     {
       "CCTVID": "C000192",
       "LinkID": "6267370700010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000192",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000192",
       "LocationType": 2,
       "PositionLon": 121.39273,
       "PositionLat": 25.15037,
@@ -860,7 +860,7 @@
     {
       "CCTVID": "C000071",
       "LinkID": "6256510400000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000071",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000071",
       "LocationType": 1,
       "PositionLon": 121.46836,
       "PositionLat": 25.07639,
@@ -874,7 +874,7 @@
     {
       "CCTVID": "C000070",
       "LinkID": "6266320400010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000070",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000070",
       "LocationType": 1,
       "PositionLon": 121.48676,
       "PositionLat": 25.06133,
@@ -888,7 +888,7 @@
     {
       "CCTVID": "C000194",
       "LinkID": "6266230300000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000194",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000194",
       "LocationType": 1,
       "PositionLon": 121.48931,
       "PositionLat": 25.05841,
@@ -902,7 +902,7 @@
     {
       "CCTVID": "C000073",
       "LinkID": "6251970100070F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000073",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000073",
       "LocationType": 1,
       "PositionLon": 121.47609,
       "PositionLat": 25.08168,
@@ -916,7 +916,7 @@
     {
       "CCTVID": "C000193",
       "LinkID": "6253580400000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000193",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000193",
       "LocationType": 2,
       "PositionLon": 121.3976,
       "PositionLat": 25.14405,
@@ -930,7 +930,7 @@
     {
       "CCTVID": "C000072",
       "LinkID": "6251970100080F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000072",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000072",
       "LocationType": 1,
       "PositionLon": 121.47969,
       "PositionLat": 25.08068,
@@ -944,7 +944,7 @@
     {
       "CCTVID": "C000178",
       "LinkID": "6255480600020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000178",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000178",
       "LocationType": 2,
       "PositionLon": 121.43882,
       "PositionLat": 25.17293,
@@ -958,7 +958,7 @@
     {
       "CCTVID": "C000057",
       "LinkID": "6272770600010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000057",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000057",
       "LocationType": 1,
       "PositionLon": 121.5169,
       "PositionLat": 25.00738,
@@ -972,7 +972,7 @@
     {
       "CCTVID": "C000056",
       "LinkID": "6257960400030F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000056",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000056",
       "LocationType": 1,
       "PositionLon": 121.51453,
       "PositionLat": 25.01033,
@@ -986,7 +986,7 @@
     {
       "CCTVID": "C000179",
       "LinkID": "6267970000000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000179",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000179",
       "LocationType": 2,
       "PositionLon": 121.44621,
       "PositionLat": 25.1976,
@@ -1000,7 +1000,7 @@
     {
       "CCTVID": "C000058",
       "LinkID": "6252810000020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000058",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000058",
       "LocationType": 1,
       "PositionLon": 121.51717,
       "PositionLat": 25.00417,
@@ -1014,7 +1014,7 @@
     {
       "CCTVID": "C000174",
       "LinkID": "6252740300000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000174",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000174",
       "LocationType": 1,
       "PositionLon": 121.4505,
       "PositionLat": 25.1648,
@@ -1028,7 +1028,7 @@
     {
       "CCTVID": "C000295",
       "LinkID": "6262790100030F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000295",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000295",
       "LocationType": 1,
       "PositionLon": 121.83303,
       "PositionLat": 25.11172,
@@ -1042,7 +1042,7 @@
     {
       "CCTVID": "C000294",
       "LinkID": "6274400100040F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000294",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000294",
       "LocationType": 1,
       "PositionLon": 121.46787,
       "PositionLat": 25.0162,
@@ -1056,7 +1056,7 @@
     {
       "CCTVID": "C000052",
       "LinkID": "6255520500020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000052",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000052",
       "LocationType": 2,
       "PositionLon": 121.47217,
       "PositionLat": 25.02979,
@@ -1070,7 +1070,7 @@
     {
       "CCTVID": "C000176",
       "LinkID": "6252160700030F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000176",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000176",
       "LocationType": 2,
       "PositionLon": 121.44456,
       "PositionLat": 25.16912,
@@ -1084,7 +1084,7 @@
     {
       "CCTVID": "C000292",
       "LinkID": "6252360600020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000292",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000292",
       "LocationType": 2,
       "PositionLon": 121.47556,
       "PositionLat": 25.00585,
@@ -1098,7 +1098,7 @@
     {
       "CCTVID": "C000145",
       "LinkID": "6251050400000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000145",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000145",
       "LocationType": 4,
       "PositionLon": 121.43272,
       "PositionLat": 24.96639,
@@ -1112,7 +1112,7 @@
     {
       "CCTVID": "C000064",
       "LinkID": "6252800300160F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000064",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000064",
       "LocationType": 3,
       "PositionLon": 121.50009,
       "PositionLat": 24.9935,
@@ -1126,7 +1126,7 @@
     {
       "CCTVID": "C000199",
       "LinkID": "6270470000100F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000199",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000199",
       "LocationType": 4,
       "PositionLon": 121.43803,
       "PositionLat": 25.06555,
@@ -1140,7 +1140,7 @@
     {
       "CCTVID": "C000196",
       "LinkID": "6252050200000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000196",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000196",
       "LocationType": 4,
       "PositionLon": 121.44669,
       "PositionLat": 25.05948,
@@ -1154,7 +1154,7 @@
     {
       "CCTVID": "C000195",
       "LinkID": "6270540200020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000195",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000195",
       "LocationType": 4,
       "PositionLon": 121.46465,
       "PositionLat": 25.06121,
@@ -1168,7 +1168,7 @@
     {
       "CCTVID": "C000074",
       "LinkID": "6275120000000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000074",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000074",
       "LocationType": 1,
       "PositionLon": 121.50288,
       "PositionLat": 25.07439,
@@ -1182,7 +1182,7 @@
     {
       "CCTVID": "C000077",
       "LinkID": "6275480100010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000077",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000077",
       "LocationType": 1,
       "PositionLon": 121.39725,
       "PositionLat": 25.15402,
@@ -1210,7 +1210,7 @@
     {
       "CCTVID": "C000084",
       "LinkID": "6275200700110F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000084",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000084",
       "LocationType": 1,
       "PositionLon": 121.48709,
       "PositionLat": 25.01589,
@@ -1224,7 +1224,7 @@
     {
       "CCTVID": "C000083",
       "LinkID": "6275200700070F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000083",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000083",
       "LocationType": 2,
       "PositionLon": 121.48437,
       "PositionLat": 25.02592,
@@ -1238,7 +1238,7 @@
     {
       "CCTVID": "C000080",
       "LinkID": "6275260500130F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000080",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000080",
       "LocationType": 1,
       "PositionLon": 121.48887,
       "PositionLat": 25.04785,
@@ -1252,7 +1252,7 @@
     {
       "CCTVID": "C000189",
       "LinkID": "6251020100030F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000189",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000189",
       "LocationType": 1,
       "PositionLon": 121.65691,
       "PositionLat": 25.06709,
@@ -1266,7 +1266,7 @@
     {
       "CCTVID": "C000068",
       "LinkID": "6266330500010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000068",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000068",
       "LocationType": 1,
       "PositionLon": 121.49056,
       "PositionLat": 25.06865,
@@ -1280,7 +1280,7 @@
     {
       "CCTVID": "C000188",
       "LinkID": "6265560600020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000188",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000188",
       "LocationType": 1,
       "PositionLon": 121.43869,
       "PositionLat": 24.97525,
@@ -1294,7 +1294,7 @@
     {
       "CCTVID": "C000067",
       "LinkID": "6266360200020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000067",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000067",
       "LocationType": 2,
       "PositionLon": 121.50255,
       "PositionLat": 25.06393,
@@ -1308,7 +1308,7 @@
     {
       "CCTVID": "C000069",
       "LinkID": "6252770400010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000069",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000069",
       "LocationType": 2,
       "PositionLon": 121.49338,
       "PositionLat": 25.05581,
@@ -1322,7 +1322,7 @@
     {
       "CCTVID": "C000185",
       "LinkID": "6255340500020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000185",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000185",
       "LocationType": 2,
       "PositionLon": 121.36231,
       "PositionLat": 25.06999,
@@ -1336,7 +1336,7 @@
     {
       "CCTVID": "C000184",
       "LinkID": "6255300500010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000184",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000184",
       "LocationType": 2,
       "PositionLon": 121.36575,
       "PositionLat": 25.06906,
@@ -1350,7 +1350,7 @@
     {
       "CCTVID": "C000037",
       "LinkID": "6252300100060F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000037",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000037",
       "LocationType": 1,
       "PositionLon": 121.48617,
       "PositionLat": 25.02255,
@@ -1364,7 +1364,7 @@
     {
       "CCTVID": "C000060",
       "LinkID": "6252800300150F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000060",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000060",
       "LocationType": 3,
       "PositionLon": 121.49828,
       "PositionLat": 24.99355,
@@ -1378,7 +1378,7 @@
     {
       "CCTVID": "C000169",
       "LinkID": "6255380100010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000169",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000169",
       "LocationType": 2,
       "PositionLon": 121.35543,
       "PositionLat": 25.06605,
@@ -1392,7 +1392,7 @@
     {
       "CCTVID": "C000290",
       "LinkID": "6274412100040F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000290",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000290",
       "LocationType": 1,
       "PositionLon": 121.47857,
       "PositionLat": 25.02389,
@@ -1406,7 +1406,7 @@
     {
       "CCTVID": "C000277",
       "LinkID": "6251010600060F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000277",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000277",
       "LocationType": 1,
       "PositionLon": 121.64235,
       "PositionLat": 25.06104,
@@ -1440,7 +1440,7 @@
     {
       "CCTVID": "C000280",
       "LinkID": "6251020500080F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000280",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000280",
       "LocationType": 2,
       "PositionLon": 121.66526,
       "PositionLat": 25.07322,
@@ -1454,7 +1454,7 @@
     {
       "CCTVID": "C000282",
       "LinkID": "6251030600060F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000282",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000282",
       "LocationType": 2,
       "PositionLon": 121.68059,
       "PositionLat": 25.07117,
@@ -1468,7 +1468,7 @@
     {
       "CCTVID": "C000266",
       "LinkID": "6255340100010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000266",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000266",
       "LocationType": 2,
       "PositionLon": 121.36122,
       "PositionLat": 25.0656,
@@ -1482,7 +1482,7 @@
     {
       "CCTVID": "C000024",
       "LinkID": "6256450600020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000024",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000024",
       "LocationType": 1,
       "PositionLon": 121.45003,
       "PositionLat": 24.99351,
@@ -1496,7 +1496,7 @@
     {
       "CCTVID": "C000265",
       "LinkID": "6265490700000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000265",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000265",
       "LocationType": 2,
       "PositionLon": 121.35703,
       "PositionLat": 25.07659,
@@ -1510,7 +1510,7 @@
     {
       "CCTVID": "C000144",
       "LinkID": "6252800700120F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000144",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000144",
       "LocationType": 2,
       "PositionLon": 121.49053,
       "PositionLat": 24.9943,
@@ -1524,7 +1524,7 @@
     {
       "CCTVID": "C000147",
       "LinkID": "6269072600020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000147",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000147",
       "LocationType": 2,
       "PositionLon": 121.53374,
       "PositionLat": 24.98802,
@@ -1538,7 +1538,7 @@
     {
       "CCTVID": "C000026",
       "LinkID": "6267820200000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000026",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000026",
       "LocationType": 2,
       "PositionLon": 121.48666,
       "PositionLat": 25.05646,
@@ -1552,7 +1552,7 @@
     {
       "CCTVID": "C000268",
       "LinkID": "6268260000010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000268",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000268",
       "LocationType": 1,
       "PositionLon": 121.47215,
       "PositionLat": 25.06205,
@@ -1566,7 +1566,7 @@
     {
       "CCTVID": "C000146",
       "LinkID": "6253560000010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000146",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000146",
       "LocationType": 2,
       "PositionLon": 121.43813,
       "PositionLat": 24.96851,
@@ -1580,7 +1580,7 @@
     {
       "CCTVID": "C000267",
       "LinkID": "6267070500010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000267",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000267",
       "LocationType": 2,
       "PositionLon": 121.3967,
       "PositionLat": 25.07816,
@@ -1594,7 +1594,7 @@
     {
       "CCTVID": "C000262",
       "LinkID": "6270470000140F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000262",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000262",
       "LocationType": 2,
       "PositionLon": 121.4385,
       "PositionLat": 25.07855,
@@ -1608,7 +1608,7 @@
     {
       "CCTVID": "C000261",
       "LinkID": "6270470400040F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000261",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000261",
       "LocationType": 2,
       "PositionLon": 121.4371,
       "PositionLat": 25.07408,
@@ -1622,7 +1622,7 @@
     {
       "CCTVID": "C000143",
       "LinkID": "6252290600020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000143",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000143",
       "LocationType": 2,
       "PositionLon": 121.48795,
       "PositionLat": 25.00481,
@@ -1636,7 +1636,7 @@
     {
       "CCTVID": "C000022",
       "LinkID": "6252300500040F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000022",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000022",
       "LocationType": 2,
       "PositionLon": 121.47925,
       "PositionLat": 25.01877,
@@ -1650,7 +1650,7 @@
     {
       "CCTVID": "C000021",
       "LinkID": "6256990700010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000021",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000021",
       "LocationType": 1,
       "PositionLon": 121.47719,
       "PositionLat": 25.01192,
@@ -1664,7 +1664,7 @@
     {
       "CCTVID": "C000028",
       "LinkID": "6252800700130F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000028",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000028",
       "LocationType": 1,
       "PositionLon": 121.49036,
       "PositionLat": 24.9942,
@@ -1678,7 +1678,7 @@
     {
       "CCTVID": "C000027",
       "LinkID": "6252880100010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000027",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000027",
       "LocationType": 5,
       "PositionLon": 121.46053,
       "PositionLat": 25.03908,
@@ -1706,7 +1706,7 @@
     {
       "CCTVID": "C000150",
       "LinkID": "6256360000000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000150",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000150",
       "LocationType": 2,
       "PositionLon": 121.54298,
       "PositionLat": 24.97351,
@@ -1720,7 +1720,7 @@
     {
       "CCTVID": "C000013",
       "LinkID": "6274400100040F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000013",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000013",
       "LocationType": 2,
       "PositionLon": 121.46911,
       "PositionLat": 25.01722,
@@ -1734,7 +1734,7 @@
     {
       "CCTVID": "C000031",
       "LinkID": "6269150700000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000031",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000031",
       "LocationType": 1,
       "PositionLon": 121.49541,
       "PositionLat": 25.00782,
@@ -1748,7 +1748,7 @@
     {
       "CCTVID": "C000030",
       "LinkID": "6252800300040F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000030",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000030",
       "LocationType": 1,
       "PositionLon": 121.48511,
       "PositionLat": 24.99633,
@@ -1762,7 +1762,7 @@
     {
       "CCTVID": "C000153",
       "LinkID": "6259530600115F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000153",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000153",
       "LocationType": 1,
       "PositionLon": 121.5306,
       "PositionLat": 24.96108,
@@ -1776,7 +1776,7 @@
     {
       "CCTVID": "C000040",
       "LinkID": "6252800300060F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000040",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000040",
       "LocationType": 1,
       "PositionLon": 121.48512,
       "PositionLat": 24.99603,
@@ -1790,7 +1790,7 @@
     {
       "CCTVID": "C000281",
       "LinkID": "6251030200040F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000281",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000281",
       "LocationType": 2,
       "PositionLon": 121.6738,
       "PositionLat": 25.07547,
@@ -1804,7 +1804,7 @@
     {
       "CCTVID": "C000023",
       "LinkID": "6271250700000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000023",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000023",
       "LocationType": 1,
       "PositionLon": 121.4561,
       "PositionLat": 25.03059,
@@ -1818,7 +1818,7 @@
     {
       "CCTVID": "C000025",
       "LinkID": "6252250100040F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000025",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000025",
       "LocationType": 1,
       "PositionLon": 121.466,
       "PositionLat": 25.01202,
@@ -1838,7 +1838,7 @@
     {
       "CCTVID": "C000141",
       "LinkID": "6253100200000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000141",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000141",
       "LocationType": 2,
       "PositionLon": 121.49952,
       "PositionLat": 25.00265,
@@ -1852,7 +1852,7 @@
     {
       "CCTVID": "C000020",
       "LinkID": "6252300500010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000020",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000020",
       "LocationType": 1,
       "PositionLon": 121.47348,
       "PositionLat": 25.01571,
@@ -1866,7 +1866,7 @@
     {
       "CCTVID": "C000140",
       "LinkID": "6252360200020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000140",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000140",
       "LocationType": 2,
       "PositionLon": 121.47241,
       "PositionLat": 25.00652,
@@ -1880,7 +1880,7 @@
     {
       "CCTVID": "C000264",
       "LinkID": "6255260500020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000264",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000264",
       "LocationType": 2,
       "PositionLon": 121.3712,
       "PositionLat": 25.06961,
@@ -1894,7 +1894,7 @@
     {
       "CCTVID": "C000263",
       "LinkID": "6254750600040F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000263",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000263",
       "LocationType": 2,
       "PositionLon": 121.37757,
       "PositionLat": 25.07448,
@@ -1908,7 +1908,7 @@
     {
       "CCTVID": "C000142",
       "LinkID": "6261740300000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000142",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000142",
       "LocationType": 2,
       "PositionLon": 121.50814,
       "PositionLat": 24.99961,
@@ -1922,7 +1922,7 @@
     {
       "CCTVID": "C000149",
       "LinkID": "6253870400050F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000149",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000149",
       "LocationType": 2,
       "PositionLon": 121.54739,
       "PositionLat": 24.97186,
@@ -1936,7 +1936,7 @@
     {
       "CCTVID": "C000148",
       "LinkID": "6253890300000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000148",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000148",
       "LocationType": 2,
       "PositionLon": 121.54202,
       "PositionLat": 24.98675,
@@ -1950,7 +1950,7 @@
     {
       "CCTVID": "C000029",
       "LinkID": "6252290200000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000029",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000029",
       "LocationType": 2,
       "PositionLon": 121.48406,
       "PositionLat": 25.0051,
@@ -1964,7 +1964,7 @@
     {
       "CCTVID": "C000271",
       "LinkID": "6253250100000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000271",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000271",
       "LocationType": 1,
       "PositionLon": 121.45739,
       "PositionLat": 25.08153,
@@ -1997,7 +1997,7 @@
     {
       "CCTVID": "C000033",
       "LinkID": "6276010500040F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000033",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000033",
       "LocationType": 1,
       "PositionLon": 121.55161,
       "PositionLat": 24.97898,
@@ -2011,7 +2011,7 @@
     {
       "CCTVID": "C000154",
       "LinkID": "6271280400000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000154",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000154",
       "LocationType": 2,
       "PositionLon": 121.54754,
       "PositionLat": 24.95205,
@@ -2025,7 +2025,7 @@
     {
       "CCTVID": "C000270",
       "LinkID": "6274300600020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000270",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000270",
       "LocationType": 2,
       "PositionLon": 121.49335,
       "PositionLat": 25.00609,
@@ -2039,7 +2039,7 @@
     {
       "CCTVID": "C000255",
       "LinkID": "6275410400040F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000255",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000255",
       "LocationType": 2,
       "PositionLon": 121.43551,
       "PositionLat": 25.0018,
@@ -2053,7 +2053,7 @@
     {
       "CCTVID": "C000254",
       "LinkID": "6255520100000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000254",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000254",
       "LocationType": 4,
       "PositionLon": 121.48147,
       "PositionLat": 25.03585,
@@ -2067,7 +2067,7 @@
     {
       "CCTVID": "C000133",
       "LinkID": "6275600700000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000133",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000133",
       "LocationType": 2,
       "PositionLon": 121.47838,
       "PositionLat": 25.02402,
@@ -2081,7 +2081,7 @@
     {
       "CCTVID": "C000012",
       "LinkID": "6272580300020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000012",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000012",
       "LocationType": 1,
       "PositionLon": 121.46866,
       "PositionLat": 25.01328,
@@ -2101,7 +2101,7 @@
     {
       "CCTVID": "C000136",
       "LinkID": "6263160500000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000136",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000136",
       "LocationType": 1,
       "PositionLon": 121.52728,
       "PositionLat": 25.00597,
@@ -2115,7 +2115,7 @@
     {
       "CCTVID": "C000257",
       "LinkID": "6266400500010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000257",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000257",
       "LocationType": 1,
       "PositionLon": 121.47969,
       "PositionLat": 25.04956,
@@ -2129,7 +2129,7 @@
     {
       "CCTVID": "C000256",
       "LinkID": "6270530600030F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000256",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000256",
       "LocationType": 1,
       "PositionLon": 121.48676,
       "PositionLat": 25.06148,
@@ -2143,7 +2143,7 @@
     {
       "CCTVID": "C000134",
       "LinkID": "6257960400000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000134",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000134",
       "LocationType": 1,
       "PositionLon": 121.51548,
       "PositionLat": 25.0185,
@@ -2157,7 +2157,7 @@
     {
       "CCTVID": "C000014",
       "LinkID": "6274400100010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000014",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000014",
       "LocationType": 2,
       "PositionLon": 121.46463,
       "PositionLat": 25.01389,
@@ -2171,7 +2171,7 @@
     {
       "CCTVID": "C000015",
       "LinkID": "6257630700030F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000015",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000015",
       "LocationType": 2,
       "PositionLon": 121.46183,
       "PositionLat": 25.01133,
@@ -2185,7 +2185,7 @@
     {
       "CCTVID": "C000135",
       "LinkID": "6258140700000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000135",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000135",
       "LocationType": 1,
       "PositionLon": 121.52527,
       "PositionLat": 25.00912,
@@ -2199,7 +2199,7 @@
     {
       "CCTVID": "C000130",
       "LinkID": "6253890300050F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000130",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000130",
       "LocationType": 1,
       "PositionLon": 121.5454,
       "PositionLat": 24.97838,
@@ -2213,7 +2213,7 @@
     {
       "CCTVID": "C000251",
       "LinkID": "6271810300020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000251",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000251",
       "LocationType": 1,
       "PositionLon": 121.42884,
       "PositionLat": 24.98072,
@@ -2227,7 +2227,7 @@
     {
       "CCTVID": "C000131",
       "LinkID": "6266980600000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000131",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000131",
       "LocationType": 6,
       "PositionLon": 121.43524,
       "PositionLat": 24.99542,
@@ -2261,7 +2261,7 @@
     {
       "CCTVID": "C000250",
       "LinkID": "6257800300000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000250",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000250",
       "LocationType": 1,
       "PositionLon": 121.45507,
       "PositionLat": 25.08147,
@@ -2275,7 +2275,7 @@
     {
       "CCTVID": "C000011",
       "LinkID": "6252650500030F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000011",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000011",
       "LocationType": 1,
       "PositionLon": 121.43298,
       "PositionLat": 24.96524,
@@ -2289,7 +2289,7 @@
     {
       "CCTVID": "C000132",
       "LinkID": "6256990700010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000132",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000132",
       "LocationType": 1,
       "PositionLon": 121.47872,
       "PositionLat": 25.01134,
@@ -2303,7 +2303,7 @@
     {
       "CCTVID": "C000253",
       "LinkID": "6252880500130F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000253",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000253",
       "LocationType": 1,
       "PositionLon": 121.43363,
       "PositionLat": 25.03244,
@@ -2331,7 +2331,7 @@
     {
       "CCTVID": "C000017",
       "LinkID": "6255500000080F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000017",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000017",
       "LocationType": 4,
       "PositionLon": 121.35273,
       "PositionLat": 24.94579,
@@ -2345,7 +2345,7 @@
     {
       "CCTVID": "C000259",
       "LinkID": "6265690400020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000259",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000259",
       "LocationType": 1,
       "PositionLon": 121.43493,
       "PositionLat": 25.02719,
@@ -2359,7 +2359,7 @@
     {
       "CCTVID": "C000138",
       "LinkID": "6260140700010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000138",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000138",
       "LocationType": 1,
       "PositionLon": 121.52078,
       "PositionLat": 25.0078,
@@ -2373,7 +2373,7 @@
     {
       "CCTVID": "C000258",
       "LinkID": "6266810300030F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000258",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000258",
       "LocationType": 1,
       "PositionLon": 121.42005,
       "PositionLat": 25.06487,
@@ -2387,7 +2387,7 @@
     {
       "CCTVID": "C000137",
       "LinkID": "6263160100040F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000137",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000137",
       "LocationType": 1,
       "PositionLon": 121.52282,
       "PositionLat": 25.00341,
@@ -2401,7 +2401,7 @@
     {
       "CCTVID": "C000016",
       "LinkID": "6252950500000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000016",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000016",
       "LocationType": 2,
       "PositionLon": 121.3763,
       "PositionLat": 24.93139,
@@ -2415,7 +2415,7 @@
     {
       "CCTVID": "C000018",
       "LinkID": "6269040200030F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000018",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000018",
       "LocationType": 1,
       "PositionLon": 121.36143,
       "PositionLat": 24.93858,
@@ -2429,7 +2429,7 @@
     {
       "CCTVID": "C000139",
       "LinkID": "6269150700220F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000139",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000139",
       "LocationType": 4,
       "PositionLon": 121.5272,
       "PositionLat": 24.99014,
@@ -2443,7 +2443,7 @@
     {
       "CCTVID": "C000002",
       "LinkID": "6257010300030F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000002",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000002",
       "LocationType": 1,
       "PositionLon": 121.46794,
       "PositionLat": 25.02261,
@@ -2457,7 +2457,7 @@
     {
       "CCTVID": "C000244",
       "LinkID": "6251910500010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000244",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000244",
       "LocationType": 2,
       "PositionLon": 121.6367,
       "PositionLat": 25.0625,
@@ -2471,7 +2471,7 @@
     {
       "CCTVID": "C000243",
       "LinkID": "6270620200030F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000243",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000243",
       "LocationType": 2,
       "PositionLon": 121.64019,
       "PositionLat": 25.05645,
@@ -2485,7 +2485,7 @@
     {
       "CCTVID": "C000122",
       "LinkID": "6258830000000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000122",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000122",
       "LocationType": 1,
       "PositionLon": 121.51669,
       "PositionLat": 25.01777,
@@ -2499,7 +2499,7 @@
     {
       "CCTVID": "C000246",
       "LinkID": "6275300600010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000246",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000246",
       "LocationType": 1,
       "PositionLon": 121.53715,
       "PositionLat": 24.96133,
@@ -2513,7 +2513,7 @@
     {
       "CCTVID": "C000004",
       "LinkID": "6266340100010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000004",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000004",
       "LocationType": 1,
       "PositionLon": 121.49411,
       "PositionLat": 25.07259,
@@ -2527,7 +2527,7 @@
     {
       "CCTVID": "C000125",
       "LinkID": "6258140700000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000125",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000125",
       "LocationType": 1,
       "PositionLon": 121.52406,
       "PositionLat": 25.01048,
@@ -2541,7 +2541,7 @@
     {
       "CCTVID": "C000003",
       "LinkID": "6274410500020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000003",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000003",
       "LocationType": 1,
       "PositionLon": 121.47099,
       "PositionLat": 25.01888,
@@ -2555,7 +2555,7 @@
     {
       "CCTVID": "C000124",
       "LinkID": "6258140700000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000124",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000124",
       "LocationType": 2,
       "PositionLon": 121.52409,
       "PositionLat": 25.0105,
@@ -2589,7 +2589,7 @@
     {
       "CCTVID": "C000240",
       "LinkID": "6258230300000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000240",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000240",
       "LocationType": 2,
       "PositionLon": 121.67429,
       "PositionLat": 25.20137,
@@ -2603,7 +2603,7 @@
     {
       "CCTVID": "C000242",
       "LinkID": "6272650000020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000242",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000242",
       "LocationType": 2,
       "PositionLon": 121.68323,
       "PositionLat": 25.18758,
@@ -2617,7 +2617,7 @@
     {
       "CCTVID": "C000121",
       "LinkID": "6253020600010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000121",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000121",
       "LocationType": 6,
       "PositionLon": 121.51266,
       "PositionLat": 25.01806,
@@ -2631,7 +2631,7 @@
     {
       "CCTVID": "C000241",
       "LinkID": "6272650000110F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000241",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000241",
       "LocationType": 1,
       "PositionLon": 121.6877,
       "PositionLat": 25.1756,
@@ -2645,7 +2645,7 @@
     {
       "CCTVID": "C000260",
       "LinkID": "6264500200000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000260",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000260",
       "LocationType": 1,
       "PositionLon": 121.57882,
       "PositionLat": 24.84967,
@@ -2659,7 +2659,7 @@
     {
       "CCTVID": "C000006",
       "LinkID": "6262320300000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000006",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000006",
       "LocationType": 4,
       "PositionLon": 121.49627,
       "PositionLat": 25.05437,
@@ -2673,7 +2673,7 @@
     {
       "CCTVID": "C000245",
       "LinkID": "6251010200020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000245",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000245",
       "LocationType": 2,
       "PositionLon": 121.63756,
       "PositionLat": 25.05883,
@@ -2701,7 +2701,7 @@
     {
       "CCTVID": "C000005",
       "LinkID": "6256410100000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000005",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000005",
       "LocationType": 4,
       "PositionLon": 121.50607,
       "PositionLat": 25.06361,
@@ -2715,7 +2715,7 @@
     {
       "CCTVID": "C000247",
       "LinkID": "6269150700190F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000247",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000247",
       "LocationType": 2,
       "PositionLon": 121.52577,
       "PositionLat": 24.99033,
@@ -2743,7 +2743,7 @@
     {
       "CCTVID": "C000129",
       "LinkID": "6253890700050F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000129",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000129",
       "LocationType": 1,
       "PositionLon": 121.5449,
       "PositionLat": 24.97905,
@@ -2757,7 +2757,7 @@
     {
       "CCTVID": "C000300",
       "LinkID": "6252880100040F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000300",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000300",
       "LocationType": 2,
       "PositionLon": 121.45369,
       "PositionLat": 25.03647,
@@ -2771,7 +2771,7 @@
     {
       "CCTVID": "C000007",
       "LinkID": "4010400000260F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000007",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000007",
       "LocationType": 4,
       "PositionLon": 121.494,
       "PositionLat": 25.04797,
@@ -2785,7 +2785,7 @@
     {
       "CCTVID": "C000249",
       "LinkID": "6266290100000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000249",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000249",
       "LocationType": 1,
       "PositionLon": 121.49922,
       "PositionLat": 25.08453,
@@ -2799,7 +2799,7 @@
     {
       "CCTVID": "C000112",
       "LinkID": "6270540200000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000112",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000112",
       "LocationType": 1,
       "PositionLon": 121.45995,
       "PositionLat": 25.06047,
@@ -2813,7 +2813,7 @@
     {
       "CCTVID": "C000233",
       "LinkID": "6261070200010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000233",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000233",
       "LocationType": 1,
       "PositionLon": 121.84285,
       "PositionLat": 25.1096,
@@ -2827,7 +2827,7 @@
     {
       "CCTVID": "C000111",
       "LinkID": "6262320300000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000111",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000111",
       "LocationType": 1,
       "PositionLon": 121.49663,
       "PositionLat": 25.0543,
@@ -2841,7 +2841,7 @@
     {
       "CCTVID": "C000232",
       "LinkID": "6261070200020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000232",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000232",
       "LocationType": 1,
       "PositionLon": 121.84514,
       "PositionLat": 25.10995,
@@ -2855,7 +2855,7 @@
     {
       "CCTVID": "C000117",
       "LinkID": "6265040300000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000117",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000117",
       "LocationType": 1,
       "PositionLon": 121.50272,
       "PositionLat": 25.01158,
@@ -2869,7 +2869,7 @@
     {
       "CCTVID": "C000235",
       "LinkID": "6274530700010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000235",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000235",
       "LocationType": 1,
       "PositionLon": 121.93325,
       "PositionLat": 25.019,
@@ -2883,7 +2883,7 @@
     {
       "CCTVID": "C000114",
       "LinkID": "6270460300010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000114",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000114",
       "LocationType": 2,
       "PositionLon": 121.43908,
       "PositionLat": 25.06353,
@@ -2897,7 +2897,7 @@
     {
       "CCTVID": "C000113",
       "LinkID": "6270570100030F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000113",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000113",
       "LocationType": 1,
       "PositionLon": 121.43476,
       "PositionLat": 25.04697,
@@ -2911,7 +2911,7 @@
     {
       "CCTVID": "C000234",
       "LinkID": "6261430100000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000234",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000234",
       "LocationType": 1,
       "PositionLon": 121.38745,
       "PositionLat": 24.95206,
@@ -2925,7 +2925,7 @@
     {
       "CCTVID": "C000231",
       "LinkID": "6252170700000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000231",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000231",
       "LocationType": 1,
       "PositionLon": 121.79647,
       "PositionLat": 25.11002,
@@ -2939,7 +2939,7 @@
     {
       "CCTVID": "C000110",
       "LinkID": "6253570400000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000110",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000110",
       "LocationType": 2,
       "PositionLon": 121.45256,
       "PositionLat": 25.04918,
@@ -2953,7 +2953,7 @@
     {
       "CCTVID": "C000230",
       "LinkID": "6250370600050F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000230",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000230",
       "LocationType": 1,
       "PositionLon": 121.80933,
       "PositionLat": 25.10745,
@@ -2967,7 +2967,7 @@
     {
       "CCTVID": "C000119",
       "LinkID": "6264920000010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000119",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000119",
       "LocationType": 4,
       "PositionLon": 121.50521,
       "PositionLat": 25.01354,
@@ -2981,7 +2981,7 @@
     {
       "CCTVID": "C000116",
       "LinkID": "6274390000010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000116",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000116",
       "LocationType": 2,
       "PositionLon": 121.45295,
       "PositionLat": 25.00372,
@@ -2995,7 +2995,7 @@
     {
       "CCTVID": "C000237",
       "LinkID": "6275320700020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000237",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000237",
       "LocationType": 1,
       "PositionLon": 121.63183,
       "PositionLat": 25.22131,
@@ -3009,7 +3009,7 @@
     {
       "CCTVID": "C000115",
       "LinkID": "6263200400090F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000115",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000115",
       "LocationType": 1,
       "PositionLon": 121.45168,
       "PositionLat": 25.00088,
@@ -3023,7 +3023,7 @@
     {
       "CCTVID": "C000236",
       "LinkID": "6252150700090F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000236",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000236",
       "LocationType": 2,
       "PositionLon": 121.64168,
       "PositionLat": 25.2174,
@@ -3037,7 +3037,7 @@
     {
       "CCTVID": "C000239",
       "LinkID": "6272650000030F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000239",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000239",
       "LocationType": 2,
       "PositionLon": 121.68828,
       "PositionLat": 25.18229,
@@ -3051,7 +3051,7 @@
     {
       "CCTVID": "C000118",
       "LinkID": "6257710300000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000118",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000118",
       "LocationType": 1,
       "PositionLon": 121.50519,
       "PositionLat": 25.01347,
@@ -3065,7 +3065,7 @@
     {
       "CCTVID": "C000238",
       "LinkID": "6276090700010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000238",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000238",
       "LocationType": 1,
       "PositionLon": 121.33047,
       "PositionLat": 24.96808,
@@ -3079,7 +3079,7 @@
     {
       "CCTVID": "C000222",
       "LinkID": "6260710000010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000222",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000222",
       "LocationType": 1,
       "PositionLon": 121.34027,
       "PositionLat": 24.95819,
@@ -3093,7 +3093,7 @@
     {
       "CCTVID": "C000221",
       "LinkID": "6259710500010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000221",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000221",
       "LocationType": 1,
       "PositionLon": 121.35232,
       "PositionLat": 24.95065,
@@ -3107,7 +3107,7 @@
     {
       "CCTVID": "C000100",
       "LinkID": "6263200000080F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000100",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000100",
       "LocationType": 1,
       "PositionLon": 121.45206,
       "PositionLat": 25.00083,
@@ -3121,7 +3121,7 @@
     {
       "CCTVID": "C000224",
       "LinkID": "6273020500000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000224",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000224",
       "LocationType": 1,
       "PositionLon": 121.33083,
       "PositionLat": 24.96756,
@@ -3135,7 +3135,7 @@
     {
       "CCTVID": "C000103",
       "LinkID": "6253940400030F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000103",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000103",
       "LocationType": 4,
       "PositionLon": 121.44236,
       "PositionLat": 25.04618,
@@ -3149,7 +3149,7 @@
     {
       "CCTVID": "C000229",
       "LinkID": "6266710100010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000229",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000229",
       "LocationType": 1,
       "PositionLon": 121.79322,
       "PositionLat": 25.11058,
@@ -3163,7 +3163,7 @@
     {
       "CCTVID": "C000223",
       "LinkID": "6270310000000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000223",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000223",
       "LocationType": 1,
       "PositionLon": 121.54078,
       "PositionLat": 24.98679,
@@ -3177,7 +3177,7 @@
     {
       "CCTVID": "C000102",
       "LinkID": "6253940000010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000102",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000102",
       "LocationType": 1,
       "PositionLon": 121.44233,
       "PositionLat": 25.05435,
@@ -3191,7 +3191,7 @@
     {
       "CCTVID": "C000220",
       "LinkID": "6261430100000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000220",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000220",
       "LocationType": 2,
       "PositionLon": 121.38692,
       "PositionLat": 24.95127,
@@ -3205,7 +3205,7 @@
     {
       "CCTVID": "C000109",
       "LinkID": "6253570000000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000109",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000109",
       "LocationType": 1,
       "PositionLon": 121.452,
       "PositionLat": 25.0545,
@@ -3219,7 +3219,7 @@
     {
       "CCTVID": "C000108",
       "LinkID": "6252880100050F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000108",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000108",
       "LocationType": 2,
       "PositionLon": 121.44891,
       "PositionLat": 25.03535,
@@ -3233,7 +3233,7 @@
     {
       "CCTVID": "C000226",
       "LinkID": "6271930200000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000226",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000226",
       "LocationType": 2,
       "PositionLon": 121.82209,
       "PositionLat": 25.12097,
@@ -3247,7 +3247,7 @@
     {
       "CCTVID": "C000105",
       "LinkID": "6252880100070F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000105",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000105",
       "LocationType": 2,
       "PositionLon": 121.44192,
       "PositionLat": 25.03414,
@@ -3261,7 +3261,7 @@
     {
       "CCTVID": "C000225",
       "LinkID": "6265760700000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000225",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000225",
       "LocationType": 1,
       "PositionLon": 121.80691,
       "PositionLat": 25.1335,
@@ -3275,7 +3275,7 @@
     {
       "CCTVID": "C000104",
       "LinkID": "6253940400030F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000104",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000104",
       "LocationType": 1,
       "PositionLon": 121.44231,
       "PositionLat": 25.04914,
@@ -3289,7 +3289,7 @@
     {
       "CCTVID": "C000107",
       "LinkID": "6270560100000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000107",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000107",
       "LocationType": 1,
       "PositionLon": 121.43856,
       "PositionLat": 25.05235,
@@ -3303,7 +3303,7 @@
     {
       "CCTVID": "C000106",
       "LinkID": "6270570100000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000106",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000106",
       "LocationType": 2,
       "PositionLon": 121.42953,
       "PositionLat": 25.04016,
@@ -3317,7 +3317,7 @@
     {
       "CCTVID": "C000227",
       "LinkID": "6265750300030F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000227",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000227",
       "LocationType": 2,
       "PositionLon": 121.81948,
       "PositionLat": 25.12263,
@@ -3331,7 +3331,7 @@
     {
       "CCTVID": "C000211",
       "LinkID": "6270470000100F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000211",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000211",
       "LocationType": 2,
       "PositionLon": 121.4393,
       "PositionLat": 25.06371,
@@ -3345,7 +3345,7 @@
     {
       "CCTVID": "C000210",
       "LinkID": "6274390100000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000210",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000210",
       "LocationType": 2,
       "PositionLon": 121.45487,
       "PositionLat": 25.004,
@@ -3359,7 +3359,7 @@
     {
       "CCTVID": "C000213",
       "LinkID": "6267940600000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000213",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000213",
       "LocationType": 2,
       "PositionLon": 121.49806,
       "PositionLat": 25.25976,
@@ -3373,7 +3373,7 @@
     {
       "CCTVID": "C000212",
       "LinkID": "6270460300030F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000212",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000212",
       "LocationType": 2,
       "PositionLon": 121.44149,
       "PositionLat": 25.05943,
@@ -3387,7 +3387,7 @@
     {
       "CCTVID": "C000219",
       "LinkID": "6265980400010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000219",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000219",
       "LocationType": 2,
       "PositionLon": 121.40465,
       "PositionLat": 24.96929,
@@ -3401,7 +3401,7 @@
     {
       "CCTVID": "C000218",
       "LinkID": "6265980000010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000218",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000218",
       "LocationType": 2,
       "PositionLon": 121.40599,
       "PositionLat": 24.96197,
@@ -3415,7 +3415,7 @@
     {
       "CCTVID": "C000215",
       "LinkID": "6257010300020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000215",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000215",
       "LocationType": 1,
       "PositionLon": 121.46552,
       "PositionLat": 25.02717,
@@ -3429,7 +3429,7 @@
     {
       "CCTVID": "C000217",
       "LinkID": "6252310500080F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000217",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000217",
       "LocationType": 2,
       "PositionLon": 121.41047,
       "PositionLat": 24.98075,
@@ -3443,7 +3443,7 @@
     {
       "CCTVID": "C000216",
       "LinkID": "6274920700020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000216",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000216",
       "LocationType": 2,
       "PositionLon": 121.39022,
       "PositionLat": 24.93502,
@@ -3457,7 +3457,7 @@
     {
       "CCTVID": "C000200",
       "LinkID": "6252030600010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000200",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000200",
       "LocationType": 4,
       "PositionLon": 121.47961,
       "PositionLat": 25.06149,
@@ -3471,7 +3471,7 @@
     {
       "CCTVID": "C000202",
       "LinkID": "6259760200000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000202",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000202",
       "LocationType": 2,
       "PositionLon": 121.48734,
       "PositionLat": 25.05165,
@@ -3485,7 +3485,7 @@
     {
       "CCTVID": "C000201",
       "LinkID": "6266370600000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000201",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000201",
       "LocationType": 2,
       "PositionLon": 121.49703,
       "PositionLat": 25.06186,
@@ -3499,7 +3499,7 @@
     {
       "CCTVID": "C000208",
       "LinkID": "6274680600050F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000208",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000208",
       "LocationType": 1,
       "PositionLon": 121.45792,
       "PositionLat": 25.00692,
@@ -3513,7 +3513,7 @@
     {
       "CCTVID": "C000207",
       "LinkID": "6265950400090F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000207",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000207",
       "LocationType": 1,
       "PositionLon": 121.46001,
       "PositionLat": 25.03988,
@@ -3527,7 +3527,7 @@
     {
       "CCTVID": "C000209",
       "LinkID": "6252250100010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000209",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000209",
       "LocationType": 1,
       "PositionLon": 121.46028,
       "PositionLat": 25.00839,
@@ -3541,7 +3541,7 @@
     {
       "CCTVID": "C000204",
       "LinkID": "6267410000010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000204",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000204",
       "LocationType": 1,
       "PositionLon": 121.71258,
       "PositionLat": 24.93647,
@@ -3555,7 +3555,7 @@
     {
       "CCTVID": "C000203",
       "LinkID": "6266390500030F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000203",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000203",
       "LocationType": 2,
       "PositionLon": 121.48627,
       "PositionLat": 25.05513,
@@ -3569,7 +3569,7 @@
     {
       "CCTVID": "C000206",
       "LinkID": "6275200700040F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000206",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000206",
       "LocationType": 2,
       "PositionLon": 121.47799,
       "PositionLat": 25.03794,
@@ -3583,7 +3583,7 @@
     {
       "CCTVID": "C000205",
       "LinkID": "6267410000010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000205",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000205",
       "LocationType": 1,
       "PositionLon": 121.71255,
       "PositionLat": 24.94176,
@@ -3737,7 +3737,7 @@
     {
       "CCTVID": "C000301",
       "LinkID": "6270540600000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000301",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000301",
       "LocationType": 2,
       "PositionLon": 121.46002,
       "PositionLat": 25.06058,
@@ -3751,7 +3751,7 @@
     {
       "CCTVID": "C000303",
       "LinkID": "6252880100080F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000303",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000303",
       "LocationType": 2,
       "PositionLon": 121.44119,
       "PositionLat": 25.03345,
@@ -3771,7 +3771,7 @@
     {
       "CCTVID": "C000302",
       "LinkID": "6268890000020F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000302",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000302",
       "LocationType": 2,
       "PositionLon": 121.42394,
       "PositionLat": 24.9871,
@@ -3785,7 +3785,7 @@
     {
       "CCTVID": "C000097",
       "LinkID": "2001100100440F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000097",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000097",
       "LocationType": 1,
       "PositionLon": 121.48197,
       "PositionLat": 25.04715,
@@ -3799,7 +3799,7 @@
     {
       "CCTVID": "C000096",
       "LinkID": "2001100100410F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000096",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000096",
       "LocationType": 1,
       "PositionLon": 121.48332,
       "PositionLat": 25.04712,
@@ -3813,7 +3813,7 @@
     {
       "CCTVID": "C000099",
       "LinkID": "6261380100010F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000099",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000099",
       "LocationType": 4,
       "PositionLon": 121.4371,
       "PositionLat": 24.97542,
@@ -3827,7 +3827,7 @@
     {
       "CCTVID": "C000098",
       "LinkID": "6269500100040F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000098",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000098",
       "LocationType": 4,
       "PositionLon": 121.48097,
       "PositionLat": 25.04743,
@@ -3841,7 +3841,7 @@
     {
       "CCTVID": "C000089",
       "LinkID": "6275200300110F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000089",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000089",
       "LocationType": 4,
       "PositionLon": 121.48152,
       "PositionLat": 25.03724,
@@ -3855,7 +3855,7 @@
     {
       "CCTVID": "C000086",
       "LinkID": "6275260100120F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000086",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000086",
       "LocationType": 4,
       "PositionLon": 121.49056,
       "PositionLat": 25.04934,
@@ -3869,7 +3869,7 @@
     {
       "CCTVID": "C000085",
       "LinkID": "6262320300000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000085",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000085",
       "LocationType": 4,
       "PositionLon": 121.49634,
       "PositionLat": 25.05417,
@@ -3883,7 +3883,7 @@
     {
       "CCTVID": "C000088",
       "LinkID": "6275200300120F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000088",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000088",
       "LocationType": 4,
       "PositionLon": 121.48132,
       "PositionLat": 25.03661,
@@ -3897,7 +3897,7 @@
     {
       "CCTVID": "C000087",
       "LinkID": "6275260100080F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000087",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000087",
       "LocationType": 2,
       "PositionLon": 121.5032,
       "PositionLat": 25.06152,
@@ -3911,7 +3911,7 @@
     {
       "CCTVID": "C000092",
       "LinkID": "6262230600000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000092",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000092",
       "LocationType": 1,
       "PositionLon": 121.41124,
       "PositionLat": 25.16505,
@@ -3925,7 +3925,7 @@
     {
       "CCTVID": "C000095",
       "LinkID": "2001101006000F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000095",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000095",
       "LocationType": 1,
       "PositionLon": 121.48197,
       "PositionLat": 25.04715,
@@ -3939,7 +3939,7 @@
     {
       "CCTVID": "C000094",
       "LinkID": "6275260100120F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000094",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000094",
       "LocationType": 4,
       "PositionLon": 121.48705,
       "PositionLat": 25.047,
@@ -3953,7 +3953,7 @@
     {
       "CCTVID": "C000091",
       "LinkID": "6275200300170F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000091",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000091",
       "LocationType": 4,
       "PositionLon": 121.48583,
       "PositionLat": 25.021,
@@ -3967,7 +3967,7 @@
     {
       "CCTVID": "C000093",
       "LinkID": "6275260100120F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000093",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000093",
       "LocationType": 1,
       "PositionLon": 121.48722,
       "PositionLat": 25.04693,
@@ -3981,7 +3981,7 @@
     {
       "CCTVID": "C000090",
       "LinkID": "6275200300170F",
-      "VideoStreamURL": "http://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000090",
+      "VideoStreamURL": "https://atis.ntpc.gov.tw/ATIS/ShowFrame4CCTV/C000090",
       "LocationType": 4,
       "PositionLon": 121.48588,
       "PositionLat": 25.02136,
