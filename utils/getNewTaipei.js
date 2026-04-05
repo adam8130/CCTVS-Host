@@ -1,8 +1,8 @@
 const https = require('https')
 
 
-const getSourceURL = (queryDeviceURL, res) => (
-  new Promise((resolve, reject) => {
+const getSourceURL = (queryDeviceURL, res) => {
+  return new Promise((resolve, reject) => {
     const request = https.get(queryDeviceURL, (response) => {
       let data = ''
       response.on('data', (chunk) => data += chunk)
@@ -10,7 +10,7 @@ const getSourceURL = (queryDeviceURL, res) => (
       response.on('end', () => {
         const responseData = JSON.parse(data)
         if (responseData.data?.url) {
-          resolve(responseData.data.url.replace('/flv', ''))
+          resolve(responseData.data.url)
         }
         else {
           res.end(null)
@@ -23,7 +23,7 @@ const getSourceURL = (queryDeviceURL, res) => (
       request.end()
     })
   })
-)
+}
 
 const getSourceVideo = (sourceURL, res) => {
   const request = https.get(sourceURL, (response) => {
