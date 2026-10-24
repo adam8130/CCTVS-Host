@@ -1,29 +1,29 @@
 const https = require('https')
+const knowns = require('../knowns/NewTaipei.json')
 
-
-const getSourceURL = (queryDeviceURL, res) => {
-  return new Promise((resolve, reject) => {
-    const request = https.get(queryDeviceURL, (response) => {
-      let data = ''
-      response.on('data', (chunk) => data += chunk)
-      response.on('err', (err) => reject(err))
-      response.on('end', () => {
-        const responseData = JSON.parse(data)
-        if (responseData.data?.url) {
-          resolve(responseData.data.url)
-        }
-        else {
-          res.end(null)
-          reject(new Error('url not found'))
-        }
-      })
-    })
-    request.on('err', (err) => {
-      console.log(err)
-      request.end()
-    })
-  })
-}
+// const getSourceURL = (queryDeviceURL, res) => {
+//   return new Promise((resolve, reject) => {
+//     const request = https.get(queryDeviceURL, (response) => {
+//       let data = ''
+//       response.on('data', (chunk) => data += chunk)
+//       response.on('err', (err) => reject(err))
+//       response.on('end', () => {
+//         const responseData = JSON.parse(data)
+//         if (responseData.data?.url) {
+//           resolve(responseData.data.url)
+//         }
+//         else {
+//           res.end(null)
+//           reject(new Error('url not found'))
+//         }
+//       })
+//     })
+//     request.on('err', (err) => {
+//       console.log(err)
+//       request.end()
+//     })
+//   })
+// }
 
 const getSourceVideo = (sourceURL, res) => {
   const request = https.get(sourceURL, (response) => {
@@ -45,9 +45,13 @@ const getSourceVideo = (sourceURL, res) => {
 async function getNewTaipei (targetURL, res) {
   let proxyRequest = null
   const cctvDevice = targetURL.split('/').pop()
-  const queryDeviceURL = 'https://apiatis.ntpc.gov.tw/atis-api/device/queryCCTVURL/' + cctvDevice
+
+  // for some reason, the query url is unavailable
+  // const queryDeviceURL = 'https://apiatis.ntpc.gov.tw/atis-api/device/queryCCTVURL/' + cctvDevice
+
   try {
-    const sourceURL = await getSourceURL(queryDeviceURL, res)
+    // const sourceURL = await getSourceURL(queryDeviceURL, res)
+    const sourceURL = knowns.find((item) => item.deviceId === cctvDevice)?.url
     proxyRequest = getSourceVideo(sourceURL, res)
   } catch (err) {
     console.log(err)
